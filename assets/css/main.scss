@@ -16,5 +16,14 @@ $type-size-7 : 0.625em;  // ~10px
 $type-size-8 : 0.625em;  // ~10px
 
 
+.page__content {
+  p,
+  li,
+  dl {
+    font-size: $type-size-4;
+  }
+}
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
