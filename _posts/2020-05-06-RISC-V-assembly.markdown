@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: RISC-VアセンブリでLチカする
 date: 2020-05-06 22:03:26 +09:00
 categories: Embedded RISC-V Assembly
