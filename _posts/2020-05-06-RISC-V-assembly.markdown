@@ -59,7 +59,7 @@ https://github.com/naotaco/hello-riscv-asm
 
 あとzeroレジスタがあるのは便利でいいですね。性能のことはわからんが逆アセンブルしたあとの可読性のうえでも便利な気がする。コンパイラが使ってくれるのかは知らんが……。
 
-```asm
+```
 .equ GPIO_BASE, 0x10012000
 .equ GPIO_OFFSET_VALUE,     0x00
 .equ GPIO_OFFSET_INPUT_EN,  0x04
