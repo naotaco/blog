@@ -45,7 +45,7 @@ google:
 twitter:
   username: "naotaco"
 
-og_image: /assets/images/site-logo.png
+og_image: /assets/images/naotaco.png
 
 social:
   type: Person
@@ -60,7 +60,7 @@ analytics:
 
 author:
   name: "Nao Taco"
-  avatar: "/assets/images/site-logo.png"
+  avatar: "/assets/images/naotaco.png"
   bio: "組み込み屋"
   location: "日本"
   links:
