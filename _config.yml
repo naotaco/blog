@@ -31,10 +31,26 @@ github_username:  jekyll
 # theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 
+breadcrumbs: true
+
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+google:
+  search_engine_id: 000296326656564113471:xfctje3nz3p
+
+twitter:
+  username: "naotaco"
+
+og_image: /assets/images/site-logo.png
+
+social:
+  type: Person
+  name: Nao Taco
+  links:
+    - "https://twitter.com/naotaco"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
