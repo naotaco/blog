@@ -37,6 +37,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 google:
   search_engine_id: 000296326656564113471:xfctje3nz3p
@@ -51,6 +52,30 @@ social:
   name: Nao Taco
   links:
     - "https://twitter.com/naotaco"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-17571325-4"
+
+author:
+  name: "Nao Taco"
+  avatar: "/assets/images/site-logo.png"
+  bio: "組み込み屋"
+  location: "日本"
+  links:
+    - label: "Twitter"
+    - url: https://twitter.com/naotaco"
+
+timezone: Asia/Tokyo
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+  tag_archive:
+  type: liquid
+  path: /tags/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
