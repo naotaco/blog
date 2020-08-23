@@ -8,6 +8,10 @@ tags: covid-19
 
 Covid-19の第二波というようなやつが来て、ピークを越えたのではないかと希望的な観測が広がってきたお盆明けです。これは[5月に書いたやつ](./2020-05-16-life-with-covid-19.markdown)の続きです。
 
+[Link to a post]({% link _posts/2020-05-16-life-with-covid-19.markdown %})
+
+
+
 (書いてるとこ)
 
 
