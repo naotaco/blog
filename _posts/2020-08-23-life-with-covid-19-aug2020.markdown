@@ -37,7 +37,9 @@ Covid-19の第二波というようなやつが来て、ピークを越えたの
 
 運動不足が顕著なので、自転車を買って走り始めた。週に数回、2, 30km走って食料品の買い出しをして帰ってくるというルーティンができつつあり、健康上のメリットを感じる。これはこれで別エントリを書きたいと思っている。以前は友人や同僚とバドミントンをしていたが、完全に途絶えてしまった。一人でかつ屋外でできる運動として自転車を買ったが、みんなが同じようなことを世界中で考えているらしく品薄気味らしい。
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My new gear... <a href="https://t.co/rP2TE7Tn8L">pic.twitter.com/rP2TE7Tn8L</a></p>&mdash; 生産性がない (@naotaco) <a href="https://twitter.com/naotaco/status/1279341824914583552?ref_src=twsrc%5Etfw">July 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My new gear... <a href="https://t.co/rP2TE7Tn8L">pic.twitter.com/rP2TE7Tn8L</a></p>&mdash; 生産性がない (@naotaco) <a href="https://twitter.com/naotaco/status/1279341824914583552?ref_src=twsrc%5Etfw">July 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+想像の通り[国会議員は対面してのお仕事に一生懸命](https://work-life-b.co.jp/20200803_6872.html)らしく、暗澹たる気持ちになる。議員の行動は地元の有権者ウケに最適化されているのだろうしどうしようもないのだろう。全国でしっかりと教育をしましょう。
 
 ## 2020年8月
 
