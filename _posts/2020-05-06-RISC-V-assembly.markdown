@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: RISC-VアセンブリでLチカする
 date: 2020-05-06 22:03:26 +09:00
 categories: programming
