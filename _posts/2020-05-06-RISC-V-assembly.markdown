@@ -2,7 +2,8 @@
 layout: single
 title: RISC-VアセンブリでLチカする
 date: 2020-05-06 22:03:26 +09:00
-categories: Embedded RISC-V Assembly
+categories: programming
+tags: RISC-V Embedded Assembly
 header:
   image: /assets/images/posts/2020/hifive1.jpg
 ---

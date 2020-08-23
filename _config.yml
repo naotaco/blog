@@ -31,7 +31,8 @@ github_username:  jekyll
 # theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 
-breadcrumbs: true
+# breadcrumbs: true
+# permalink: /:year-:month-:day-:title:output_ext
 
 markdown: kramdown
 plugins:
