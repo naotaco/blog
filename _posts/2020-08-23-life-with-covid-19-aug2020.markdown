@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: COVID-19下の生活について＠2020/08/23
 date: 2020-08-23 12:18:00 +09:00
 categories: diary
