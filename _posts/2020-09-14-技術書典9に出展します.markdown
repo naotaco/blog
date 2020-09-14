@@ -10,7 +10,7 @@ tags: 同人誌 肉と鍋 技術書典 Rust RaspberryPi
 
 出展内容はこちら: [https://techbookfest.org/organization/5750943224168448](https://techbookfest.org/organization/5750943224168448)
 
-![表紙](/assets/images/posts/2020/rust-cover.png =300x)
+![表紙](/assets/images/posts/2020/rust-cover.png)
 
 ## 出すもの
 
