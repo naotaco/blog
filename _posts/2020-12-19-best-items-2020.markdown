@@ -2,7 +2,8 @@
 layout: single
 title: 2020年買ってよかったもの
 date: 2020-12-31 12:31:05 +09:00
-categories: none
+categories: diary
+tags: よかった
 ---
 
 
