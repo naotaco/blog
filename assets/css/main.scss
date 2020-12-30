@@ -25,5 +25,11 @@ $type-size-8 : 0.625em;  // ~10px
   dl {
     font-size: $type-size-4
   }
+
+  p > img{
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
+  }
 }
 
