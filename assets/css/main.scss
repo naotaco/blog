@@ -33,3 +33,9 @@ $type-size-8 : 0.625em;  // ~10px
   }
 }
 
+.page__hero-image {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: block;
+}
+
