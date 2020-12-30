@@ -132,8 +132,8 @@ RISC-Vのアセンブリを書いて動かせる環境が準備できた。こ�
 
 ## 参考
 
-* https://github.com/dwelch67/sifive_samples/tree/master/hifive1b/blinker01
-* http://mickey-happygolucky.hatenablog.com/entry/2019/11/05/165524
+* <https://github.com/dwelch67/sifive_samples/tree/master/hifive1b/blinker01>
+* <http://mickey-happygolucky.hatenablog.com/entry/2019/11/05/165524>
 
 
 
