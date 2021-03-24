@@ -1,0 +1,151 @@
+---
+layout: single
+title: "レビュー: Microsoft Lumia 950"
+date: "2015-12-13"
+categories: 
+  - "何か"
+  - "買った"
+tags: 
+  - "lumia930"
+  - "lumia950"
+  - "windows10"
+  - "windows10-mobile"
+---
+
+Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文していたLumia 950がイギリスから届きました。2，3回Cloveからの発送が延期されたりなんだりしましたが、12/12に到着。記事執筆段階では950のレビュー記事がギズモードのゴミしかみつからない状況はひどすぎるので、書いておきます。
+
+既に950XLはAmazonに出てるようだが、950はまだ出てない様子。
+
+\[amazon template=wishlist&asin=B018VFZ7XK\]
+
+### 開封の儀
+
+まず箱がでかい。2015年末の端末とは思えない。
+
+\[caption id="attachment\_987" align="aligncenter" width="400"\][![左がLumia950, 右が930の箱](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01420-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01420.jpg) 左がLumia950, 右が930の箱\[/caption\]
+
+あけるとケーブル固定式のチャージャーと、USB-A to USB-CなUSB3.0?っぽいケーブルが入っている。
+
+\[caption id="attachment\_986" align="aligncenter" width="400"\][![箱が大きいのも納得](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01421-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01421.jpg) 箱が大きいのも納得\[/caption\]
+
+\[caption id="attachment\_1033" align="aligncenter" width="400"\][![いつものイギリス向けの](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01423-1-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01423-1.jpg) いつものイギリス向けの\[/caption\]
+
+アダプタとPC接続用のケーブルを別々に入れてくれるなんて親切だな。Nexus 5XにはUSB-C to USB-Cのケーブルとチャージャーしかついてこなかった。まだUSB-Cケーブルは1本1000円くらいするのでもらえると助かる。アダプタの電圧は100-240Vなので、アダプタさえあれば日本でも使える。Cloveはくれなかったが、我が家には[1shopmobileがくれた変換アダプタ](https://blog.naotaco.com/assets/images/posts/2014/07/DSC09279.jpg)がたくさんあるので問題は無い。
+
+### 本体
+
+\[caption id="attachment\_1032" align="aligncenter" width="400"\][![左から950, 930, 920](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01427-1-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01427-1.jpg) 左から950, 930, 920\[/caption\]
+
+\[caption id="attachment\_1031" align="aligncenter" width="400"\][![DSC01429](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01429-1-400x97.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01429-1.jpg) 同じく\[/caption\]
+
+920, 930, 950と順番に少しずつ大きくなっていることがわかる。そのペースで人間の手が大きくなるとでも思っているのだろうか？？まあ薄くなることは薄くなっているのだが……。大きさ、重さ、質感、もろもろNexus 5Xと相当近い。ポケットに入れているとどっちがどっちかわからないと思う。重さは順調に軽くなっていて、5インチくらいの端末としては常識的な感じがする。
+
+他方質感は順当に劣化していて、930と比べてしまうとだいぶ安っぽいのは否めない。やはり取り外しできる裏蓋もネックなのだろうか。930の金属っぽいフレームや高精度に仕上げられたSIMスロットはすばらしかったし、マット仕上げの白い裏面も黒ずんだりすることはなかった\[ref\]もはや記事と全く関係の無い愚痴だがNexus 5Xは1ヶ月くらいで黒ずんできているし酷い\[/ref\]。N5Xと同じ大きさ・重さのまま着脱式バッテリ・裏蓋、さらにQiでの充電を実現するための苦労が偲ばれるところだが、さすがに7万円以上する端末としては文句の一つも言いたくなるところではある。サードパーティのカーボン調裏蓋でも探して交換したいところ。
+
+バッテリは着脱式で、外すとnano SIMとmicro SDを入れることができる。バッテリにはTYPICAL 3000mAhの文字が。これはまさか製造ばらつきの存在をみとめて標準容量を記載しているのか……？なかなか見ない書き方だな。
+
+\[caption id="attachment\_1030" align="aligncenter" width="400"\][![PureView　ZEISS](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01431-1-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01431-1.jpg) PureView　ZEISS\[/caption\]
+
+カメラは920，930とは違って飛び出している。930と比べるとモジュールが小さくなるわけがない(f/2.4 -> f/1.9, センサは1/2.5インチ->1/2.4インチ, 焦点距離は変わらず26mm\[ref\]さすがにこれは35mm焦点距離換算だと思うので、センササイズが大きくなると実際の焦点距離も若干長くなっているはずだ\[/ref\])のに本体が薄くなってしまったからしょうがないのだろうが不格好だ。まあアイフォーン6よりはいいか。LEDも930の2個から3個に増えていて、実際に試してみると色が白く明るく照射範囲が広くなりムラが少なくなっている。よくみると3つともLEDの色が微妙に異なるので、複数の特性のLEDを同時に使って色をうまく補正しているのかもしれない。画質については後でレビューする。
+
+追記:実際にLEDが点灯しているところをまぶしさに耐えながら見ていると、微妙に青/赤/黄色っぽい3色のLEDであることがわかる。すげえなこれ。フルカラーLEDみたいに制御して色味の調整とかもしてたらもっとすごいが、そこまでしてるとは思えないか。
+
+### おまけ
+
+なんのおまけか異常にださいバンパー?がついてきた。
+
+[![DSC01410](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01410-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01410.jpg)どうしろというのか。
+
+### Windows 10 mobile
+
+930でInsider previewを長いこと使っていたので感動が全くない。出荷時は古めのビルド番号だったが、すぐに10586.29が降ってきた。いまのInsider preview(Fast ring)と同じビルドなのでこれが最新だと思うのだが、細かいところの動きが怪しかったりする。Settingsで項目をタップしてから200msくらい固まるような気がする…。あとHey Cortanaはどこにいったんだ。Previewと思えば(本当にPreviewとは言っていない)どうということはないが、出荷時のレベルとしては大丈夫なのかこれは。同じビルドだが930の方が安定しているような気がする。とはいえ他の同時期に発売されたW10M端末も問題を抱えているようなので、950だけの問題じゃないだろうと信じている。Cortanaを有効にするためにはLanguage, Region, Speech languageを一致させる(English(US) or Japanese)に揃える必要があるとのこと。
+
+Desktop版と同じように、画面表示の大きさを変更することができる。5インチFHDの930では300%, 950では400%がデフォルトでrecommendedとなっているが、どちらでも1段階細かくして表示している。Start画面のタイルも1列増やせる(さすがにそこまではしないが)し、文字も小さくなるしで良い。もちろんWindowsなので、変更後は再起動が必要。
+
+### Windows Hello (Beta)
+
+個人的に950で一番予想外に良かったのはこれ。Lock Screenの設定からPINに加えてWindows helloのIrisが選べる。虹彩認証とか未来感がたまりませんね。
+
+\[caption id="attachment\_992" align="aligncenter" width="400"\][![Windows Hello動作中](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01433-1-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01433-1.jpg) Windows Hello動作中\[/caption\]
+
+設定から有効にすると目を何度か撮影してくれる。で、画面オフ状態から電源ボタンを押すと勝手に虹彩認証を開始する。見づらいのだが実機では割とはっきり右上の赤色LEDが光っていて、これで虹彩を照らしているっぽい。なるほど、930で使えないわけだ。電源ボタンを押す手間はたしかにあるのだが、PINを入力するよりはすばやく認証完了してくれる。セキュリティのためか、一度認証に失敗するとPINを入力するかいったん画面をオフにする必要がある。また何度か連続で失敗するとPINを強制される。このあたりはAndroidの指紋と同じような感じか。特に電車内でPINを入れる必要がなくなるのでセキュリティ的なメリットは大きそうだが、他人の目でどのくらい認証失敗するのかは謎である。欲を言うと常時カメラの電源を入れておいたりとか、携帯を手に取ったときに認証を開始して欲しいところである。
+
+### 画面
+
+5.2 インチ WQHD (2560 x 1440) の画面はすごい。すごいとは思うのだが、そもそも別に目がよくないので5インチFull HDで十分画素が見えない私にとってはどうでもよい進化という感じはする。まあ写真を表示して目を近づけても画素がまったく見えないのですごいとは思う。UI表示を350%で使っているもんだからか知らんが、Mapsで出てくる地図がやたら粗い。もっと本気出してレンダリングしてほしい。
+
+### カメラ
+
+相変わらずカメラはすばらしい。画像サイズの選択肢が930ではJPEG 19MP, JPEG 5MP, JPEG5MP + DNG 19MPの3択だったのだが、950ではこの5MPが8MPに置き換わっている。まあどうでもいいが、なんで差があるのだろうか。デバイスに依存した処理の閾値かなにかがあるのだろうか。DNGはAdobeなどが提唱しているオープンなRAWの形式だがカメラメーカーはどこも対応していない。Photoshop\[ref\]Camera RAW経由\[/ref\]/Lightroomで開くことができる。とりあえず、前回同様に19MPのJpegで比較していくことにする。またテストをしていて気付いたのだが、Lumia 930@WP8.1ではISO4000まで選べたのだが、930も950もW10Mでは3200までしか選ぶことが出来ない。また最低感度はLumia930がISO64なのに対して950は50だ。シャッタースピードは1/16000秒から4秒まで選べる。やるじゃん。
+
+ということで、930と950でISOと明るさを変えて撮ったのがこちら。順番は、(明るいところ ISO50/64, 100, 200, 400, 800, 1600, 3200, 暗いところ ISO1600, 3200)の9枚ずつ。
+
+Lumia930:
+
+\[caption id="attachment\_1019" align="aligncenter" width="400"\][![ISO64](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_18_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_18_Pro_LI-1.jpg) ISO64\[/caption\]
+
+\[caption id="attachment\_1013" align="aligncenter" width="400"\][![ISO100](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_21_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_21_Pro_LI-1.jpg) ISO100\[/caption\]
+
+\[caption id="attachment\_1014" align="aligncenter" width="400"\][![ISO200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_24_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_24_Pro_LI-1.jpg) ISO200\[/caption\]
+
+\[caption id="attachment\_1015" align="aligncenter" width="400"\][![ISO400](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_28_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_28_Pro_LI-1.jpg) ISO400\[/caption\]
+
+\[caption id="attachment\_1016" align="aligncenter" width="400"\][![ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_32_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_32_Pro_LI-1.jpg) ISO800\[/caption\]
+
+\[caption id="attachment\_1017" align="aligncenter" width="400"\][![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_37_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_37_Pro_LI-1.jpg) ISO1600\[/caption\]
+
+\[caption id="attachment\_1018" align="aligncenter" width="400"\][![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_44_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_44_Pro_LI-1.jpg) ISO3200\[/caption\]
+
+\[caption id="attachment\_1021" align="aligncenter" width="400"\][![ISO1600(低照度)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_57_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_57_Pro_LI-1.jpg) ISO1600(低照度)\[/caption\]
+
+\[caption id="attachment\_1022" align="aligncenter" width="400"\][![ISO3200(低照度)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_02_08_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_02_08_Pro_LI-1.jpg) ISO3200(低照度)\[/caption\]
+
+Lumia950:
+
+\[caption id="attachment\_1004" align="aligncenter" width="400"\][![ISO50](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_40_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_40_Pro_LI.jpg) ISO50\[/caption\]
+
+\[caption id="attachment\_1005" align="aligncenter" width="400"\][![ISO100](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_44_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_44_Pro_LI.jpg) ISO100\[/caption\]
+
+\[caption id="attachment\_1006" align="aligncenter" width="400"\][![ISO200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_48_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_48_Pro_LI.jpg) ISO200\[/caption\]
+
+\[caption id="attachment\_1007" align="aligncenter" width="400"\][![ISO400](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_51_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_51_Pro_LI.jpg) ISO400\[/caption\]
+
+\[caption id="attachment\_1008" align="aligncenter" width="400"\][![ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_55_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_55_Pro_LI.jpg) ISO800\[/caption\]
+
+\[caption id="attachment\_1009" align="aligncenter" width="400"\][![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_57_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_57_Pro_LI.jpg) ISO1600\[/caption\]
+
+\[caption id="attachment\_1010" align="aligncenter" width="400"\][![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_04_02_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_04_02_Pro_LI.jpg) ISO3200\[/caption\]
+
+\[caption id="attachment\_1011" align="aligncenter" width="400"\][![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_11_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_11_Pro_LI.jpg) ISO1600(低照度)\[/caption\]
+
+\[caption id="attachment\_1012" align="aligncenter" width="400"\][![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_20_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_20_Pro_LI.jpg) ISO3200(低照度)\[/caption\]
+
+長い…
+
+ISO800と1600を比較画像にした。
+
+\[caption id="attachment\_1025" align="aligncenter" width="400"\][![比較@ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO800-400x211.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO800.jpg) 比較@ISO800\[/caption\]
+
+\[caption id="attachment\_1024" align="aligncenter" width="400"\][![比較@ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO1600-400x217.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO1600.jpg) 比較@ISO1600\[/caption\]
+
+感度がどうこうというよりまず950の方がシャープネスとかコントラストとかを上げる方向に味付けしてあるように見える。どっちかというと930の自然な色味の方が好きだが、これは好みの問題か。ただ930に比べると950は画面の色が落ち着いた色合いになっているので、端末の画面で見ると同じようなレベルに見える可能性がある。ちょっとRAWでの比較をする必要がある気がしてきた…
+
+机の何もないあたりを見ると、950の方がノイズを押さえ込んでいる印象。葉っぱの上の文字なんかを見ても950の方がクリアに写っている。改善したとは思うがそこまでの差はないレベルだとは思う。どちらの機種もふつうに使う分にはISO1600くらいに抑えたいところだが、SNSでクソみたいに圧縮された2MPくらいの画像をシェアするならISO3200まで行っても何の問題もないだろう。ISO Autoのときの挙動をみていると、1/5秒くらいまではISO800のまま感度が上がっていく。手ぶれ補正を加味するとこの辺が限界だと思っているらしい。もっと暗くなるとISO1600以上を使ってでも1/4~1/5秒をキープするように見える。
+
+Lumia950はF1.9と明るいので、同じISOのときにシャッター時間が短い(ISO1600のときに1/640と1/800)。実際に薄暗いところで撮るようなときはこのおかげで950の方が1/3段くらい暗いところでも手ぶれせず耐えられるはずだ。
+
+### その他
+
+920にあって930でなくなっていたGlance screenが復活している。これは画面オフ時に暗く単色で時計や予定を表示していてくれるもので、割と便利なのだが（特に寝てるとき）、930ではなくなっていた。画面が有機ELになったから焼き付き防止のためになくなったのだろうと思っていたが、950で復活したのが謎だ。なにか焼き付かないための対策が入っているのだろうか。
+
+Continuumも試したいところだがさすがに実用的な出番があるとは思えないしDockを買う気がちょっと起きない……
+
+同様にQiもあんまりそそられないし台を買う気がおきないな…
+
+#### バッテリ(追記)
+
+驚くほど持たない。朝持って出て会社を出るまで\[ref\]個人差があります\[/ref\]もたないことが多い。Lumia930はW10Mにしても1日余裕で持つので、950で何らかバッテリードレインが起きているだけだろうと思う。たのむはやくアップデートでなんとかしてくれ。
+
+### まとめ
+
+正直に言って、Continuumなどの重い機能を使わない場合はLumia930からの差分で考えると、7万円以上の価値があるかどうかは微妙なところである。とはいえ高い＆MS純正なりに国内の端末に比べると粗が目立たないように見える(レビューを読んでいる限りは)。今後のアップデートとカメラの性能を考えると、今後1-2年戦うためのWindows mobile端末としては現段階でベストの選択肢だとは思う。
