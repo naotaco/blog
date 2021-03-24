@@ -13,7 +13,7 @@ tags:
 
 #### 先代: National Geographic Africa Camera Backpack
 
-[![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002789-200x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002789.jpg)
+[![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002789-200x300.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002789.jpg)
 
 2014年に2万円くらいで買ったもの。下半分がクッション入りになっていてカメラバッグとして使える。当時はNEX-5Rなどかわいらしい装備だったためこれで十二分な容量であった。上半分は通常の荷物を入れられ、背中にはラップトップも入る。使い勝手とサイズ感が非常によく、どこに旅行にいくにもこいつを背負ってでかけていた。いま気付いたが、この名に冠するアフリカにも2度これを背負って行ったことになる。今までありがとう。
 
@@ -41,38 +41,38 @@ VATがかからなくて喜んでいたのもつかの間、関税\[ref\]その�
 
 #### 開封
 
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002794-2-400x600.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002794-2-400x600.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002794-2-400x600.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002794-2-400x600.jpg)
     
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002792-1-400x600.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002792-1-400x600.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002792-1-400x600.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002792-1-400x600.jpg)
     
 
 革と金属部品の質感がかなり上質で大変よろしい。
 
 正面には小さいポケットが一つあるだけシンプルでよろしいが機能性はまあ、うん。 背中と背負うストラップは革製で、けっこう品の良い革が使われていて柔らかく上質な手触りである。写真ではPeakDesignのCapture clipが付いている。
 
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002803-3-400x600.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002803-3-400x600.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002803-3-400x600.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002803-3-400x600.jpg)
     
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002802-5-720x480.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002802-5-720x480.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002802-5-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002802-5-720x480.jpg)
     
 
 側面にはポケットがあり、背中側の面でなく側面に沿う方向に物が入れられる。クッションの外側。あとは三脚ホルダーを装着する部分と三脚を抑えるバンドがある。左右の構造はまったく同じ。
 
 胸のところのベルトは引っかけるタイプの金具になっている（なおタイトできつい）。Blackrapidにもこの手の金具が使われてたなあ。
 
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002806-3-720x480.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002806-3-720x480.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002806-3-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002806-3-720x480.jpg)
     
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002805-3-720x480.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002805-3-720x480.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002805-3-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002805-3-720x480.jpg)
     
 
 上はロールトップになっていて、荷物を追加で入れることができる。前出の全体写真の状態だと最小なので、ほとんど荷物が入っていない（クッション部分の外に荷物がない）状態。丸まってるところを伸ばしたところの口はマグネットで軽く止まる程度になっている。余裕を持って丸めてバンドで止められる程度にしておかないと（スリとかの）不安はあるかもしれない。口を開けたところには小さいポケットがある。
 
 ロールトップを止めるための金具はしっとりとした動きで、両端を押すとロックが外れる。かっこいい……。
 
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002807-1-600x600.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002807-1-600x600.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002807-1-600x600.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002807-1-600x600.jpg)
     
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002811-1-720x480.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002811-1-720x480.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002811-1-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002811-1-720x480.jpg)
     
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002818-1-720x480.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002818-1-720x480.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002818-1-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002818-1-720x480.jpg)
     
 
 中は一般的なマジックテープの仕切りになっている。クッション部分とロールトップ部分の境目は固定されておらず、四辺がマジックテープになっている仕切りが用意されているだけ。個人的にはここは縫ってがっちり作って欲しかった気はする。
@@ -81,18 +81,18 @@ VATがかからなくて喜んでいたのもつかの間、関税\[ref\]その�
 
 フタにはラップトップが入る（公称ではmacbook Pro 15inchまで）。ThinkPad X1 Carbon 6thは余裕を持って納まる。
 
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002815-1-720x480.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002815-1-720x480.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002815-1-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002815-1-720x480.jpg)
     
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002812-2-720x480.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002812-2-720x480.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002812-2-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002812-2-720x480.jpg)
     
 
 ベルトは左右下端のループに金具を引っかける。前の金具はロールトップのものと同じ。左右にクッションがあり、ここが骨に当たるところをカバーしてくれるので非常に快適。不要なときはしまっておける。
 
 #### 比較
 
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002829-1-596x600.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002829-1-596x600.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002829-1-596x600.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002829-1-596x600.jpg)
     
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002824-2-574x600.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002824-2-574x600.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002824-2-574x600.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002824-2-574x600.jpg)
     
 
 大きさの差がすごい。ナショジオのは良くも悪くも柔らかかったし軽かったのだが、compagnonのは形もしっかりしているし革をふんだんに使っていてちょっと重い。後述するが機材もたくさん入るので、入れすぎると死ぬと思う。
@@ -103,9 +103,9 @@ VATがかからなくて喜んでいたのもつかの間、関税\[ref\]その�
 
 #### 運用
 
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002823-1-720x480.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002823-1-720x480.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002823-1-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002823-1-720x480.jpg)
     
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002810-1-720x480.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002810-1-720x480.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002810-1-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002810-1-720x480.jpg)
     
 
 開くのが背中側なので、片方のストラップを肩から外してバッグを体の横に回してくると、ジッパーを半分くら開いて中の物にアクセスできる。以前はこれができなかったのでだいぶ助かる。これをやっている時のイメージが1枚目の写真なのだが、伝わらんな、、、
@@ -114,9 +114,9 @@ VATがかからなくて喜んでいたのもつかの間、関税\[ref\]その�
 
 14mm Art（for E-mount）のようなでかいレンズも立てて入れることができるくらいの深さがあるので、本気を出せば5kg分くらいのレンズが入ると思う（謎の単位）。破綻するような作りはしてないと思うけど、ウェストのベルトがないと無理なのでは。
 
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002830-1-720x480.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002830-1-720x480.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002830-1-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002830-1-720x480.jpg)
     
-- [![](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002831-1-720x480.jpg)](https://blog.naotaco.com/wp-content/uploads/2019/08/N0002831-1-720x480.jpg)
+- [![](https://blog.naotaco.com/assets/images/posts/2019/08/N0002831-1-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/08/N0002831-1-720x480.jpg)
     
 
 深さがあるということは小さいレンズが動いてしまうことを意味する。革製のバンドでこれを防ぐことができるのだが、この革の裏側から細かいカスがたくさん出てくる。他の状況ならまだしもカメラのすぐ横でカスを出すものは使えないので、このバンドはお蔵入りに。適当なベルクロテープを買って使うことにした。

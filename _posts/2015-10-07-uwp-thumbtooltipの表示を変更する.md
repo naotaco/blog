@@ -11,7 +11,7 @@ tags:
 
 UWPでSliderを動かすと、デフォルトでカーソル？の上にラベルのような数値が表示される。
 
-[![slider_1](https://blog.naotaco.com/wp-content/uploads/2015/10/slider_1.png)](https://blog.naotaco.com/wp-content/uploads/2015/10/slider_1.png)
+[![slider_1](https://blog.naotaco.com/assets/images/posts/2015/10/slider_1.png)](https://blog.naotaco.com/assets/images/posts/2015/10/slider_1.png)
 
 だが数値だけ出られても困るような場合というのもある。単位を出したり、そもそも数値と微妙に違うリストからものを選ぶときとか。
 
@@ -25,6 +25,6 @@ https://gist.github.com/naotaco/007e752fd01493b521da
 
  
 
-[![slider_2](https://blog.naotaco.com/wp-content/uploads/2015/10/slider_2.png)](https://blog.naotaco.com/wp-content/uploads/2015/10/slider_2.png)
+[![slider_2](https://blog.naotaco.com/assets/images/posts/2015/10/slider_2.png)](https://blog.naotaco.com/assets/images/posts/2015/10/slider_2.png)
 
 こんなかんじで、値が1のときにbが表示される。

@@ -20,7 +20,7 @@ NASにしてた自宅サーバが死んでしまったので、そのリプレ�
 
 ということで、無事届いた。
 
-\[caption id="attachment\_787" align="aligncenter" width="225"\][![かっこいい](https://blog.naotaco.com/wp-content/uploads/2015/05/WP_20150505_03_00_48_Pro-e1430762899641-225x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/05/WP_20150505_03_00_48_Pro.jpg) かっこいい\[/caption\]
+\[caption id="attachment\_787" align="aligncenter" width="225"\][![かっこいい](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150505_03_00_48_Pro-e1430762899641-225x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150505_03_00_48_Pro.jpg) かっこいい\[/caption\]
 
 デザインはいいかんじである。
 
@@ -89,7 +89,7 @@ sambaのパラメータいじったり、仮想ディスクの種類(lazy/eager 
 
 しょうがないので2.5インチのHDDを1本買ってきて、CDドライブのところにむりやり搭載した。せっかくだしHGSTのにしたかったが在庫が無く、東芝の適当なやつにした。
 
-\[caption id="attachment\_800" align="aligncenter" width="400"\][![カジュアルに搭載された5台目](https://blog.naotaco.com/wp-content/uploads/2015/05/WP_20150503_21_43_33_Pro-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/05/WP_20150503_21_43_33_Pro.jpg) カジュアルに搭載された5台目\[/caption\]
+\[caption id="attachment\_800" align="aligncenter" width="400"\][![カジュアルに搭載された5台目](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150503_21_43_33_Pro-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150503_21_43_33_Pro.jpg) カジュアルに搭載された5台目\[/caption\]
 
 電源のコネクタが4ピンの小さいやつ（FDD用?）しか生えてないので、4ピンペリフェラルへの変換コネクタと、4ピン→SATA電源端子への変換コネクタを2重にかましてHDDにつなぐ。SATAケーブルは生えていなかったが、マザーボードにSATA ODDと記載がある端子が余っているので、そこにつないであげればOK。ちゃんと5台目のHDDとして認識される。が、ここにESXiをインストールしようとしたらインストーラが途中で止まった。追いかける気力もないので諦める。
 
@@ -125,7 +125,7 @@ MicroServer様はマザーボード上のUSBコネクタに挿したUSBメモリ
 
 というわけで、USBメモリにESXiをインストールする。
 
-\[caption id="attachment\_789" align="aligncenter" width="400"\][![見飽きたやつ](https://blog.naotaco.com/wp-content/uploads/2015/05/WP_20150502_001-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/05/WP_20150502_001.jpg) 見飽きたやつ\[/caption\]
+\[caption id="attachment\_789" align="aligncenter" width="400"\][![見飽きたやつ](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150502_001-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150502_001.jpg) 見飽きたやつ\[/caption\]
 
 これはあっさり終わった。
 
@@ -157,6 +157,6 @@ Ubuntuではあっさり見えたので、partedでパーティション作っ�
 
 まあとにかく、4日かけてまともなNASがやっとできた。ねむい。
 
-\[caption id="attachment\_795" align="aligncenter" width="400"\][![いいかんじ](https://blog.naotaco.com/wp-content/uploads/2015/05/b543e03a064aa49c21d6b0e392055d4d-400x300.png)](https://blog.naotaco.com/wp-content/uploads/2015/05/b543e03a064aa49c21d6b0e392055d4d.png) いいかんじ\[/caption\]
+\[caption id="attachment\_795" align="aligncenter" width="400"\][![いいかんじ](https://blog.naotaco.com/assets/images/posts/2015/05/b543e03a064aa49c21d6b0e392055d4d-400x300.png)](https://blog.naotaco.com/assets/images/posts/2015/05/b543e03a064aa49c21d6b0e392055d4d.png) いいかんじ\[/caption\]
 
 ということで、MicroServer Gen8はsambaサーバがメインの用途の場合はおすすめしづらい。まあ、普通に使ってれば全然問題ないレベルなのかもしれないが、わざわざ選ぶ必要はないと思う。見た目がいいのと、あと金さえ払えばiLOとか便利なのはいいと思うけど。やっぱりESXi入れて仮想化してRHEL入れる、みたいなHPおすすめのお約束の使い方から外れるとつらい感じがする。つまり、総じてエンタープライズっぽい。

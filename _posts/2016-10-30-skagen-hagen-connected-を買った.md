@@ -13,19 +13,19 @@ tags:
 
 もともとSKAGENの時計が好きで2つほど持っていて、そろそろ買い足したいなーと思っていたところにスマートウォッチを出すというので早速購入した。ほんとうは数週間前にSKAGENのwebサイトで注文可能になっていたのだが、配送先を日本にするとエラーで購入できなかったので(今は知らないが)、直営店にいって買ってきたのであった。
 
-[![dsc04054](https://blog.naotaco.com/wp-content/uploads/2016/10/DSC04054-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2016/10/DSC04054.jpg)
+[![dsc04054](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054.jpg)
 
 \[amazonjs asin="B01M276C2J" locale="JP" title="スカーゲンSKAGEN 腕時計 HAGEN CONNECTED ハイブリッドスマートウォッチ SKT1103 メンズ 【正規輸入品】"\]
 
 ということで2日間使っただけだが軽くレビューを書いておく。アプリの機能追加もあるので、随時更新中。
 
-\[caption id="attachment\_1268" align="aligncenter" width="400"\][![dsc04034](https://blog.naotaco.com/wp-content/uploads/2016/10/DSC04034-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2016/10/DSC04034.jpg) 外箱\[/caption\]
+\[caption id="attachment\_1268" align="aligncenter" width="400"\][![dsc04034](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04034-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04034.jpg) 外箱\[/caption\]
 
-\[caption id="" align="aligncenter" width="300"\][![dsc04037](https://blog.naotaco.com/wp-content/uploads/2016/10/DSC04037-300x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2016/10/DSC04037.jpg) 内側の箱\[/caption\]
+\[caption id="" align="aligncenter" width="300"\][![dsc04037](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04037-300x300.jpg)](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04037.jpg) 内側の箱\[/caption\]
 
  
 
-\[caption id="attachment\_1270" align="aligncenter" width="400"\][![ご対面](https://blog.naotaco.com/wp-content/uploads/2016/10/DSC04054-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2016/10/DSC04054.jpg) ご対面\[/caption\]
+\[caption id="attachment\_1270" align="aligncenter" width="400"\][![ご対面](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054.jpg) ご対面\[/caption\]
 
 デザインはとても好みだが、通常モデルと比べて明らかに厚くて重いので覚悟しておく必要がある。重さは良いとしても厚さのせいでシャツの袖の内側にスッと入らない。SKAGENは薄型軽量を身上としていたはずだがさすがに従来のサイズを保ったままスマートウォッチにするのは無理があるか。
 
@@ -37,17 +37,17 @@ tags:
 
 普通の短針/長針に加えて、3本目の短い針がある。これが0から100のあいだを普段は指していて、Goalの達成度合いだと思われる。Goalは自由に設定できるので、とりあえず10000歩にしておいた。またこの針はモード切替のときにA/B/Cを指す。通知のときは4色のうちどこか(後述)を指す。
 
-\[caption id="attachment\_1269" align="aligncenter" width="400"\][![手持ちの別モデルと比べたところ](https://blog.naotaco.com/wp-content/uploads/2016/10/DSC04060-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2016/10/DSC04060.jpg) 手持ちの別モデルと比べたところ\[/caption\]
+\[caption id="attachment\_1269" align="aligncenter" width="400"\][![手持ちの別モデルと比べたところ](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04060-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04060.jpg) 手持ちの別モデルと比べたところ\[/caption\]
 
 一般的な「普通の腕時計にしか見えない系スマートウォッチ」と同様、歩数(距離/カロリー), 睡眠, 通知, アラームが使える。専用アプリがAndroid/iOSに提供されており、Bluetooth Low Energyで接続されるところも普通。買ってちょっと歩いたあとの画面がこちら。
 
-\[caption id="attachment\_1276" align="aligncenter" width="169"\][![歩数表示画面](https://blog.naotaco.com/wp-content/uploads/2016/10/Screenshot_20161030-015041-169x300.png)](https://blog.naotaco.com/wp-content/uploads/2016/10/Screenshot_20161030-015041.png) 歩数表示画面\[/caption\]
+\[caption id="attachment\_1276" align="aligncenter" width="169"\][![歩数表示画面](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-015041-169x300.png)](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-015041.png) 歩数表示画面\[/caption\]
 
 さすがデザインがお洒落であるが、可読性が低い……。画面が英語なのは私がNexusを英語設定で使っているから。アプリが日本語に対応しているかは知らない。
 
 普段つけて寝ることはないと思うが、テストのためにつけて寝てみた。
 
-\[caption id="attachment\_1279" align="aligncenter" width="169"\][![screenshot_20161030-224121](https://blog.naotaco.com/wp-content/uploads/2016/10/Screenshot_20161030-224121-169x300.png)](https://blog.naotaco.com/wp-content/uploads/2016/10/Screenshot_20161030-224121.png) 11時間…？\[/caption\]
+\[caption id="attachment\_1279" align="aligncenter" width="169"\][![screenshot_20161030-224121](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-224121-169x300.png)](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-224121.png) 11時間…？\[/caption\]
 
 11時間と測定されたがどう考えても9時間程度しか寝ていない(ありがとう土曜日)。寝る直前のPC作業時間が加味されているような気がしてならない……。さすがにFitbit HRみたいに脈拍をはかったりできないから精度はあまり高くないのだろう。これならまあなくてもいいかな、というかFitbitつけて寝るかな。
 
@@ -59,13 +59,13 @@ tags:
 
 設定からNotificationsを開くとMy People, My Apps, My Modesとなっていて、My Appsに通知が出るアプリを6個まで追加することが出来る。Slack, Gmail, Google+, Twitterは選べたが、Hangoutsが選べない、惜しい。調べてないけど、ハングアウト側の問題なんだろうなという感じがする。がんばってほしい。
 
-\[caption id="attachment\_1292" align="aligncenter" width="169"\][![通知設定](https://blog.naotaco.com/wp-content/uploads/2016/10/Screenshot_20161130-224942-169x300.png)](https://blog.naotaco.com/wp-content/uploads/2016/10/Screenshot_20161130-224942.png) 通知設定\[/caption\]
+\[caption id="attachment\_1292" align="aligncenter" width="169"\][![通知設定](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224942-169x300.png)](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224942.png) 通知設定\[/caption\]
 
-\[caption id="attachment\_1291" align="aligncenter" width="169"\][![アプリを選べる](https://blog.naotaco.com/wp-content/uploads/2016/10/Screenshot_20161130-220616-169x300.png)](https://blog.naotaco.com/wp-content/uploads/2016/10/Screenshot_20161130-220616.png) Add/Editでアプリを選べる\[/caption\]
+\[caption id="attachment\_1291" align="aligncenter" width="169"\][![アプリを選べる](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-220616-169x300.png)](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-220616.png) Add/Editでアプリを選べる\[/caption\]
 
 で、通知されると時計が振動(弱い…)し、短い針が特定の色を指す。アプリごとにこの色を変えることが出来る。
 
-\[caption id="attachment\_1289" align="aligncenter" width="169"\][![通知時に針がさす色をえらぶ](https://blog.naotaco.com/wp-content/uploads/2016/10/Screenshot_20161130-224937-169x300.png)](https://blog.naotaco.com/wp-content/uploads/2016/10/Screenshot_20161130-224937.png) 通知時に針がさす色をえらぶ\[/caption\]
+\[caption id="attachment\_1289" align="aligncenter" width="169"\][![通知時に針がさす色をえらぶ](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224937-169x300.png)](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224937.png) 通知時に針がさす色をえらぶ\[/caption\]
 
 覚えられるかな、、、
 

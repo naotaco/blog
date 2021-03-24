@@ -12,11 +12,11 @@ tags:
 
 結論から言うと、ドメインをIPに結びつけるAレコードを追加しないとならんという話。正しく見られるときと変なとこに飛ばされるときがある理由はよくわからないが、これで安定した。ぐぐってもあんまり情報がなかったので、記録を残してみる。
 
-![](https://blog.naotaco.com/wp-content/uploads/2010/07/dns11.png "dns1")
+![](https://blog.naotaco.com/assets/images/posts/2010/07/dns11.png "dns1")
 
 もし、種別が「メール」っていうところがあったら、利用しない、でOK。
 
-![](https://blog.naotaco.com/wp-content/uploads/2010/07/dns22.png "dns2")
+![](https://blog.naotaco.com/assets/images/posts/2010/07/dns22.png "dns2")
 
 カスタム設定が、こんなかんじ。
 

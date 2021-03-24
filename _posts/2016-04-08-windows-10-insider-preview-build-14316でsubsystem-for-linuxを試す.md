@@ -15,9 +15,9 @@ tags:
 
 まずInsider previewのfast ringに入り、build 14316のアップデートを適用する。すると、Windowsの機能？のところにWindows Subsystem for Linux (Beta）という超かっこいい項目があるので、有効にする。
 
-[![Windows-features](https://blog.naotaco.com/wp-content/uploads/2016/04/Windows-features.png)](https://blog.naotaco.com/wp-content/uploads/2016/04/Windows-features.png)
+[![Windows-features](https://blog.naotaco.com/assets/images/posts/2016/04/Windows-features.png)](https://blog.naotaco.com/assets/images/posts/2016/04/Windows-features.png)
 
-\[caption id="attachment\_1136" align="aligncenter" width="499"\][![起動したところ](https://blog.naotaco.com/wp-content/uploads/2016/04/bash-on-windows.png)](https://blog.naotaco.com/wp-content/uploads/2016/04/bash-on-windows.png) 起動してunameを打ったところ\[/caption\]
+\[caption id="attachment\_1136" align="aligncenter" width="499"\][![起動したところ](https://blog.naotaco.com/assets/images/posts/2016/04/bash-on-windows.png)](https://blog.naotaco.com/assets/images/posts/2016/04/bash-on-windows.png) 起動してunameを打ったところ\[/caption\]
 
 あとは普通にBash on Ubuntu on Windowsとかいうプログラムが追加されているので、起動して適当にあそぶ。
 
@@ -48,10 +48,10 @@ emacsが入ると自分のinit.elを試したくなるのが人情というも�
 
 いつも通りel-getを~/.emacs.d/以下にcloneして、このinit.elを置いて起動したら普通に動いた（ただしgit1.9.5以上が必要なので、自分でビルドする必要がある）。すごい。
 
-\[caption id="attachment\_1144" align="aligncenter" width="482"\][![emacs](https://blog.naotaco.com/wp-content/uploads/2016/04/emacs-ok.png)](https://blog.naotaco.com/wp-content/uploads/2016/04/emacs-ok.png) emacs\[/caption\]
+\[caption id="attachment\_1144" align="aligncenter" width="482"\][![emacs](https://blog.naotaco.com/assets/images/posts/2016/04/emacs-ok.png)](https://blog.naotaco.com/assets/images/posts/2016/04/emacs-ok.png) emacs\[/caption\]
 
-\[caption id="attachment\_1145" align="aligncenter" width="482"\][![すぐ表示が壊れる](https://blog.naotaco.com/wp-content/uploads/2016/04/emacs-ng.png)](https://blog.naotaco.com/wp-content/uploads/2016/04/emacs-ng.png) すぐ表示が壊れる\[/caption\]
+\[caption id="attachment\_1145" align="aligncenter" width="482"\][![すぐ表示が壊れる](https://blog.naotaco.com/assets/images/posts/2016/04/emacs-ng.png)](https://blog.naotaco.com/assets/images/posts/2016/04/emacs-ng.png) すぐ表示が壊れる\[/caption\]
 
-\[caption id="attachment\_1146" align="aligncenter" width="482"\][![Auto completionもHelmも動く。](https://blog.naotaco.com/wp-content/uploads/2016/04/emacs-helm.png)](https://blog.naotaco.com/wp-content/uploads/2016/04/emacs-helm.png) Auto completionもHelmも動く。\[/caption\]
+\[caption id="attachment\_1146" align="aligncenter" width="482"\][![Auto completionもHelmも動く。](https://blog.naotaco.com/assets/images/posts/2016/04/emacs-helm.png)](https://blog.naotaco.com/assets/images/posts/2016/04/emacs-helm.png) Auto completionもHelmも動く。\[/caption\]
 
 なにがなんだかわからないが、本当に動いててすごい。使ってて頭が混乱する。あと、Ctrl+Aがどっかにキーを奪われているのかbash/emacsで使えないのが厳しい。まあそれを言えば、コマンドプロンプト並の機能しかないターミナル自体がそもそも相当厳しいが、まあさすがにこの辺はそのうちなんとかなるだろう。とりあえず無限の可能性を感じる。

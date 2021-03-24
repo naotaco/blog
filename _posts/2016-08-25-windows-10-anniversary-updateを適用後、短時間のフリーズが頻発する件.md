@@ -13,7 +13,7 @@ Updateしてからというもの、ちょっと何かする(アプリを立ち�
 
 イベントビューワを見るとstorahciとかいうのが死んでいるらしい。
 
-![storahci](https://blog.naotaco.com/wp-content/uploads/2016/08/storahci.png)
+![storahci](https://blog.naotaco.com/assets/images/posts/2016/08/storahci.png)
 
 Level: Warning
 Source: storahci
@@ -37,7 +37,7 @@ Reset to device, \\Device\\RaidPort0, was issued.
 5. 最後の行に、固まるSSDの名前(デバイスマネージャに表示されている名前)の末尾に\*(アスタリスク)を1文字足したものを追記する
 6. 終了して再起動
 
-![NoLPM](https://blog.naotaco.com/wp-content/uploads/2016/08/NoLPM.png)
+![NoLPM](https://blog.naotaco.com/assets/images/posts/2016/08/NoLPM.png)
 
 僕の環境では"SanDisk SDSSDXPS240G"がドライブ名なので、こんなかんじに"SanDisk SDSSDXPS240G\*"を足した。
 

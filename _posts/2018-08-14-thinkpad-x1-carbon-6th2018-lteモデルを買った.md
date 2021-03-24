@@ -33,7 +33,7 @@ categories:
 
 発注は6/22、出荷が7/18、届いたのは7/24であった。
 
-![](https://blog.naotaco.com/wp-content/uploads/2018/08/Di3wv6wUYAA6Cgs-720x540.jpg)
+![](https://blog.naotaco.com/assets/images/posts/2018/08/Di3wv6wUYAA6Cgs-720x540.jpg)
 
 #### 性能
 
@@ -41,7 +41,7 @@ categories:
 
 超低電圧版のCPUなのに速くて何をするにも別にもっさりしない。最高。モバイル向けとして初めて（だったような）4コア（8スレッド）になったのがきいているのか、普通に4世代も進化したのがきいているのかわからんが、とにかくVaio Proと比べると圧倒的に快適である。
 
-\[caption id="attachment\_2030" align="aligncenter" width="502"\]![](https://blog.naotaco.com/wp-content/uploads/2018/08/diskmark_thinkpad_x1.png) SSDをベンチマーク\[/caption\]
+\[caption id="attachment\_2030" align="aligncenter" width="502"\]![](https://blog.naotaco.com/assets/images/posts/2018/08/diskmark_thinkpad_x1.png) SSDをベンチマーク\[/caption\]
 
 SSDもどこのか知らんがめっちゃ速いので何も言うことがない。デスクトップPCで使ってるやつの倍くらい出てるな……。
 

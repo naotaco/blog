@@ -9,7 +9,7 @@ tags:
   - "カメラ"
 ---
 
-[![DSC03247](https://blog.naotaco.com/wp-content/uploads/2015/02/DSC03247-1024x682.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/02/DSC03247.jpg)
+[![DSC03247](https://blog.naotaco.com/assets/images/posts/2015/02/DSC03247-1024x682.jpg)](https://blog.naotaco.com/assets/images/posts/2015/02/DSC03247.jpg)
 
 オリンパスのOPC, Open platform cameraのイベントがあったので、申し込んで参加してきました。
 
@@ -17,7 +17,7 @@ tags:
 
 もともとm4/3にはあんまり興味が無いので、製品が発表されたときもソニーのQXと同じようなのが出るんだなくらいにしか思ってなかった。ところが、行ってみると全然印象がちがってびっくり。言っちゃ悪いがソニーのカメラのAPIはサポートも薄いし勝手に作れば？という感じがしたのだが、オリンパスは使いやすいSDKも提供されてるし、イベントも積極的にやってるし、参加する開発者を増やそう、コミュニティを広げようという意識がだいぶ強いように感じた。正直いまからマウント乗り換えてm4/3に行くのは厳しい(性能的にもね)けど、がんばってほしいなあ。高級コンデジ版が出たら欲しくなるかも。あとBluetooth LEでスマホと常時接続してて、スマホから電源入れられるのがクソ便利そうだった。実際買ったらラグにいらついて電源ボタンを押しに行きそうだけど。
 
-\[caption id="attachment\_685" align="aligncenter" width="400"\][![Olympus Air](https://blog.naotaco.com/wp-content/uploads/2015/02/DSC03239-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/02/DSC03239.jpg) Olympus Air\[/caption\]
+\[caption id="attachment\_685" align="aligncenter" width="400"\][![Olympus Air](https://blog.naotaco.com/assets/images/posts/2015/02/DSC03239-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/02/DSC03239.jpg) Olympus Air\[/caption\]
 
 SDK説明会は初級編だったので、気張ってAndroid StudioにSDK同梱のjarを入れたプロジェクトを用意していったのは肩すかしだった。説明もiOS版、参加者もほとんどmacだったし。これがMaker達なのか……。あとは以前から参加してたテスターの人達の作品発表の時間。スペック系ガジェットオタクにはよくわからない世界であった。とにかく全体的に、簡単に開発に参入できて、コミュニティで盛り上がれますということを推していて、良い意味で開発者への媚び方が上手だなと思った。
 

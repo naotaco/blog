@@ -12,7 +12,7 @@ tags:
 
 さて、デーモン化したはよいが、結局温度設定を突っ込むにはRedisを介さなければいけないのであった。不便で仕方ないのでWebから設定できるようにしたい。スマホから肉を煮たい。まさに人間の根源的な欲求だと思う。というわけで今回はWebから設定できるようにした。
 
-![Cooker-block-diagram](https://blog.naotaco.com/wp-content/uploads/2015/03/Cooker-block-diagram1-1024x547.png)
+![Cooker-block-diagram](https://blog.naotaco.com/assets/images/posts/2015/03/Cooker-block-diagram1-1024x547.png)
 
  
 
@@ -31,7 +31,7 @@ go version devel +9ef10fde754f Thu Dec 11 16:32:25 2014 +1100 linux/arm
 
 基本的に/をGETされたら状態をHTMLで表示して、formからの文字列を/set/にPOSTする感じにしてみた。しかしこれ冷静に考えると設定するSet系だけはWeb APIっぽくて表示は違うからだいぶきもちわるいな。Get系もWeb APIにしてAjax的な感じでいいかんじにしてあげればいいのかもしれないが、そもそもにおいて全くJS書けないし考えたくない感じがする。
 
-\[caption id="attachment\_769" align="aligncenter" width="399"\][![ゴミのようなWebデザイン](https://blog.naotaco.com/wp-content/uploads/2015/03/cookercooker-front.png)](https://blog.naotaco.com/wp-content/uploads/2015/03/cookercooker-front.png) ゴミのようなWebデザイン\[/caption\]
+\[caption id="attachment\_769" align="aligncenter" width="399"\][![ゴミのようなWebデザイン](https://blog.naotaco.com/assets/images/posts/2015/03/cookercooker-front.png)](https://blog.naotaco.com/assets/images/posts/2015/03/cookercooker-front.png) ゴミのようなWebデザイン\[/caption\]
 
 ともあれ、現在の温度が表示されたり、目標温度を更新したりできるようになった。いい感じである。見ての通りCSSもJSも1文字たりとも書いていない。
 

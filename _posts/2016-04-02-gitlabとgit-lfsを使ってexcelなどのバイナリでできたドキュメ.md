@@ -109,7 +109,7 @@ To ssh://git@localhost:10022/naotaco/lfs-test.git
 
 LFSのSSHで認証できるようにしてくれるとだいぶ助かるのですが。
 
-\[caption id="attachment\_1121" align="aligncenter" width="640"\][![バイナリファイルを追加したところ](https://blog.naotaco.com/wp-content/uploads/2016/04/lfs-project-1024x489.png)](https://blog.naotaco.com/wp-content/uploads/2016/04/lfs-project.png) zipファイルを追加したところ\[/caption\]
+\[caption id="attachment\_1121" align="aligncenter" width="640"\][![バイナリファイルを追加したところ](https://blog.naotaco.com/assets/images/posts/2016/04/lfs-project-1024x489.png)](https://blog.naotaco.com/assets/images/posts/2016/04/lfs-project.png) zipファイルを追加したところ\[/caption\]
 
 zipファイルを追加してpushすると、Webからは上のようにみえます。見た目での区別がまったくできないのはどうかと思うが……。
 

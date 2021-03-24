@@ -17,7 +17,7 @@ tags:
 
 ### どこ？
 
-\[caption id="attachment\_1302" align="aligncenter" width="640"\][![](https://blog.naotaco.com/wp-content/uploads/2016/12/map-1024x586.jpg)](https://blog.naotaco.com/wp-content/uploads/2016/12/map.jpg) ミクロフ、プラハ、ブジェツラフの位置 ©2016 Google\[/caption\]
+\[caption id="attachment\_1302" align="aligncenter" width="640"\][![](https://blog.naotaco.com/assets/images/posts/2016/12/map-1024x586.jpg)](https://blog.naotaco.com/assets/images/posts/2016/12/map.jpg) ミクロフ、プラハ、ブジェツラフの位置 ©2016 Google\[/caption\]
 
 ここ。チェコとオーストリア国境近くの田舎町。いま書いてるもう一つの記事からの画像流用なのがばればれで恐縮だが、赤いピンが立っているのはミクロフ。
 
@@ -27,21 +27,21 @@ tags:
 
 まず、Vodafoneのサイトで場所と営業時間を調べて頭に叩き込む、あるいはEvernoteに保存してオフライン保存ができるプランにアップグレードする(実際こうした)。[ブジェツラフ店のページはこちら](https://www.vodafone.cz/en/about-vodafone/stores/store-detail/breclav/)。いわゆる9時5時である上に、土曜の午後と日曜はやっていない。すごい。念のためもうひとつのキャリアである[O2のショップ](https://www.o2.cz/osobni/en/stores/breclav/324-jana-palacha-3197/)の位置も調べていったが、Vodafoneで用が足りたので行くことはなかった。たしか、プリペイドのプランが微妙だった（気がした）。ちなみに営業時間はVodafoneと大差ない。
 
-\[caption id="attachment\_1309" align="aligncenter" width="398"\][![](https://blog.naotaco.com/wp-content/uploads/2016/12/map2-398x300.png)](https://blog.naotaco.com/wp-content/uploads/2016/12/map2.png) ショップの場所　 ©2016 Google\[/caption\]
+\[caption id="attachment\_1309" align="aligncenter" width="398"\][![](https://blog.naotaco.com/assets/images/posts/2016/12/map2-398x300.png)](https://blog.naotaco.com/assets/images/posts/2016/12/map2.png) ショップの場所　 ©2016 Google\[/caption\]
 
 ブジェツラフ(Břeclav)はウィーンから(おそらくブダペストやブラチスラバなどからも)プラハへの電車が止まる(もしかしたら特急電車みたいなのは止まらないのかもしれない。ECとかいうのは止まる）ので、簡単に行ける。オーストリアの[OBBのページ](https://www.oebb.at/en/)、チェコの[CDのページ](https://www.cd.cz/en/)から乗換案内で調べることができる。
 
-\[caption id="attachment\_1312" align="aligncenter" width="400"\][![](https://blog.naotaco.com/wp-content/uploads/2016/12/DSC04790-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2016/12/DSC04790.jpg) 駅舎。風情がある。\[/caption\]
+\[caption id="attachment\_1312" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04790-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04790.jpg) 駅舎。風情がある。\[/caption\]
 
 駅の中にはコンビニ的なのが2つと両替所、レストランがある。ユーロをコルナに換えることができて、ビールが1杯100円くらい（忘れた）で飲めるが目的を見失ってはいけない。英語は7割くらいの人に通じる。
 
 駅舎を出たら非常にわかりやすいので何も迷うことはないと思う。公園の右側の道をすすみ、大きな道路と合流したらひたすらまっすぐ行くだけだ。道は広く、綺麗に整備されているが何も無い。
 
-\[caption id="attachment\_1311" align="aligncenter" width="400"\][![](https://blog.naotaco.com/wp-content/uploads/2016/12/DSC04789-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2016/12/DSC04789.jpg) うむ。\[/caption\]
+\[caption id="attachment\_1311" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04789-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04789.jpg) うむ。\[/caption\]
 
 川を渡ってしばらくすると右側にVodafoneショップがある。
 
-\[caption id="attachment\_1310" align="aligncenter" width="400"\][![](https://blog.naotaco.com/wp-content/uploads/2016/12/DSC04787-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2016/12/DSC04787.jpg) 店構え\[/caption\]
+\[caption id="attachment\_1310" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04787-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04787.jpg) 店構え\[/caption\]
 
 ドアを開けて入ると、3つのカウンターで接客中、1人が待っている状態。観光客など滅多に来ない場所なのだろう、入店した瞬間に全員にじろじろ見られた。
 
@@ -53,7 +53,7 @@ tags:
 
 当初は3Gだったが、一晩したら4Gが使えるようになり、上々の速度である。
 
-\[caption id="attachment\_1313" align="aligncenter" width="169"\][![](https://blog.naotaco.com/wp-content/uploads/2016/12/Screenshot_20161122-035459-169x300.png)](https://blog.naotaco.com/wp-content/uploads/2016/12/Screenshot_20161122-035459.png) ミクロフで測定\[/caption\]
+\[caption id="attachment\_1313" align="aligncenter" width="169"\][![](https://blog.naotaco.com/assets/images/posts/2016/12/Screenshot_20161122-035459-169x300.png)](https://blog.naotaco.com/assets/images/posts/2016/12/Screenshot_20161122-035459.png) ミクロフで測定\[/caption\]
 
 ブジェツラフ、ミクロフ、プラハ、チェスキークルムロフどこでもばっちり4Gが使えたが、街と街の間の移動中は不安定になったりEdgeに落ちたりして厳しい。あと、室内でもそういうところが多く、まあそんなもんなのだろうな。
 

@@ -21,21 +21,21 @@ Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文�
 
 まず箱がでかい。2015年末の端末とは思えない。
 
-\[caption id="attachment\_987" align="aligncenter" width="400"\][![左がLumia950, 右が930の箱](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01420-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01420.jpg) 左がLumia950, 右が930の箱\[/caption\]
+\[caption id="attachment\_987" align="aligncenter" width="400"\][![左がLumia950, 右が930の箱](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01420-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01420.jpg) 左がLumia950, 右が930の箱\[/caption\]
 
 あけるとケーブル固定式のチャージャーと、USB-A to USB-CなUSB3.0?っぽいケーブルが入っている。
 
-\[caption id="attachment\_986" align="aligncenter" width="400"\][![箱が大きいのも納得](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01421-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01421.jpg) 箱が大きいのも納得\[/caption\]
+\[caption id="attachment\_986" align="aligncenter" width="400"\][![箱が大きいのも納得](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01421-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01421.jpg) 箱が大きいのも納得\[/caption\]
 
-\[caption id="attachment\_1033" align="aligncenter" width="400"\][![いつものイギリス向けの](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01423-1-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01423-1.jpg) いつものイギリス向けの\[/caption\]
+\[caption id="attachment\_1033" align="aligncenter" width="400"\][![いつものイギリス向けの](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01423-1-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01423-1.jpg) いつものイギリス向けの\[/caption\]
 
-アダプタとPC接続用のケーブルを別々に入れてくれるなんて親切だな。Nexus 5XにはUSB-C to USB-Cのケーブルとチャージャーしかついてこなかった。まだUSB-Cケーブルは1本1000円くらいするのでもらえると助かる。アダプタの電圧は100-240Vなので、アダプタさえあれば日本でも使える。Cloveはくれなかったが、我が家には[1shopmobileがくれた変換アダプタ](https://blog.naotaco.com/wp-content/uploads/2014/07/DSC09279.jpg)がたくさんあるので問題は無い。
+アダプタとPC接続用のケーブルを別々に入れてくれるなんて親切だな。Nexus 5XにはUSB-C to USB-Cのケーブルとチャージャーしかついてこなかった。まだUSB-Cケーブルは1本1000円くらいするのでもらえると助かる。アダプタの電圧は100-240Vなので、アダプタさえあれば日本でも使える。Cloveはくれなかったが、我が家には[1shopmobileがくれた変換アダプタ](https://blog.naotaco.com/assets/images/posts/2014/07/DSC09279.jpg)がたくさんあるので問題は無い。
 
 ### 本体
 
-\[caption id="attachment\_1032" align="aligncenter" width="400"\][![左から950, 930, 920](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01427-1-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01427-1.jpg) 左から950, 930, 920\[/caption\]
+\[caption id="attachment\_1032" align="aligncenter" width="400"\][![左から950, 930, 920](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01427-1-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01427-1.jpg) 左から950, 930, 920\[/caption\]
 
-\[caption id="attachment\_1031" align="aligncenter" width="400"\][![DSC01429](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01429-1-400x97.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01429-1.jpg) 同じく\[/caption\]
+\[caption id="attachment\_1031" align="aligncenter" width="400"\][![DSC01429](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01429-1-400x97.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01429-1.jpg) 同じく\[/caption\]
 
 920, 930, 950と順番に少しずつ大きくなっていることがわかる。そのペースで人間の手が大きくなるとでも思っているのだろうか？？まあ薄くなることは薄くなっているのだが……。大きさ、重さ、質感、もろもろNexus 5Xと相当近い。ポケットに入れているとどっちがどっちかわからないと思う。重さは順調に軽くなっていて、5インチくらいの端末としては常識的な感じがする。
 
@@ -43,7 +43,7 @@ Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文�
 
 バッテリは着脱式で、外すとnano SIMとmicro SDを入れることができる。バッテリにはTYPICAL 3000mAhの文字が。これはまさか製造ばらつきの存在をみとめて標準容量を記載しているのか……？なかなか見ない書き方だな。
 
-\[caption id="attachment\_1030" align="aligncenter" width="400"\][![PureView　ZEISS](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01431-1-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01431-1.jpg) PureView　ZEISS\[/caption\]
+\[caption id="attachment\_1030" align="aligncenter" width="400"\][![PureView　ZEISS](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01431-1-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01431-1.jpg) PureView　ZEISS\[/caption\]
 
 カメラは920，930とは違って飛び出している。930と比べるとモジュールが小さくなるわけがない(f/2.4 -> f/1.9, センサは1/2.5インチ->1/2.4インチ, 焦点距離は変わらず26mm\[ref\]さすがにこれは35mm焦点距離換算だと思うので、センササイズが大きくなると実際の焦点距離も若干長くなっているはずだ\[/ref\])のに本体が薄くなってしまったからしょうがないのだろうが不格好だ。まあアイフォーン6よりはいいか。LEDも930の2個から3個に増えていて、実際に試してみると色が白く明るく照射範囲が広くなりムラが少なくなっている。よくみると3つともLEDの色が微妙に異なるので、複数の特性のLEDを同時に使って色をうまく補正しているのかもしれない。画質については後でレビューする。
 
@@ -53,7 +53,7 @@ Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文�
 
 なんのおまけか異常にださいバンパー?がついてきた。
 
-[![DSC01410](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01410-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01410.jpg)どうしろというのか。
+[![DSC01410](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01410-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01410.jpg)どうしろというのか。
 
 ### Windows 10 mobile
 
@@ -65,7 +65,7 @@ Desktop版と同じように、画面表示の大きさを変更することが�
 
 個人的に950で一番予想外に良かったのはこれ。Lock Screenの設定からPINに加えてWindows helloのIrisが選べる。虹彩認証とか未来感がたまりませんね。
 
-\[caption id="attachment\_992" align="aligncenter" width="400"\][![Windows Hello動作中](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01433-1-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/DSC01433-1.jpg) Windows Hello動作中\[/caption\]
+\[caption id="attachment\_992" align="aligncenter" width="400"\][![Windows Hello動作中](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01433-1-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01433-1.jpg) Windows Hello動作中\[/caption\]
 
 設定から有効にすると目を何度か撮影してくれる。で、画面オフ状態から電源ボタンを押すと勝手に虹彩認証を開始する。見づらいのだが実機では割とはっきり右上の赤色LEDが光っていて、これで虹彩を照らしているっぽい。なるほど、930で使えないわけだ。電源ボタンを押す手間はたしかにあるのだが、PINを入力するよりはすばやく認証完了してくれる。セキュリティのためか、一度認証に失敗するとPINを入力するかいったん画面をオフにする必要がある。また何度か連続で失敗するとPINを強制される。このあたりはAndroidの指紋と同じような感じか。特に電車内でPINを入れる必要がなくなるのでセキュリティ的なメリットは大きそうだが、他人の目でどのくらい認証失敗するのかは謎である。欲を言うと常時カメラの電源を入れておいたりとか、携帯を手に取ったときに認証を開始して欲しいところである。
 
@@ -81,51 +81,51 @@ Desktop版と同じように、画面表示の大きさを変更することが�
 
 Lumia930:
 
-\[caption id="attachment\_1019" align="aligncenter" width="400"\][![ISO64](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_18_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_18_Pro_LI-1.jpg) ISO64\[/caption\]
+\[caption id="attachment\_1019" align="aligncenter" width="400"\][![ISO64](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_18_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_18_Pro_LI-1.jpg) ISO64\[/caption\]
 
-\[caption id="attachment\_1013" align="aligncenter" width="400"\][![ISO100](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_21_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_21_Pro_LI-1.jpg) ISO100\[/caption\]
+\[caption id="attachment\_1013" align="aligncenter" width="400"\][![ISO100](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_21_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_21_Pro_LI-1.jpg) ISO100\[/caption\]
 
-\[caption id="attachment\_1014" align="aligncenter" width="400"\][![ISO200](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_24_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_24_Pro_LI-1.jpg) ISO200\[/caption\]
+\[caption id="attachment\_1014" align="aligncenter" width="400"\][![ISO200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_24_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_24_Pro_LI-1.jpg) ISO200\[/caption\]
 
-\[caption id="attachment\_1015" align="aligncenter" width="400"\][![ISO400](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_28_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_28_Pro_LI-1.jpg) ISO400\[/caption\]
+\[caption id="attachment\_1015" align="aligncenter" width="400"\][![ISO400](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_28_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_28_Pro_LI-1.jpg) ISO400\[/caption\]
 
-\[caption id="attachment\_1016" align="aligncenter" width="400"\][![ISO800](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_32_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_32_Pro_LI-1.jpg) ISO800\[/caption\]
+\[caption id="attachment\_1016" align="aligncenter" width="400"\][![ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_32_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_32_Pro_LI-1.jpg) ISO800\[/caption\]
 
-\[caption id="attachment\_1017" align="aligncenter" width="400"\][![ISO1600](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_37_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_37_Pro_LI-1.jpg) ISO1600\[/caption\]
+\[caption id="attachment\_1017" align="aligncenter" width="400"\][![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_37_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_37_Pro_LI-1.jpg) ISO1600\[/caption\]
 
-\[caption id="attachment\_1018" align="aligncenter" width="400"\][![ISO3200](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_44_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_44_Pro_LI-1.jpg) ISO3200\[/caption\]
+\[caption id="attachment\_1018" align="aligncenter" width="400"\][![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_44_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_44_Pro_LI-1.jpg) ISO3200\[/caption\]
 
-\[caption id="attachment\_1021" align="aligncenter" width="400"\][![ISO1600(低照度)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_57_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_01_57_Pro_LI-1.jpg) ISO1600(低照度)\[/caption\]
+\[caption id="attachment\_1021" align="aligncenter" width="400"\][![ISO1600(低照度)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_57_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_57_Pro_LI-1.jpg) ISO1600(低照度)\[/caption\]
 
-\[caption id="attachment\_1022" align="aligncenter" width="400"\][![ISO3200(低照度)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_02_08_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_02_08_Pro_LI-1.jpg) ISO3200(低照度)\[/caption\]
+\[caption id="attachment\_1022" align="aligncenter" width="400"\][![ISO3200(低照度)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_02_08_Pro_LI-1-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_02_08_Pro_LI-1.jpg) ISO3200(低照度)\[/caption\]
 
 Lumia950:
 
-\[caption id="attachment\_1004" align="aligncenter" width="400"\][![ISO50](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_40_Pro_LI-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_40_Pro_LI.jpg) ISO50\[/caption\]
+\[caption id="attachment\_1004" align="aligncenter" width="400"\][![ISO50](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_40_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_40_Pro_LI.jpg) ISO50\[/caption\]
 
-\[caption id="attachment\_1005" align="aligncenter" width="400"\][![ISO100](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_44_Pro_LI-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_44_Pro_LI.jpg) ISO100\[/caption\]
+\[caption id="attachment\_1005" align="aligncenter" width="400"\][![ISO100](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_44_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_44_Pro_LI.jpg) ISO100\[/caption\]
 
-\[caption id="attachment\_1006" align="aligncenter" width="400"\][![ISO200](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_48_Pro_LI-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_48_Pro_LI.jpg) ISO200\[/caption\]
+\[caption id="attachment\_1006" align="aligncenter" width="400"\][![ISO200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_48_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_48_Pro_LI.jpg) ISO200\[/caption\]
 
-\[caption id="attachment\_1007" align="aligncenter" width="400"\][![ISO400](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_51_Pro_LI-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_51_Pro_LI.jpg) ISO400\[/caption\]
+\[caption id="attachment\_1007" align="aligncenter" width="400"\][![ISO400](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_51_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_51_Pro_LI.jpg) ISO400\[/caption\]
 
-\[caption id="attachment\_1008" align="aligncenter" width="400"\][![ISO800](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_55_Pro_LI-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_55_Pro_LI.jpg) ISO800\[/caption\]
+\[caption id="attachment\_1008" align="aligncenter" width="400"\][![ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_55_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_55_Pro_LI.jpg) ISO800\[/caption\]
 
-\[caption id="attachment\_1009" align="aligncenter" width="400"\][![ISO1600](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_57_Pro_LI-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_57_Pro_LI.jpg) ISO1600\[/caption\]
+\[caption id="attachment\_1009" align="aligncenter" width="400"\][![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_57_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_57_Pro_LI.jpg) ISO1600\[/caption\]
 
-\[caption id="attachment\_1010" align="aligncenter" width="400"\][![ISO3200](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_04_02_Pro_LI-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_04_02_Pro_LI.jpg) ISO3200\[/caption\]
+\[caption id="attachment\_1010" align="aligncenter" width="400"\][![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_04_02_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_04_02_Pro_LI.jpg) ISO3200\[/caption\]
 
-\[caption id="attachment\_1011" align="aligncenter" width="400"\][![ISO1600](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_11_Pro_LI-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_11_Pro_LI.jpg) ISO1600(低照度)\[/caption\]
+\[caption id="attachment\_1011" align="aligncenter" width="400"\][![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_11_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_11_Pro_LI.jpg) ISO1600(低照度)\[/caption\]
 
-\[caption id="attachment\_1012" align="aligncenter" width="400"\][![ISO3200](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_20_Pro_LI-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/WP_20151213_17_03_20_Pro_LI.jpg) ISO3200(低照度)\[/caption\]
+\[caption id="attachment\_1012" align="aligncenter" width="400"\][![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_20_Pro_LI-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_20_Pro_LI.jpg) ISO3200(低照度)\[/caption\]
 
 長い…
 
 ISO800と1600を比較画像にした。
 
-\[caption id="attachment\_1025" align="aligncenter" width="400"\][![比較@ISO800](https://blog.naotaco.com/wp-content/uploads/2015/12/950-930-ISO800-400x211.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/950-930-ISO800.jpg) 比較@ISO800\[/caption\]
+\[caption id="attachment\_1025" align="aligncenter" width="400"\][![比較@ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO800-400x211.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO800.jpg) 比較@ISO800\[/caption\]
 
-\[caption id="attachment\_1024" align="aligncenter" width="400"\][![比較@ISO1600](https://blog.naotaco.com/wp-content/uploads/2015/12/950-930-ISO1600-400x217.jpg)](https://blog.naotaco.com/wp-content/uploads/2015/12/950-930-ISO1600.jpg) 比較@ISO1600\[/caption\]
+\[caption id="attachment\_1024" align="aligncenter" width="400"\][![比較@ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO1600-400x217.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO1600.jpg) 比較@ISO1600\[/caption\]
 
 感度がどうこうというよりまず950の方がシャープネスとかコントラストとかを上げる方向に味付けしてあるように見える。どっちかというと930の自然な色味の方が好きだが、これは好みの問題か。ただ930に比べると950は画面の色が落ち着いた色合いになっているので、端末の画面で見ると同じようなレベルに見える可能性がある。ちょっとRAWでの比較をする必要がある気がしてきた…
 

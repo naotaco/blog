@@ -56,15 +56,15 @@ Huawei MediaPad M5を買った。
 
 外装はそれなりにしっかりしていて高級感というか安心感がある。
 
-[![](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02316-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02316.jpg)
+[![](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02316-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02316.jpg)
 
-[![](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02315-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02315.jpg)
+[![](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02315-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02315.jpg)
 
-[![](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02313-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02313.jpg)
+[![](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02313-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02313.jpg)
 
-[![](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02311-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02311.jpg)
+[![](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02311-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02311.jpg)
 
-[![](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02309-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02309.jpg)
+[![](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02309-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02309.jpg)
 
 Essential Phone PH-1のチタンフレーム+セラミックバックパネルと比べるのは気の毒としても、iPhoneのパチもんとしては十分な工作精度に思える。いくつかのロゴやらなんやらが背面に書いてあるのは非常にださいが。
 
@@ -84,7 +84,7 @@ Screen saverが使えて（素のAndroidに入ってたっけ？）、特定の�
 
 結論から言うと、目的の「2m離れたところに置いてあって、私がキッチンのやかましい換気扇の下に立っていても動画の音が聞こえる程度の音量が出せる」を辛うじて満たしている。音量を最大にしてnasneで適当なテレビを表示すると、Sound Meterアプリで70dB程度の音量を記録した。これはスマホのマイクで計測しているだけのアプリなので、数値は適当だと思う。以前使っていたFire HDXで同じことをしても同じくらいの音量を記録していたので、少なくともこの2機種の最大の音量は同じくらいなのだと思われる。
 
-[![](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02308-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02308.jpg)
+[![](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02308-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02308.jpg)
 
 ただし、このときの歪みが全然違い、Fire HDXは明らかにデバイスに余裕があり音として破綻していないのを感じる。MediaPad M5の方はギリギリ許されるレベルまで音量上げてますという感じがする。このへんはProを買っていれば余裕があったのかもしれない。ううむ。
 
@@ -94,7 +94,7 @@ harman/kardon とロゴが入っていて音質チューニングを監修した
 
 絶対に使う日はこないが、一応撮ったので上げておく。
 
-\[caption id="attachment\_1979" align="aligncenter" width="400"\][![](https://blog.naotaco.com/wp-content/uploads/2018/05/IMG_20180520_131907-400x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/05/IMG_20180520_131907.jpg) MediaPad M5　初期設定で撮影\[/caption\]
+\[caption id="attachment\_1979" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2018/05/IMG_20180520_131907-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2018/05/IMG_20180520_131907.jpg) MediaPad M5　初期設定で撮影\[/caption\]
 
 まあ、ノーコメントで。
 
@@ -102,7 +102,7 @@ harman/kardon とロゴが入っていて音質チューニングを監修した
 
 指紋センサは形が細いせいか微妙に反応が悪い気がする。単に復帰が遅いだけか？
 
-\[caption id="attachment\_1971" align="aligncenter" width="400"\][![](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02303-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/05/DSC02303.jpg) このように置いて使っている\[/caption\]
+\[caption id="attachment\_1971" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02303-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02303.jpg) このように置いて使っている\[/caption\]
 
 ほぼキッチンに置きっぱなしなので、InateckのUSB端子付きスタンドに立てている。L字の短いUSB Type-Cケーブルを調達したので良い感じに配置できた。
 

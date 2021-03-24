@@ -19,11 +19,11 @@ PropertyMetadataのコンストラクタのオーバーロードが、PhoneとUn
 
 ### Windows Phone 8 project (VS2012)
 
-[![2012_1](https://blog.naotaco.com/wp-content/uploads/2014/11/2012_1.png)](https://blog.naotaco.com/wp-content/uploads/2014/11/2012_1.png) [![2012_2](https://blog.naotaco.com/wp-content/uploads/2014/11/2012_2.png)](https://blog.naotaco.com/wp-content/uploads/2014/11/2012_2.png) [![2012_3](https://blog.naotaco.com/wp-content/uploads/2014/11/2012_3.png)](https://blog.naotaco.com/wp-content/uploads/2014/11/2012_3.png)
+[![2012_1](https://blog.naotaco.com/assets/images/posts/2014/11/2012_1.png)](https://blog.naotaco.com/assets/images/posts/2014/11/2012_1.png) [![2012_2](https://blog.naotaco.com/assets/images/posts/2014/11/2012_2.png)](https://blog.naotaco.com/assets/images/posts/2014/11/2012_2.png) [![2012_3](https://blog.naotaco.com/assets/images/posts/2014/11/2012_3.png)](https://blog.naotaco.com/assets/images/posts/2014/11/2012_3.png)
 
  
 
-### Windows 8.1 universal project (VS2013)[![2013_1](https://blog.naotaco.com/wp-content/uploads/2014/11/2013_1.png)](https://blog.naotaco.com/wp-content/uploads/2014/11/2013_1.png) [![2013_2](https://blog.naotaco.com/wp-content/uploads/2014/11/2013_2.png)](https://blog.naotaco.com/wp-content/uploads/2014/11/2013_2.png)
+### Windows 8.1 universal project (VS2013)[![2013_1](https://blog.naotaco.com/assets/images/posts/2014/11/2013_1.png)](https://blog.naotaco.com/assets/images/posts/2014/11/2013_1.png) [![2013_2](https://blog.naotaco.com/assets/images/posts/2014/11/2013_2.png)](https://blog.naotaco.com/assets/images/posts/2014/11/2013_2.png)
 
  
 
