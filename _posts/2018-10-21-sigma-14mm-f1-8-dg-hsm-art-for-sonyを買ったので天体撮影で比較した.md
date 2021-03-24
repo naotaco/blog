@@ -1,0 +1,85 @@
+---
+title: "SIGMA 14mm F1.8 DG HSM Art for Sonyを買ったので天体撮影でテストした"
+date: "2018-10-21"
+categories: 
+  - "買った"
+tags: 
+  - "sigma"
+  - "カメラ"
+  - "レビュー"
+  - "レンズ"
+---
+
+名前が長い。最後に作例があります。
+
+いやソニー純正のも長いんだけど型番が割とわかりやすいのでそっちを使うじゃん。
+
+\[amazonjs asin="B07B9T61V5" locale="JP" title="シグマ 14mmF1.8DG HSM Art ソニーEマウント 14mmF1.8 DG SE"\]
+
+買ってしまった。Amazonで注文したが1.5ヶ月くらい経っても発送されなかったのでキャンセルしてヨドバシで買った。いま見たらAmazonの在庫が復活していて少し値段が上がっている。安く出し過ぎた場合は客がしびれを切らしてキャンセルするのを待ってから値上げするのかな？？（要出典）
+
+\[caption id="attachment\_2094" align="aligncenter" width="200"\][![](https://blog.naotaco.com/wp-content/uploads/2018/10/N0005531-200x300.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/10/N0005531.jpg) お姿\[/caption\]
+
+Photo Yodobashiによればこのレンズは1230gだそうです。まあ数字はともかくとして持つと絶望的な重さを感じます。首にぶら下げると首がもげ、手で持つと疲れます。今のところのお勧めは首と手で荷重を半分ずつ分けるという作戦です。
+
+このレンズ、Canon/Nikon/Sigmaは既に出ていたので今更書くこともないですが、α7Riiiとの組みあわせの話と、天体写真を撮るとどうかという点を書いておきます。
+
+#### α7Riiiとの組みあわせ
+
+AFが合いづらい。AF-SもAF-Cもちょっと外しがち。ピント拡大中にAFするとけっこうちゃんと合う気がするので、そうした方がいいかも。少なくとも拡大しておけばAFが外したときすぐにわかるので、おすすめ。
+
+1.2kgあるが長さはそこまでないので（同じような重さの望遠に比べればね……）そこまでの負荷には感じない。剛性は特に問題なさそう。どうせなら三脚座を付けてくれてもいいじゃんという感じはするが、まあなくてもギリギリいけるかな、どうかなという感じ。手持ちで使う時にこれ以上重くなるぞと言われるとまあない方がいいかな、、的な。
+
+しかしレンズの後ろにフィルタを入れられるのがCanonマウントだけってどういうことなんだ。Sonyマウントなんか根元すげえ長いし最後発なんだからフィルタ入れられるようにしてほしかった。
+
+フォーカスリングを回すとちゃんとピント拡大もするし、他は問題なし。
+
+#### 天体撮影の性能確認
+
+とりあえず近場で（星空としては最低レベルだがまあ写るには写るので）性能確認をしてきた。適当に上を向けて撮っただけ。撮って出しJPEGです。クリックで実ファイルが見られます。
+
+\[caption id="attachment\_2096" align="aligncenter" width="400"\][![](https://blog.naotaco.com/wp-content/uploads/2018/10/N0005896-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/10/N0005896.jpg) f/1.8, 2sec., ISO1600\[/caption\]
+
+\[caption id="attachment\_2097" align="aligncenter" width="400"\][![](https://blog.naotaco.com/wp-content/uploads/2018/10/N0005897-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/10/N0005897.jpg) f/2.2, 2sec., ISO1600\[/caption\]
+
+\[caption id="attachment\_2095" align="aligncenter" width="400"\][![](https://blog.naotaco.com/wp-content/uploads/2018/10/N0005898-400x267.jpg)](https://blog.naotaco.com/wp-content/uploads/2018/10/N0005898.jpg) f/2.8, 3.2sec., ISO1600\[/caption\]
+
+中央と右上端を等倍で切り出すとこう。
+
+\[caption id="attachment\_2102" align="aligncenter" width="400"\][![](https://blog.naotaco.com/wp-content/uploads/2018/10/art14_center-1-400x170.png)](https://blog.naotaco.com/wp-content/uploads/2018/10/art14_center-1.png) 中央等倍切り出し\[/caption\]
+
+\[caption id="attachment\_2100" align="aligncenter" width="400"\][![](https://blog.naotaco.com/wp-content/uploads/2018/10/art14_corner-400x170.png)](https://blog.naotaco.com/wp-content/uploads/2018/10/art14_corner.png) 右上隅等倍切り出し\[/caption\]
+
+ 
+
+明るさが違うのは露出を合わせ忘れたのが原因なので、そこは気にしないでください（開放の周辺減光が目に付くけど）。中央はどれも同じというか開放からばっちりですごい。周辺はF2.8まで絞るとかなりよくなります。競合レンズは軒並みF2.8などなので、まあ敵無しですね。重いだけのことはある。
+
+少しでも明るさを稼ぎたいときは開放、赤道儀に載せるならF2.8～4くらいって感じでしょうか。これで早く天の河を撮りに行きたい。
+
+ちなみに中央に見えているゴーストは周辺の街灯の明かりです。ゴーストめちゃくちゃ拾いやすいので（超広角ならしょうがないとは思うのだが）かなり注意が必要です。ハレ切りするにしてもなんせ広角なので簡単に手が写り込んでしまう。この意味では普通に三脚を立てて夜景を撮るなら16-35の方が扱いやすい気がしますね。しかしSigmaは絞ると周辺までカリカリになるのでそれも捨てがたい。まあとにかくまわりに街灯がある街中では相当気を遣わないとだめです。
+
+#### その他所感
+
+前玉ぶつかりそうで怖い。重い。キャップはかぶせ式で落としそうで不安（べつに自重で落ちてくるようなことはないが）。
+
+しかしこれらのデメリットを差し引いても唯一無二の性能を持つレンズで間違いないと思う。車で撮りに行くなら迷わず買うべき。そうでない場合も買った方がいいと思う。
+
+#### 実戦投入
+
+海辺で撮りたくなったので行ってきた。
+
+ 
+
+![Orion on a rock by Nao Taco | 500px.com](https://drscdn.500px.org/photo/280979807/m%3D900/v2?webp=true&sig=1be8ebf0b21423563bd8a5473a7ca0a6d598f02c6fc25191f859b8105f5c57aa)
+
+[](https://500px.com/photo/280979807/orion-on-a-rock-by-nao-taco?ctx_page=1&from=user&user_id=2760855)
+
+<script type="text/javascript" src="https://500px.com/embed.js" async></script>
+
+![Coast by Nao Taco | 500px.com](https://drscdn.500px.org/photo/280979805/m%3D900/v2?webp=true&sig=d5c031542b636a9b4a62f86ed467c983f253f0df386449e15cddea938f1b499a)
+
+[](https://500px.com/photo/280979805/coast-by-nao-taco)
+
+<script type="text/javascript" src="https://500px.com/embed.js" async></script>
+
+2枚とも開放でこれ。素晴らしい……。（甘く見える場合は写真左下のリンクから500px.comに飛んでください）
