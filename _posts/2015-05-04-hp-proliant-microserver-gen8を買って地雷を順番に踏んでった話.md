@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "HP ProLiant MicroServer Gen8を買って地雷を順番に踏んでった話"
 date: "2015-05-04"
 categories: 

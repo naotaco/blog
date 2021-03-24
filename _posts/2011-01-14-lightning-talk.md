@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Lightning Talk"
 date: "2011-01-14"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "HUAWEI MediaPad M5を買った"
 date: "2018-05-20"
 categories: 

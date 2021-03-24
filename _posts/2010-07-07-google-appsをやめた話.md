@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Google appsをやめた話"
 date: "2010-07-07"
 categories: 

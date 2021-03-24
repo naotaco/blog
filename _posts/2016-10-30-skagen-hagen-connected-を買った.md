@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "SKAGEN Hagen Connected を買った"
 date: "2016-10-30"
 categories: 

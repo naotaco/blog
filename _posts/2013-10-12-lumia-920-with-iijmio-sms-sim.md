@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Lumia 920 with IIJmio SMS SIM"
 date: "2013-10-12"
 categories: 

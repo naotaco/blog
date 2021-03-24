@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Withings Pulse O2 と Fitbit Charge HR を両方使った感想"
 date: "2015-11-23"
 categories: 

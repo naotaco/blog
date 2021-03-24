@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Windows 10 Insider preview build 14316でsubsystem for linuxを試す"
 date: "2016-04-08"
 categories: 

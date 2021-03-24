@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "ムームーDNS+Google appsを使うという話"
 date: "2010-07-07"
 categories: 

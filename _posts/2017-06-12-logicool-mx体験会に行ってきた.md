@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Logicool MX体験会に行ってきた"
 date: "2017-06-12"
 categories: 

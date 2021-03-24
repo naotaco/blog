@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "低温調理器を自作する - daemonize・豚肩ロース編 -"
 date: "2015-03-25"
 categories: 

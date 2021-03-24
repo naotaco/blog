@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "[UWP] ThumbToolTipの表示を変更する"
 date: "2015-10-07"
 categories: 

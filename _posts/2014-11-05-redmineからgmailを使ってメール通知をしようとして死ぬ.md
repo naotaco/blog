@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "RedmineからGmailを使ってメール通知をしようとして死ぬほどはまった"
 date: "2014-11-05"
 categories: 

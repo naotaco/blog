@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "ブジェツラフでVodafoneのSIMを買う"
 date: "2016-12-11"
 categories: 

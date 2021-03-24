@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Essential Phoneでネットワークの自動選択ができず、UQ mobileのSIMを刺すと通信が不安定になる"
 date: "2018-09-02"
 categories: 

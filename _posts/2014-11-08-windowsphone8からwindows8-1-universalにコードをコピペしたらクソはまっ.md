@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "WindowsPhone8からWindows8.1 universalにコードをコピペしたらクソはまった話"
 date: "2014-11-08"
 categories: 

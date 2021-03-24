@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Compagnon 'the backpack' 2.0 を買った"
 date: "2019-08-10"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "twitter bot @genryo_bot のはなし"
 date: "2010-10-31"
 categories: 

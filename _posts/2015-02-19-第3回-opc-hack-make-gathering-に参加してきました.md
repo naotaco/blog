@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "第3回 OPC Hack & Make Gathering に参加してきました"
 date: "2015-02-19"
 categories: 

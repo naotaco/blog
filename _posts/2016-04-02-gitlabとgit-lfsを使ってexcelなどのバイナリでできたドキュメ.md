@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "GitLabとGit LFSを使ってExcelなどのバイナリでできたドキュメントの世代管理をする"
 date: "2016-04-02"
 categories: 

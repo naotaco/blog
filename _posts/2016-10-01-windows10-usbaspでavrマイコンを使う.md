@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Windows10 + usbaspでAVRマイコンを使う"
 date: "2016-10-01"
 categories: 

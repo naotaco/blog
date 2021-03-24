@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Vaio ProのCPUクロックがまったく上がらない件"
 date: "2015-02-17"
 categories: 

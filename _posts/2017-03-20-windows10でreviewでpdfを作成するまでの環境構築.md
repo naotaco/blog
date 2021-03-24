@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Windows10でRe:VIEWでPDFを作成するまでの環境構築"
 date: "2017-03-20"
 categories: 

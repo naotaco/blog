@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Carl Zeiss Touit 12mmを買った"
 date: "2013-06-07"
 categories: 

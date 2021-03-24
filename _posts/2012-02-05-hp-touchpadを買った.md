@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "HP TouchPadを買った"
 date: "2012-02-05"
 categories: 

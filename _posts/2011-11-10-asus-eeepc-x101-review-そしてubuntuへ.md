@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "ASUS EeePC X101 review: そしてUbuntuへ"
 date: "2011-11-10"
 categories: 

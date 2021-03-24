@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "SIGMA 14mm F1.8 DG HSM Art for Sonyを買ったので天体撮影でテストした"
 date: "2018-10-21"
 categories: 

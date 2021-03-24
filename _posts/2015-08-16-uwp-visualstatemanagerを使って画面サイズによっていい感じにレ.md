@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "[UWP] VisualStateManagerを使って画面サイズ, 向きによっていい感じにレイアウトを変える"
 date: "2015-08-16"
 categories: 

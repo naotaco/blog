@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Net::TwitterでIncorrect signatureが止まらない"
 date: "2010-07-10"
 categories: 

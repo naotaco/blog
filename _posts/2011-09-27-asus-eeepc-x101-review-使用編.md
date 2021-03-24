@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "ASUS EeePC X101 review (使用編)"
 date: "2011-09-27"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "ThinkPad X1 Carbon 6th(2018) LTEモデルを買った"
 date: "2018-08-14"
 categories: 

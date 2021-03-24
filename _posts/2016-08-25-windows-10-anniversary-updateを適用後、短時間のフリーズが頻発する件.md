@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Windows 10 Anniversary Updateを適用後、短時間のフリーズが頻発する件"
 date: "2016-08-25"
 categories: 

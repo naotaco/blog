@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "低温調理器を自作する - TCP talkers - (Web UI編)"
 date: "2015-03-30"
 categories: 

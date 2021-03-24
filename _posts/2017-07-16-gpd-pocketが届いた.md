@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "GPD Pocketが届いた"
 date: "2017-07-16"
 categories: 

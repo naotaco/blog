@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "レビュー: Microsoft Lumia 950"
 date: "2015-12-13"
 categories: 

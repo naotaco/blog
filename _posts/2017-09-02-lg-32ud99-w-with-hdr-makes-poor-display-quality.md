@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "LG 32UD99-W with HDR makes poor display quality"
 date: "2017-09-02"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Leap motion が届かないので、SDKだけ入れてみた"
 date: "2013-07-20"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "UserControlのプロパティに値をBindingする"
 date: "2014-08-09"
 categories: 

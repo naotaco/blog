@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Differential Evolution on Ubuntu"
 date: "2010-11-10"
 categories: 

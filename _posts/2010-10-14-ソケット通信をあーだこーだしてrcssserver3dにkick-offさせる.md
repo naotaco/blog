@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "ソケット通信をあーだこーだしてrcssserver3dにkick offさせる"
 date: "2010-10-14"
 categories: 

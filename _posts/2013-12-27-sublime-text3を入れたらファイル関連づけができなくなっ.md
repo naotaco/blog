@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Sublime text3を入れたらファイル関連づけができなくなってクソッってなった話"
 date: "2013-12-27"
 categories: 

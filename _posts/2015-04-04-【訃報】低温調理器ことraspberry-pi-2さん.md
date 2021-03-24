@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "【訃報】低温調理器ことRaspberry Pi 2さん"
 date: "2015-04-04"
 categories: 

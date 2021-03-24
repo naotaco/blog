@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "CentOSにEmacs23をソースから入れる。"
 date: "2010-07-16"
 categories: 

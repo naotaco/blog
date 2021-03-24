@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Meikeのα9/α7Riii/α7iii用グリップ MK-X1EM を買った"
 date: "2018-06-15"
 categories: 
