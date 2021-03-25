@@ -95,7 +95,9 @@ harman/kardon とロゴが入っていて音質チューニングを監修した
 
 絶対に使う日はこないが、一応撮ったので上げておく。
 
-\[caption id="attachment\_1979" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2018/05/IMG_20180520_131907-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2018/05/IMG_20180520_131907.jpg) MediaPad M5　初期設定で撮影\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2018/05/IMG_20180520_131907-400x300.jpg) |
+|:--:|
+|  MediaPad M5　初期設定で撮影 |
 
 まあ、ノーコメントで。
 
@@ -103,7 +105,9 @@ harman/kardon とロゴが入っていて音質チューニングを監修した
 
 指紋センサは形が細いせいか微妙に反応が悪い気がする。単に復帰が遅いだけか？
 
-\[caption id="attachment\_1971" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02303-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02303.jpg) このように置いて使っている\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2018/05/DSC02303-400x267.jpg) |
+|:--:|
+|  このように置いて使っている |
 
 ほぼキッチンに置きっぱなしなので、InateckのUSB端子付きスタンドに立てている。L字の短いUSB Type-Cケーブルを調達したので良い感じに配置できた。
 

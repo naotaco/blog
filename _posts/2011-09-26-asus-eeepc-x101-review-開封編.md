@@ -16,7 +16,9 @@ ASUSのX101（ASUS X101-EU17-BK 10.1-Inch Netbook）がついに発売された�
 
 で、その友人が帰国したので、ちょうど会ったときに受け取ってきました。富士山で。
 
-\[caption id="attachment\_221" align="aligncenter" width="400" caption="富士山須走登山口（標高2000m）に届けられたX101"\]![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC_3010-400x300.jpg "DSC_3010")\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC_3010-400x300.jpg "DSC_3010") |
+|:--:|
+|  |
 
 タイムラプス撮影中（前の記事参照）に暇で仕方がなかったので、待ちきれず開封。真っ暗な山で（当然この先の写真はない）。
 

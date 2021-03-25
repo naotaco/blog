@@ -14,9 +14,13 @@ AVRマイコンとはAtmel社の製造しているマイコンである。Arduin
 
 このライタにはたくさんの種類があり、まあどれを使ってもいっしょだと思うのだが、買うとそこそこの値段\[ref\]といっても数千円なんだから、今考えれば買ってしまえばよかろうという感じである\[/ref\]する。そこでUSBaspというオープンソースのAVRライタを自作することになるわけで、ご多分に漏れず僕の手元には大学の先生に言われるがままに作ったUSBaspと秋月で衝動買いしたAVRマイコンが多数あるわけだ(ここまで8年前の知識)。
 
-\[caption id="attachment\_1251" align="aligncenter" width="400"\][![AVRマイコンたち。ATMEGA88, ATTINY85など](https://blog.naotaco.com/assets/images/posts/2016/10/WP_20160929_00_52_57_Rich-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2016/10/WP_20160929_00_52_57_Rich.jpg) AVRマイコンたち。ATMEGA88, ATTINY85など\[/caption\]
+| ![AVRマイコンたち。ATMEGA88, ATTINY85など](https://blog.naotaco.com/assets/images/posts/2016/10/WP_20160929_00_52_57_Rich-400x300.jpg) |
+|:--:|
+|  AVRマイコンたち。ATMEGA88, ATTINY85など |
 
-\[caption id="attachment\_1252" align="aligncenter" width="400"\][![学生時代に自作したusbasp](https://blog.naotaco.com/assets/images/posts/2016/10/WP_20160929_00_53_38_Rich-400x300.jpg)](https://blog.naotaco.com/assets/images/posts/2016/10/WP_20160929_00_53_38_Rich.jpg) 学生時代に自作したUSBasp\[/caption\]
+| ![学生時代に自作したusbasp](https://blog.naotaco.com/assets/images/posts/2016/10/WP_20160929_00_53_38_Rich-400x300.jpg) |
+|:--:|
+|  学生時代に自作したUSBasp |
 
 久々にライタとAVRマイコンが出土したので是非いじってみようと思うわけだが、何も思い出せないし当時のPCもないし、なんならWindows10用のドライバなど全く提供されていないのでどこから手を付けて良いかわからぬ。
 

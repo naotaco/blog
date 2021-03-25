@@ -25,9 +25,13 @@ tags:
 
 俺のは型落ちだからあれだが、最近のはもうちょっと進化してるようだ。
 
-\[caption id="attachment\_925" align="aligncenter" width="169"\][![Screenshot_2015-11-23-16-58-32](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_2015-11-23-16-58-32-169x300.png)](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_2015-11-23-16-58-32.png) 体重計で測定した日\[/caption\]
+| ![Screenshot_2015-11-23-16-58-32](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_2015-11-23-16-58-32-169x300.png) |
+|:--:|
+|  体重計で測定した日 |
 
-\[caption id="attachment\_926" align="aligncenter" width="169"\][![心拍数と酸素飽和度を測定した日](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_2015-11-23-16-58-44-169x300.png)](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_2015-11-23-16-58-44.png) 心拍数とSpO2を測定した日\[/caption\]
+| ![心拍数と酸素飽和度を測定した日](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_2015-11-23-16-58-44-169x300.png) |
+|:--:|
+|  心拍数とSpO2を測定した日 |
 
 アプリはよくできていて、タイムライン形式で日々のアクティビティと目標達成度がわかる。が、このPulse O2は細かいところの使い勝手が非常に悪い。
 
@@ -51,11 +55,17 @@ tags:
 
 また、Android上で通知があったときにバンドが振動してそれを知ることが出来るようなのだが、これが全く動かない。これ以外にもアプリ上で表示がぶっ壊れて2日分のデータが同時に重なって表示されたり、グラフに値が反映されるタイミングがおかしかったり、全体的にアプリの作りがぐだぐだ。メインの目標に設定した数値をクリアしたとき(僕の場合はデフォルトの歩数10000歩)と、アラームを設定したときだけは振動するが、他はさっぱりである。
 
-\[caption id="attachment\_929" align="aligncenter" width="169"\][![ダッシュボード。1日のサマリ](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_20151123-172431-169x300.png)](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_20151123-172431.png) ダッシュボード。1日のサマリ\[/caption\]
+| ![ダッシュボード。1日のサマリ](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_20151123-172431-169x300.png) |
+|:--:|
+|  ダッシュボード。1日のサマリ |
 
-\[caption id="attachment\_930" align="aligncenter" width="169"\][![1回のワークアウトの脈拍と負荷](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_20151123-172446-169x300.png)](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_20151123-172446.png) 1回のワークアウトの脈拍と負荷\[/caption\]
+| ![1回のワークアウトの脈拍と負荷](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_20151123-172446-169x300.png) |
+|:--:|
+|  1回のワークアウトの脈拍と負荷 |
 
-\[caption id="attachment\_931" align="aligncenter" width="169"\][![1日の脈拍・運動時間](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_20151123-172603-169x300.png)](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_20151123-172603.png) 1日の脈拍・運動時間\[/caption\]
+| ![1日の脈拍・運動時間](https://blog.naotaco.com/assets/images/posts/2015/11/Screenshot_20151123-172603-169x300.png) |
+|:--:|
+|  1日の脈拍・運動時間 |
 
 ちゃんと動いてるときの表示はいいかんじ。ちなみに設定に「装着する腕: 利き手 or 反対」というのがあり、利き手の場合はなにか閾値が変わったりするのかもしれないが詳細は不明。
 
