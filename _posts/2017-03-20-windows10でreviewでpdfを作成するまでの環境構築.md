@@ -58,9 +58,13 @@ TeXLiveのISOファイルのダウンロードが終わったら、適当にマ�
 
 あとは、できたPDFをAcrobat Pro or Acrobat DCでPDF/X-1a（Japane CXolor CXoated）に変換して色の変換設定をすれば（詳しいことは[この本](https://github.com/TechBooster/FirstStepReVIEW)を読むとよい）よいはず、だった。 が、Windows版のAcrobat Pro XIでPDF/Xに変換すると特定の文字が消えるということが判明。具体的には数式中のマイナス記号が消えた。
 
-\[caption id="attachment\_1402" align="aligncenter" width="681"\]![](https://blog.naotaco.com/assets/images/posts/2017/03/pdf_error.png) NG\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/03/pdf_error.png) |
+|:--:|
+|  NG |
 
-\[caption id="attachment\_1403" align="aligncenter" width="716"\]![](https://blog.naotaco.com/assets/images/posts/2017/03/pdf_ok.png) OK\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/03/pdf_ok.png) |
+|:--:|
+|  OK |
 
 冗談だろ……。
 

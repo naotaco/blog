@@ -42,7 +42,9 @@ categories:
 
 超低電圧版のCPUなのに速くて何をするにも別にもっさりしない。最高。モバイル向けとして初めて（だったような）4コア（8スレッド）になったのがきいているのか、普通に4世代も進化したのがきいているのかわからんが、とにかくVaio Proと比べると圧倒的に快適である。
 
-\[caption id="attachment\_2030" align="aligncenter" width="502"\]![](https://blog.naotaco.com/assets/images/posts/2018/08/diskmark_thinkpad_x1.png) SSDをベンチマーク\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2018/08/diskmark_thinkpad_x1.png) |
+|:--:|
+|  SSDをベンチマーク |
 
 SSDもどこのか知らんがめっちゃ速いので何も言うことがない。デスクトップPCで使ってるやつの倍くらい出てるな……。
 

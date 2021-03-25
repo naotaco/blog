@@ -23,15 +23,21 @@ tags:
 
 Free shippingにしたので3週間くらいかかったが、やっと届いたのでレビューを書く。
 
-\[caption id="attachment\_1986" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03399-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03399.jpg) 箱。\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03399-400x267.jpg) |
+|:--:|
+|  箱。 |
 
 謎のα7mIIIの記載があるが、きっとα7 mkIIIのことなのだろう。それ以外は普通。第2世代にも対応するの？まじ？と思ったが、純正もそうだし実は対応するんだろうか。α7Riiiとしか試していないのでわかりません。
 
-\[caption id="attachment\_1993" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03404-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03404.jpg) カメラにつく側\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03404-400x267.jpg) |
+|:--:|
+|  カメラにつく側 |
 
 純正よりでかいが、本体底面の穴にささるピンのギミックはちゃんと搭載されている（押すと引っ込む）。
 
-\[caption id="attachment\_1992" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03407-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03407.jpg) 底面側\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03407-400x267.jpg) |
+|:--:|
+|  底面側 |
 
 純正同様、バッテリの交換は不可。ネジは手で回せないがコインがあれば回せる。アルカスイス互換がうれしい。さらに三脚穴もあいている。素晴らしい。
 
@@ -39,14 +45,20 @@ Free shippingにしたので3週間くらいかかったが、やっと届いた
 
 カメラに装着するとこのような感じ（ここで急に撮影するカメラがRX100になりフラッシュもなくなり画質が粗くなる）。
 
-\[caption id="attachment\_1989" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC07774-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/06/DSC07774.jpg) 装着したところ。\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC07774-400x267.jpg) |
+|:--:|
+|  装着したところ。 |
 
-\[caption id="attachment\_1987" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC07777-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2018/06/DSC07777.jpg) 表面は微妙に違う。\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC07777-400x267.jpg) |
+|:--:|
+|  表面は微妙に違う。 |
 
 半額のパチもんに多くを求めてはいけないが、若干表面の処理が異なって若干安っぽい。小指の感触がそう変わるわけでもないので、全く問題ない。高級感を求めるなら純正にした方がいいかもしれないが、こちらもグリップの表面以外のフレーム部分なんかは肉厚で質感もよい。どちらかというともう少し薄く軽くしてくれてもいいと思うが……。
 
 肝心の握り心地は上々。おぼろげな記憶では純正とほとんど変わらない気がする。SigmaのArtシリーズのような（昨日35mmがやっと届いたのだ）重いレンズを使うときにはグリップがあった方がいい感じ。逆に軽くいきたいなら無くてもよいと思う（どっち）。70-200とかを振り回すなら必須という印象。
 
-\[caption id="attachment\_1991" align="aligncenter" width="400"\]![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03408-400x267.jpg) 81.2g\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03408-400x267.jpg) |
+|:--:|
+|  81.2g |
 
 重さは約81g。純正が73gで、アルカスイス対応の分だけ重くなってる感じ。どちらにせよ小さくて軽いカメラにこのような重りを付けるのは気が引けるが、レンズが重い場合は仕方ないかな。

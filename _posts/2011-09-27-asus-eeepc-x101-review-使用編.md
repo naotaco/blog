@@ -17,23 +17,31 @@ tags:
 
 まず何よりキーボード。
 
-\[caption id="attachment\_229" align="aligncenter" width="400" caption="キーボード"\]![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC056241-400x266.jpg "SONY DSC")\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC056241-400x266.jpg "SONY DSC") |
+|:--:|
+|  |
 
 （アメリカで買ったのだから当然だが）USキーボードなのはすばらしい。が、どう見ても変態配列。まず5列なのでF1-F12がFnと同時押し必須。そしてEscに追いやられたバッククオートがEnter右下にある（写真参照）。この微妙な配列と、極限まで浅いキーストローク、足りないキーの奥行きによって、とても打ちにくいキーボードが完成されている。最初から期待はしていないが。
 
-\[caption id="attachment\_230" align="aligncenter" width="400" caption="右側面"\]![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05628-400x266.jpg "SONY DSC")\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05628-400x266.jpg "SONY DSC") |
+|:--:|
+|  |
 
 そして右側面にはmicroSDスロットがある。普通のSDじゃないのは仕方ないのだろう。16GBのを調達してさしておいた。
 
 左側面にはアダプタ差し込み口があるが、非常に細いプラグとなっていて心許ない。さすがに折れるようなことは無いだろうが、PSP用のアダプタのプラグよりだいぶ細いってどういうことなんだろう。
 
-\[caption id="attachment\_231" align="aligncenter" width="400" caption="天板"\]![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05623-400x266.jpg "SONY DSC")\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05623-400x266.jpg "SONY DSC") |
+|:--:|
+|  |
 
 そして天板は表面に細かい凹凸の加工がしてあるがプラの質感そのままの出来。パームレストと共通。微妙に手の脂が目立って悲しい。剛性は十分で、特に強度的な不安は覚えないのが凄い。
 
 そして裏面のゴムをむしりとってネジをとり、フタをあけるとメモリとSSDにアクセスできる。
 
-\[caption id="attachment\_232" align="aligncenter" width="400" caption="SSDとメモリ"\]![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05630-400x266.jpg "SONY DSC")\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05630-400x266.jpg "SONY DSC") |
+|:--:|
+|  |
 
 左がPCI\_Express miniSSDで、ネジを1本外すと飛び上がってくる。予想に反して普通に交換できそうだったので、8GBで足りなければ適当に買って換装しよう。メモリは普通のDDR3 SO-DIMMっぽいけど、MAXが2GBらしいので、1回換装したら終わりですね（換える前提）。メモリがエルピーダだったのはポイント高い。
 

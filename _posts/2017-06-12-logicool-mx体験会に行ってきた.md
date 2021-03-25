@@ -20,11 +20,17 @@ Logicoolから、新しいMXマウス(MX MASTER 2S)の体験会の募集があ�
 
 場所はロジクール本社、まずは担当の方から商品について説明をうかがう。
 
-\[caption id="attachment\_1520" align="aligncenter" width="400"\]![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06468-400x267.jpg) とにかくFlow推し\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06468-400x267.jpg) |
+|:--:|
+|  とにかくFlow推し |
 
-\[caption id="attachment\_1512" align="aligncenter" width="400"\]![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06464-400x267.jpg) そういう持ち方するんだ……\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06464-400x267.jpg) |
+|:--:|
+|  そういう持ち方するんだ…… |
 
-\[caption id="attachment\_1519" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06470-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06470.jpg) まとめ\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06470-400x267.jpg) |
+|:--:|
+|  まとめ |
 
 ハードウェア面の差分はバッテリ(70日間持続)と解像度(4000dpi)、ソフト面ではLogicool Flowに対応というのが差分。
 
@@ -46,23 +52,33 @@ Flowについては気になったことを一通り聞いた：
 
 Flowの仕様についてはこんなところか。Flowについてはしばらくさわってみてまたなんか書く。正直これだけならファームウェアのアップデートで対応できそうだけどね、まあビジネスだしね、、
 
-\[caption id="attachment\_1518" align="aligncenter" width="400"\]![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06471-400x267.jpg) MX MASTERが配られる\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06471-400x267.jpg) |
+|:--:|
+|  MX MASTERが配られる |
 
 ありがたやありがたや。
 
-\[caption id="attachment\_1517" align="aligncenter" width="400"\]![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06473-400x267.jpg) Flowを体験するためPC2台ごとに1台のMX MASTERが\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06473-400x267.jpg) |
+|:--:|
+|  Flowを体験するためPC2台ごとに1台のMX MASTERが |
 
 WindowsPCの扱いの雑さを見るに、日本のLogicool社内ではmacが標準なのだろうか
 
-\[caption id="attachment\_1516" align="aligncenter" width="400"\]![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06474-400x267.jpg) そして配られるオリジナルカクテル "ロジクーラー"\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06474-400x267.jpg) |
+|:--:|
+|  そして配られるオリジナルカクテル "ロジクーラー" |
 
 たぶんノンアルコール。夕食も食べてきたところだが軽食もいただいてしまう。太る太る。
 
-\[caption id="attachment\_1515" align="aligncenter" width="400"\]![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06476-400x267.jpg) ほんとは白がほしいが、汚れそうでなぁ…\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06476-400x267.jpg) |
+|:--:|
+|  ほんとは白がほしいが、汚れそうでなぁ… |
 
 さわったのは白だがいただいたのはグレー（黒）
 
-\[caption id="attachment\_1514" align="aligncenter" width="400"\]![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06477-400x267.jpg) ロジクールプロモーションチョコレート\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06477-400x267.jpg) |
+|:--:|
+|  ロジクールプロモーションチョコレート |
 
 そういえばSpotLightもさわらせてもらったが、Unifyingとレシーバ共用じゃないとか、いちおうレーザーポインタがついててくれてもいいじゃないかとかいろいろ気になるところが多かった。そもそも自分のマシンでやらせてもらえないことも多いしね、、
 
@@ -70,13 +86,17 @@ WindowsPCの扱いの雑さを見るに、日本のLogicool社内ではmacが標
 
 帰宅してさっそく開封、MX MASTERとMX MASTER 2Sを並べてみる。
 
-\[caption id="attachment\_1541" align="aligncenter" width="400"\]![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06462-400x267.jpg) 左が2S, 右が初代。色とロゴ以外まったくいっしょ\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06462-400x267.jpg) |
+|:--:|
+|  左が2S, 右が初代。色とロゴ以外まったくいっしょ |
 
 金型は全く同一のようだ。見づらい充電LEDもボタンの感覚もすべて同じ。会社と家に置いておくには最適。
 
 M950と比べると親指の所のボタンが一つ減ってるのがアレだけど、ホイールの切り替えが自動になったからセンターボタンに機能を割り当てられるようになったし、事実上割り当て数は同じかな。
 
-\[caption id="attachment\_1544" align="aligncenter" width="400"\][![](https://blog.naotaco.com/assets/images/posts/2017/06/ScreenClip-400x289.png)](https://blog.naotaco.com/assets/images/posts/2017/06/ScreenClip.png) 進化していたLogicool Options\[/caption\]
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/ScreenClip-400x289.png) |
+|:--:|
+|  進化していたLogicool Options |
 
 さらに、ボタンに割り当てられるのが単機能だけでなく、Gesture buttonというのがある（前からあったっけ？）。これはボタンを押す+押しながらの動作をいくつかのプリセットから選べる。Windows 10ならVirtual desktopsも軽快に動くし、Media controlsにすれば音量とコンテンツ送りもできる。最強じゃん、、　センターボタンをGesture (Virtual desktop), 親指のところをGesture (Media control)にしている。ほかはデフォルトでOK。このへんはすべてMX MASTERでも使える。
 
