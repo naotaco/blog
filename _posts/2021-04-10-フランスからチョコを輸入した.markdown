@@ -1,0 +1,75 @@
+---
+layout: single
+title: フランスからチョコを輸入した
+date: 2021-04-10 00:32:36 +09:00
+categories: diary
+tags: チョコ 輸入
+---
+
+上等なチョコが必要になったので、チョコオタクにおすすめのお店がないか聞いたところベルナシオン（[Bernachon](https://boutique.bernachon.com/en/)）を勧められた。さすがオタクのご推薦とあって、国内販売はしていない。しょうがないので輸入することにした。
+
+いままでガジェットやら雑貨やら散々輸入してきたが、食べ物は初めてである。しかもフランスから。といっても英語で（時折フランス語が混ざるが）通販するだけなので、注文は特に困ることがない。
+
+定番のPalet d’Orと、アソート一箱、あとはバーをいくつか（品切れが多い……）注文した。品物の合計は約90ユーロ。安くはないが、Palet d’Orが375gで43ユーロなのでかなりお買い得だと思う。
+
+ただし送料が高い。日本に送ると約70ユーロからスタートになり、商品を追加していくと金額が上がっていく。今回は92.5ユーロの商品で93.36ユーロの送料であった。30年以上生きているがこんなに高い送料を払った記憶はない。一瞬、もしかしてクール便なのか？とも思ったが、当然そんなことはない。スマホと同じように普通に送られてくる。もっと買うと送料の方がチョコより安くなる場合もあるようだが、さすがにそこまでの根性はなかった。
+
+注文時、受け取り方法を選ぶ画面にFreeというのがあるが、これはパリあるいはリヨンで受け取るという選択肢なので、このご時世おすすめはできない。
+
+![](/assets/images/posts/2021-04-10-00-50-37.png){:width="70%"}
+
+### 配送と追跡
+
+注文すると普通にOrder confirmationのメールが来る。ここまではよいが、待てど暮らせど発送の連絡がこない。5日ほどたち、しびれを切らしてBernachonのマイページから注文の詳細を見ると、 Processing in progress と書いてある（かわった表現だな）。のんびりしてはるなあ、と思いつつ画面を下に送っていくと、Tracking numberの表示が。クリックすると、Seabourne groupというところ（聞いたことねえ……）のトラッキングページに飛べる。
+
+すると下の表のようになっており（4/8現在）、とっくに発送されていて自宅近くまできていることがわかった。海外通販の華とも言われている（言われていない）追跡遊びが台無しである。発送までは4日くらいかかっていたらしい。
+
+|             Status             |    Date    | Heure |                     Signature                     |
+|:------------------------------:|:----------:|:-----:|:-------------------------------------------------:|
+| RÉSERVATION   CONFIRMÉE        | 02/04/2021 | 4:15  | Seabourne                                         |
+| TEMPS   ESTIME DE LIVRAISON    | 06/04/2021 | 16:57 | ETA 09/04/2021                                    |
+| ARRIVE AU   DEPOT LOCAL        | 06/04/2021 | 16:57 | Lyon : Scanned Depot                              |
+| EN ATTENTE   D'UN DÉPART       | 06/04/2021 | 17:04 | LYON:SHIPMENT DETAIL                              |
+| COLIS PRES   CHEZ L'EXPEDITEUR | 06/04/2021 | 18:43 | LYON:SHIPMENT PICKUP                              |
+| PARTIE DE   L'AGENCE DE PARIS  | 06/04/2021 | 20:14 | LYON:DEPART FACILITY                              |
+| ARRIVE AU   DEPOT LOCAL        | 06/04/2021 | 20:47 | LYON:ARRIVED FACILITY                             |
+| PARTIE DE   L'AGENCE DE PARIS  | 06/04/2021 | 22:56 | LYON:DEPART FACILITY                              |
+| ARRIVE AU   DEPOT LOCAL        | 07/04/2021 | 0:49  | LEJ : ARRIVED FACILITY                            |
+| HOLD   OFFICE                  | 07/04/2021 | 3:28  | LEJ : ON HOLD                                     |
+| HOLD   OFFICE                  | 07/04/2021 | 4:09  | LEJ : ON HOLD                                     |
+| EN ATTENTE   D'UN DÉPART       | 07/04/2021 | 13:11 | LEJ : SCHEDULED FOR MOVEMENT                      |
+| PARTIE DE   L'AGENCE DE PARIS  | 07/04/2021 | 13:34 | LEJ : DEPART FACILITY                             |
+| ARRIVE AU   DEPOT LOCAL        | 08/04/2021 | 9:51  | XXX : ARRIVED FACILITY                            |
+| CLEARED   CUSTOMS              | 08/04/2021 | 10:51 | XXX : CLEARANCE RELEASE                           |
+| PARTIE DE   L'AGENCE DE PARIS  | 08/04/2021 | 11:16 | XXX : DEPART FACILITY                             |
+| EN COURS   DE LIVRAISON        | 08/04/2021 | 13:14 | XXX : FORWARDED DESTINATION,   DELIVERY DETAILS E |
+
+結果として、追跡表示のETAと書いてある通り4月9日の夜に自宅へ配送されてきた。DHL等の荷物を受託している運送業者（なぜかすでに顔なじみになっている）の人が持ってきてくれた。
+
+ちなみに、自宅に届いて2時間くらいたったころ、Shippedというメールがきた。なんなんだ。
+
+### 開梱・開封
+
+FRAGILEとでかでかと書かれたテープで梱包された段ボール箱に緩衝材がみっちり詰め込まれて届いた。
+
+![](/assets/images/posts/2021-04-10-00-59-00.png){:width="60%"}
+
+![](/assets/images/posts/2021-04-10-00-59-31.png){:width="60%"}
+
+それぞれプチプチに包んである。
+
+![](/assets/images/posts/2021-04-10-01-00-08.png){:width="80%"}
+
+バーはなぜかまとめて紙に包んであったりする。また手書きで箱に賞味期限が書いてあるなど（ほぼ読めない）、フランスを感じる。
+
+![](/assets/images/posts/2021-04-10-01-08-52.png){:width="80%"}
+
+とりあえずPalet d'Orを食べたが実にうまかった。カカオの香りもすばらしいし、中身？の上品な酸味とあいまって最高。割れていたが……。箱にみっちり詰まっているので、それはそうという感じ。特に割れないように頑張ろうみたいな感じはなさそう。
+
+BoxesでなくCubeというちょっと高い方を買うと箱がしっかりしているのかもしれないが、どうだろう。今後の課題とします。
+
+海外チョコレート通販という沼への扉が開いた日であった。
+
+### まとめ
+
+うまいが高い。
