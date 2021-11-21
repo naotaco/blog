@@ -16,7 +16,9 @@ tags: covid-19
 
 平日に有休を取って出かけるやつはしばしば続けていて、10月は軽井沢に、11月は平泉に行ってきた。
 
-軽井沢
+軽井沢は東京から1時間と近く、新幹線も安いので景気づけにグランクラスに乗った。丁寧に接客されるのに慣れていないので、グリーン車の方がいいな……。どうでもいいが、国際線エコノミークラスの雑な接客くらいがちょうどいい。あんたどこいくの？ビール飲む？1本でいいの？フライトは12時間もあるのよ？とごり押してきたBAのマダムを思い出す。
+
+先人が天下の険に通したアプト線の話を読んでいたので、軽井沢で車を借りて横川まで峠を下りていった。変電所跡と碓氷峠の関所跡を見て、おぎのやで釜めしを食べる。軽井沢への帰りに
 
 ![/assets/images/posts/N0002505-Edit.jpg](/assets/images/posts/N0002505-Edit.jpg){:width="70%"}
 
@@ -24,10 +26,11 @@ tags: covid-19
 
 ![/assets/images/posts/N0005204-Edit.jpg](/assets/images/posts/N0005204-Edit.jpg){:width="70%"}
 
-![/assets/images/posts/N0005215-Edit.jpg](/assets/images/posts/N0005215-Edit.jpg){:width="70%"}
+[![](/assets/images/posts/N0005215-Edit.jpg)](/assets/images/posts/N0005215-Edit.jpg)
 
-![/assets/images/posts/N0005336-Edit.jpg](/assets/images/posts/N0005336-Edit.jpg){:width="70%"}
+[![](/assets/images/posts/N0005336-Edit.jpg)](/assets/images/posts/N0005336-Edit.jpg){:width="70%"}
 
+[![](https://blog.naotaco.com/assets/images/posts/2019/12/SDIM0581-720x480.jpg)](https://blog.naotaco.com/assets/images/posts/2019/12/SDIM0581-scaled.jpg)
 
 ---
 
