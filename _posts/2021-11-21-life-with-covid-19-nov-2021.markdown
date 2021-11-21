@@ -18,15 +18,15 @@ tags: covid-19
 
 軽井沢
 
-![](/assets/images/posts/N0002505-Edit.jpg){:width="70%"}
+![/assets/images/posts/N0002505-Edit.jpg](/assets/images/posts/N0002505-Edit.jpg){:width="70%"}
 
-![](/assets/images/posts/N0002521-Edit.jpg){:width="70%"}
+![/assets/images/posts/N0002521-Edit.jpg](/assets/images/posts/N0002521-Edit.jpg){:width="70%"}
 
-![](/assets/images/posts/N0005204-Edit.jpg){:width="70%"}
+![/assets/images/posts/N0005204-Edit.jpg](/assets/images/posts/N0005204-Edit.jpg){:width="70%"}
 
-![](/assets/images/posts/N0005215-Edit.jpg){:width="70%"}
+![/assets/images/posts/N0005215-Edit.jpg](/assets/images/posts/N0005215-Edit.jpg){:width="70%"}
 
-![](/assets/images/posts/N0005336-Edit.jpg){:width="70%"}
+![/assets/images/posts/N0005336-Edit.jpg](/assets/images/posts/N0005336-Edit.jpg){:width="70%"}
 
 
 ---
