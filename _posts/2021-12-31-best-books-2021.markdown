@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 読んで良かった本 2021
+title: 2021年読んで良かった本
 date: 2021-12-31 23:00:05 +09:00
 categories: diary
 tags: 読書 よかった
