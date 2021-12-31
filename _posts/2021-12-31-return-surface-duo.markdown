@@ -25,7 +25,7 @@ replaceを選ぶと理由を説明させられるので、症状を簡単に説�
 
 この時点で注文履歴のページには`Replacement requested`といった表示がされており、返送品の注文へのリンクや、返送用のラベル・インボイス等が表示できる。返品期限は3ヶ月後くらいの日付になっていた。
 
-[![](/assets/images/posts/2021-12-31-22-25-05.png){.align-center} ](/assets/images/posts/2021-12-31-22-25-05.png)
+[![](/assets/images/posts/2021-12-31-22-25-05.png){text-align: center} ](/assets/images/posts/2021-12-31-22-25-05.png)
 
 ### 新品受領と返送
 
@@ -67,7 +67,9 @@ EMSの追跡を眺めていると1週間くらいで荷物は到着したよう�
 
 そして12/23に突然Amazonから受領した旨（Return received for ...）のメールが来た。ここでやっとReplacement completedという表示になった。
 
+{:refdef: style="text-align: center;"}
 [![](/assets/images/posts/2021-12-31-22-51-26.png){.align-center} ](/assets/images/posts/2021-12-31-22-51-26.png)
+{: refdef}
 
 直後に15ドルをさらに返金したという連絡も来た。どうもこの15ドルは返送の送料という扱いらしい。全く足りないので差分をよこせとチャットで言うとさらに返金してくれるという噂もあるが、面倒なのでもういいや。
 
