@@ -21,6 +21,44 @@ Sigma fp用に小さくて軽い単焦点を探していたら、7Artisansが35m
   * 各種補正が動かない
 * レンズキャップが内蔵されている（フォーカスリングに連動して出入りする）
 
+もちろん最大の売りは小さくて軽いことなので、その他のことを気にしてはいけない。レンズキャップが内蔵なことと相まってかなり身軽に撮影ができる。メインのカメラがα7ivなので、それと比べればもうコンデジもいいところである。
+
+一方で慣れないMFでの撮影というのはなかなか手強い。別に好きじゃないんだよなあ、MF。ピントを合わせてたら構図のことを忘れたりするし。単にピントを合わせるのが面倒というより難易度が上がる印象。
+
+ということでこれを持って散歩に行ってきたので、レビューがてら画像を貼っていく。この先の画像はすべてSigma fp + 7Artisans 35mm F/5.6で撮影した、撮って出しの画像をそのままアップロードしている。なのでとても重い。許してくれ。ちなみにカラーモードはT&Oか風景か標準のどれかだと思う。
+
+
+[![](/assets/images/posts/SDIM3065.JPG){:width="80%" .align-center} ](/assets/images/posts/SDIM3065.JPG)
+
+[![](/assets/images/posts/SDIM3067.JPG){:width="80%" .align-center} ](/assets/images/posts/SDIM3067.JPG)
+
+テーブルフォトをT&Oで撮っている感じ、色被りや周辺減光は気にならない。料理を撮るにはよさそう。最短撮影距離が30cmなので、あまり寄れないが35mmなのでそこまで寄る必要もなかろう。
+
+[![](/assets/images/posts/SDIM3068.JPG){:width="80%" .align-center} ](/assets/images/posts/SDIM3068.JPG)
+
+[![](/assets/images/posts/SDIM3077.JPG){:width="80%" .align-center} ](/assets/images/posts/SDIM3077.JPG)
+
+[![](/assets/images/posts/SDIM3084.JPG){:width="80%" .align-center} ](/assets/images/posts/SDIM3084.JPG)
+
+[![](/assets/images/posts/SDIM3086.JPG){:width="80%" .align-center} ](/assets/images/posts/SDIM3086.JPG)
+
+このくらいの周辺減光なら味と思えば（少なくとも私は）気にならないのだが、問題はこの周辺のシアン被り（？）である。空や大きいパネルを撮影するとかなり目立つ。
+
+[![](/assets/images/posts/SDIM3094.JPG){:width="80%" .align-center} ](/assets/images/posts/SDIM3094.JPG)
+
+[![](/assets/images/posts/SDIM3107.JPG){:width="80%" .align-center} ](/assets/images/posts/SDIM3107.JPG)
+
+こういう構図だと特に厳しい。Lightroomで円形フィルター+色かぶり補正を使えば修正はできるが面倒である。
+
+[![](/assets/images/posts/SDIM3111.JPG){:width="80%" .align-center} ](/assets/images/posts/SDIM3111.JPG)
+
+[![](/assets/images/posts/SDIM3118.JPG){:width="80%" .align-center} ](/assets/images/posts/SDIM3118.JPG)
+
+やはり料理にはよさそうだ。
+
+総じて色は気になるが（少なくとも中央付近の）解像は十分で、24MPのカメラであれば等倍で見ても特にならない。
+
+ということで、料理やガチャガチャしたところでのスナップには十分使えそうだが、遠景はちょっと工夫が必要かもしれない。
 
 
 
