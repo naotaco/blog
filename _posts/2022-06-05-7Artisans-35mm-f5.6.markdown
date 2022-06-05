@@ -1,0 +1,26 @@
+---
+layout: single
+title: 七工匠 7Artisans 35mm F5.6を買った
+date: 2022-06-05 22:51:02 +09:00
+categories: Camera Lens Sigma 7Artisans
+---
+
+Sigma fp用に小さくて軽い単焦点を探していたら、7Artisansが35mm F/5.6という攻めたやつを出していることを知った。なんとなくマップカメラを見ていたら中古が1万円少々で出ていたので、気づいたら手元にあった次第。
+
+[![](/assets/images/posts/N0106826.jpg){:width="80%" .align-center} ](/assets/images/posts/N0106826.jpg)
+
+[![](/assets/images/posts/N0106827.jpg){:width="80%" .align-center} ](/assets/images/posts/N0106827.jpg)
+
+いわゆる普通のレンズ（Sigma純正のContemporaryとか）と比べるとだいぶ違っていて、ほとんどオールドレンズだと思った方がよい。
+
+* AFできず、MF専用
+* 絞りがF/5.6固定
+* 電子接点がない
+  * 絞りや焦点距離の情報がExifに残らない
+  * フォーカスリングを回すと自動で画面を拡大するような機能は動かない
+  * 各種補正が動かない
+* レンズキャップが内蔵されている（フォーカスリングに連動して出入りする）
+
+
+
+
