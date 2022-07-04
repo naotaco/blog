@@ -3,6 +3,8 @@ layout: single
 title: 富山に行ってきた
 date: 2022-04-07 01:15:23 +09:00
 categories: 旅行 写真 富山
+header:
+  image: /assets/images/posts/2022-04-09-01-36-44.png
 ---
 
 富山に行ってきた。理由は、行ったことがなかったから。

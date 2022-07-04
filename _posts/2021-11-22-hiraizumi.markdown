@@ -4,6 +4,8 @@ title: 平泉に行ってきた
 date: 2021-11-22 00:19:19 +09:00
 categories: diary
 tags: 旅行 写真 岩手 平日日帰り
+header:
+  image: /assets/images/posts/N0005336-Edit.jpg
 ---
 
 完全に味を占めた、平日に休みを取って日帰りで出かけるシリーズ。11月頭に平泉に行ってきた。

@@ -3,6 +3,8 @@ layout: single
 title: ミソノ UX10 牛刀 240mmを買った
 date: 2022-06-07 00:43:56 +09:00
 categories: 料理 調理器具 包丁
+header:
+  image: /assets/images/posts/N0106839.jpg
 ---
 
 最近包丁ばかり買っている。レンズを買うのに比べると財政への影響が小さく、好ましいといえる。

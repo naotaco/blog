@@ -4,6 +4,8 @@ title: 関孫六 10000CLの牛刀を買った
 date: 2022-05-04 00:37:12 +09:00
 categories: diary
 tags: 料理 調理器具 包丁
+header:
+  image: /assets/images/posts/2022-05-04-01-28-16.png
 ---
 
 最近は包丁を研ぐのにはまっていて毎週研いでいる。メインのBrieto M12PRO 牛刀 210mmと、Brieto M11 ペティナイフ 150mmの2本でほとんど全ての料理をしていて、この2本を週末に研いでいる感じ。

@@ -3,6 +3,8 @@ layout: single
 title: 七工匠 7Artisans 35mm F5.6を買った
 date: 2022-06-05 22:51:02 +09:00
 categories: Camera Lens Sigma 7Artisans
+header:
+  image: /assets/images/posts/SDIM3068.JPG
 ---
 
 Sigma fp用に小さくて軽い単焦点を探していたら、7Artisansが35mm F/5.6という攻めたやつを出していることを知った。なんとなくマップカメラを見ていたら中古が1万円少々で出ていたので、気づいたら手元にあった次第。

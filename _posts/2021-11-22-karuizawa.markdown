@@ -3,6 +3,8 @@ layout: single
 title: 軽井沢に行ってきた
 date: 2021-11-22 00:19:16 +09:00
 categories: 旅行 写真 軽井沢 長野 平日日帰り
+header:
+  image: /assets/images/posts/N0002505-Edit.jpg
 ---
 
 平日に休みを取って日帰りで出かけるシリーズ。10月頭に、碓氷峠と滝を見に軽井沢へ行ってきた。
