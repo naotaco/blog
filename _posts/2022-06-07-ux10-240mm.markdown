@@ -9,7 +9,7 @@ header:
 
 最近包丁ばかり買っている。レンズを買うのに比べると財政への影響が小さく、好ましいといえる。
 
-[![](/assets/images/posts/N0106839.jpg){:width="80%" .align-center} ](/assets/images/posts/N0106839.jpg)
+[![UX10 24cm牛刀](/assets/images/posts/N0106839.jpg){:width="80%" .align-center} ](/assets/images/posts/N0106839.jpg)
 
 メルカリを見ていたら15000円くらいで出ていたので買ってしまった。もともとは24cmのスライサーを買おうと思っていて、グランドシェフのサーモンスライサーをぽちっていたのだが、ほとんど同じ値段のこれを見つけたのでグランドシェフはキャンセルしてこっちを買った。
 
@@ -17,9 +17,9 @@ header:
 
 これで手元の牛刀は3本になった。1本は何年も使っているBrieto M12、次がこないだ買った関孫六 10000CLで、3本目がこれ。職人の一点物や伝統ある老舗のものにはあまり興味が沸かないので、メーカーの量産品という意味ではこれ以上望めないラインナップだと認識している（少なくとも今日の段階では）。長さの観点でも24cmが上限という感じがしており、これ以上包丁が増えることはないだろう（フラグ）。
 
-[![](/assets/images/posts/N0106849.jpg){:width="80%" .align-center} ](/assets/images/posts/N0106849.jpg)
+[![UX10 24cmと　10000CL 21cmの比較。似た形状だが長さが違う。](/assets/images/posts/N0106849.jpg){:width="80%" .align-center} ](/assets/images/posts/N0106849.jpg)
 
-[![](/assets/images/posts/N0106851.jpg){:width="80%" .align-center} ](/assets/images/posts/N0106851.jpg)
+[![同様にUX10 24cmとBrieto M12 21cm牛刀の比較。長さが違う以外に、Brietoにはディンプル処理がしてある。](/assets/images/posts/N0106851.jpg){:width="80%" .align-center} ](/assets/images/posts/N0106851.jpg)
 
 というわけでこの数週間、あたらしい2本で料理をしている。研いだ直後の、薄い食材に対する切れ味については、 10000CL ＞＞ UX10 ＞ Brieto という感じ。10000CLは大げさに言うと、キャベツの千切りをするときに刃が触れた瞬間にキャベツがバラバラになっていくような感じ。UX10は抵抗なく切れていくような感じ。見ての通り個人の感想です。いやどっちもバチクソ切れるのではあるが。あとこれは研ぎ方の問題もあるのかもしれないが、UX10は10000CLと比べると刃先が滑るようになるのも早い気がする。このあたりは鋼材の硬度が直結する領域なのでそんなもんなんだろうな。しかしUX10は研いだ後に切ったときの感触がなんか妙に良いような気がする……。刃のかかりが良いのになめらかみたいな。3本の範囲ではこの感触はUX10だけだと思う。
 
@@ -35,5 +35,5 @@ header:
 
 最近またメルカリでペティナイフも買ってしまったのだが、それはまた別の話。
 
-[![](/assets/images/posts/N0106854.jpg){:width="80%" .align-center} ](/assets/images/posts/N0106854.jpg)
+[![ミソノ 440 ペティナイフ 12cm](/assets/images/posts/N0106854.jpg){:width="80%" .align-center} ](/assets/images/posts/N0106854.jpg)
 
