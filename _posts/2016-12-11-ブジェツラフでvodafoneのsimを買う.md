@@ -30,7 +30,7 @@ tags:
 
 まず、Vodafoneのサイトで場所と営業時間を調べて頭に叩き込む、あるいはEvernoteに保存してオフライン保存ができるプランにアップグレードする(実際こうした)。[ブジェツラフ店のページはこちら](https://www.vodafone.cz/en/about-vodafone/stores/store-detail/breclav/)。いわゆる9時5時である上に、土曜の午後と日曜はやっていない。すごい。念のためもうひとつのキャリアである[O2のショップ](https://www.o2.cz/osobni/en/stores/breclav/324-jana-palacha-3197/)の位置も調べていったが、Vodafoneで用が足りたので行くことはなかった。たしか、プリペイドのプランが微妙だった（気がした）。ちなみに営業時間はVodafoneと大差ない。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2016/12/map2-398x300.png) |
+| ![](https://blog.naotaco.com/assets/images/posts/2016/12/map2.png) |
 |:--:|
 |  ショップの場所　 ©2016 Google |
 
@@ -64,7 +64,7 @@ tags:
 
 当初は3Gだったが、一晩したら4Gが使えるようになり、上々の速度である。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2016/12/Screenshot_20161122-035459-169x300.png) |
+| ![](https://blog.naotaco.com/assets/images/posts/2016/12/Screenshot_20161122-035459.png) |
 |:--:|
 |  ミクロフで測定 |
 

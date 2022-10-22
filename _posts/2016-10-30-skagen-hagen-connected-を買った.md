@@ -50,7 +50,7 @@ tags:
 
 一般的な「普通の腕時計にしか見えない系スマートウォッチ」と同様、歩数(距離/カロリー), 睡眠, 通知, アラームが使える。専用アプリがAndroid/iOSに提供されており、Bluetooth Low Energyで接続されるところも普通。買ってちょっと歩いたあとの画面がこちら。
 
-| ![歩数表示画面](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-015041-169x300.png) |
+| ![歩数表示画面](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-015041.png) |
 |:--:|
 |  歩数表示画面 |
 
@@ -58,7 +58,7 @@ tags:
 
 普段つけて寝ることはないと思うが、テストのためにつけて寝てみた。
 
-| ![screenshot_20161030-224121](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-224121-169x300.png) |
+| ![screenshot_20161030-224121](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-224121.png) |
 |:--:|
 |  11時間…？ |
 
@@ -72,17 +72,17 @@ tags:
 
 設定からNotificationsを開くとMy People, My Apps, My Modesとなっていて、My Appsに通知が出るアプリを6個まで追加することが出来る。Slack, Gmail, Google+, Twitterは選べたが、Hangoutsが選べない、惜しい。調べてないけど、ハングアウト側の問題なんだろうなという感じがする。がんばってほしい。
 
-| ![通知設定](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224942-169x300.png) |
+| ![通知設定](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224942.png) |
 |:--:|
 |  通知設定 |
 
-| ![アプリを選べる](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-220616-169x300.png) |
+| ![アプリを選べる](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-220616.png) |
 |:--:|
 |  Add/Editでアプリを選べる |
 
 で、通知されると時計が振動(弱い…)し、短い針が特定の色を指す。アプリごとにこの色を変えることが出来る。
 
-| ![通知時に針がさす色をえらぶ](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224937-169x300.png) |
+| ![通知時に針がさす色をえらぶ](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224937.png) |
 |:--:|
 |  通知時に針がさす色をえらぶ |
 

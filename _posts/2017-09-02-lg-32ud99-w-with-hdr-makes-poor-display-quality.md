@@ -28,10 +28,10 @@ Test 2 Display photo in pre-install Photo app
 
 Current settings:
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/08/display_setting-577x600.png) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/08/display_setting.png) |
 |:--:|
 |  Display settings |
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/08/HDR_detail-577x600.png) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/08/HDR_detail.png) |
 |:--:|
 |  HDR and advanced color settings |

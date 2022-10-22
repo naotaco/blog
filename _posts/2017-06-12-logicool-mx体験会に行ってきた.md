@@ -94,7 +94,7 @@ WindowsPCの扱いの雑さを見るに、日本のLogicool社内ではmacが標
 
 M950と比べると親指の所のボタンが一つ減ってるのがアレだけど、ホイールの切り替えが自動になったからセンターボタンに機能を割り当てられるようになったし、事実上割り当て数は同じかな。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/06/ScreenClip-400x289.png) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/ScreenClip.png) |
 |:--:|
 |  進化していたLogicool Options |
 

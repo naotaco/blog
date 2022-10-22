@@ -31,11 +31,11 @@ WebOSはかなりサクサク動いていて、マルチタスクもばっちり
 
 最近、Android4ベースのCM9が公開されたので、こっちを入れてしまったけど、非常に快適に使えている。Wifiが不安定で、カメラ（もともと前面しかない）が使えなくて、動画再生ができないんだけど。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2012/02/Screenshot_2012-02-05-17-23-24-400x300.png "Screenshot_2012-02-05-17-23-24") |
+| ![](https://blog.naotaco.com/assets/images/posts/2012/02/Screenshot_2012-02-05-17-23-24.png "Screenshot_2012-02-05-17-23-24") |
 |:--:|
 |  |
 
-| ![](https://blog.naotaco.com/assets/images/posts/2012/02/Screenshot_2012-02-05-17-27-17-400x300.png "Screenshot_2012-02-05-17-27-17") |
+| ![](https://blog.naotaco.com/assets/images/posts/2012/02/Screenshot_2012-02-05-17-27-17.png "Screenshot_2012-02-05-17-27-17") |
 |:--:|
 |  |
 
