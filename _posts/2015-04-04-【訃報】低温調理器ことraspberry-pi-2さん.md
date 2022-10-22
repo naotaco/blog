@@ -15,7 +15,7 @@ tags:
 
 さらに間が悪いことに、以前頼んでいたRaspberry Pi2用のケースが今日届いた。
 
-| ![起動しないRaspberry Piにケースをかぶせたところ](https://blog.naotaco.com/assets/images/posts/2015/04/CBtsGuXUAAEJ1oQ-400x300.jpg) |
+| ![起動しないRaspberry Piにケースをかぶせたところ](https://blog.naotaco.com/assets/images/posts/2015/04/CBtsGuXUAAEJ1oQ.jpg) |
 |:--:|
 |  起動しないRaspberry Piにケースをかぶせたところ |
 

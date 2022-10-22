@@ -16,7 +16,7 @@ ASUSのX101（ASUS X101-EU17-BK 10.1-Inch Netbook）がついに発売された�
 
 で、その友人が帰国したので、ちょうど会ったときに受け取ってきました。富士山で。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC_3010-400x300.jpg "DSC_3010") |
+| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC_3010.jpg "DSC_3010") |
 |:--:|
 |  |
 

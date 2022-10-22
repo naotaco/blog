@@ -24,7 +24,7 @@ tags:
 |:--:|
 |  外箱 |
 
-| ![dsc04037](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04037-300x300.jpg) |
+| ![dsc04037](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04037.jpg) |
 |:--:|
 |  内側の箱 |
 

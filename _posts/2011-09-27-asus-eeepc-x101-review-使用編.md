@@ -17,13 +17,13 @@ tags:
 
 まず何よりキーボード。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC056241-400x266.jpg "SONY DSC") |
+| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC056241.jpg "SONY DSC") |
 |:--:|
 |  |
 
 （アメリカで買ったのだから当然だが）USキーボードなのはすばらしい。が、どう見ても変態配列。まず5列なのでF1-F12がFnと同時押し必須。そしてEscに追いやられたバッククオートがEnter右下にある（写真参照）。この微妙な配列と、極限まで浅いキーストローク、足りないキーの奥行きによって、とても打ちにくいキーボードが完成されている。最初から期待はしていないが。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05628-400x266.jpg "SONY DSC") |
+| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05628.jpg "SONY DSC") |
 |:--:|
 |  |
 
@@ -31,7 +31,7 @@ tags:
 
 左側面にはアダプタ差し込み口があるが、非常に細いプラグとなっていて心許ない。さすがに折れるようなことは無いだろうが、PSP用のアダプタのプラグよりだいぶ細いってどういうことなんだろう。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05623-400x266.jpg "SONY DSC") |
+| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05623.jpg "SONY DSC") |
 |:--:|
 |  |
 
@@ -39,7 +39,7 @@ tags:
 
 そして裏面のゴムをむしりとってネジをとり、フタをあけるとメモリとSSDにアクセスできる。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05630-400x266.jpg "SONY DSC") |
+| ![](https://blog.naotaco.com/assets/images/posts/2011/09/DSC05630.jpg "SONY DSC") |
 |:--:|
 |  |
 

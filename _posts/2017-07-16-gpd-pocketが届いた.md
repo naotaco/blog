@@ -58,11 +58,11 @@ ProjectのページにあるかっこいいHubとは似ても似つかないし�
 
  
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/07/j2mtqwmb0q7aamyzpc3p-400x217.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/07/j2mtqwmb0q7aamyzpc3p.jpg) |
 |:--:|
 |  顧客の期待 |
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/07/WP_20170716_09_59_39_Rich-400x300.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/07/WP_20170716_09_59_39_Rich.jpg) |
 |:--:|
 |  提供された価値 |
 

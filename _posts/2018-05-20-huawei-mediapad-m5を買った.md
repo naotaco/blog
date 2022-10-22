@@ -95,7 +95,7 @@ harman/kardon とロゴが入っていて音質チューニングを監修した
 
 絶対に使う日はこないが、一応撮ったので上げておく。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/05/IMG_20180520_131907-400x300.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/05/IMG_20180520_131907.jpg) |
 |:--:|
 |  MediaPad M5　初期設定で撮影 |
 

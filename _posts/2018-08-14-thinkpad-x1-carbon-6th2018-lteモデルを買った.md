@@ -34,7 +34,7 @@ categories:
 
 発注は6/22、出荷が7/18、届いたのは7/24であった。
 
-![](https://blog.naotaco.com/assets/images/posts/2018/08/Di3wv6wUYAA6Cgs-720x540.jpg)
+![](https://blog.naotaco.com/assets/images/posts/2018/08/Di3wv6wUYAA6Cgs.jpg)
 
 #### 性能
 

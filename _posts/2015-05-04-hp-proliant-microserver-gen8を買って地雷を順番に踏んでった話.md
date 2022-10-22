@@ -21,7 +21,7 @@ NASにしてた自宅サーバが死んでしまったので、そのリプレ�
 
 ということで、無事届いた。
 
-| ![かっこいい](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150505_03_00_48_Pro-e1430762899641-225x300.jpg) |
+| ![かっこいい](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150505_03_00_48_Pro-e1430762899641.jpg) |
 |:--:|
 |  かっこいい |
 
@@ -92,7 +92,7 @@ sambaのパラメータいじったり、仮想ディスクの種類(lazy/eager 
 
 しょうがないので2.5インチのHDDを1本買ってきて、CDドライブのところにむりやり搭載した。せっかくだしHGSTのにしたかったが在庫が無く、東芝の適当なやつにした。
 
-| ![カジュアルに搭載された5台目](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150503_21_43_33_Pro-400x300.jpg) |
+| ![カジュアルに搭載された5台目](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150503_21_43_33_Pro.jpg) |
 |:--:|
 |  カジュアルに搭載された5台目 |
 
@@ -130,7 +130,7 @@ MicroServer様はマザーボード上のUSBコネクタに挿したUSBメモリ
 
 というわけで、USBメモリにESXiをインストールする。
 
-| ![見飽きたやつ](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150502_001-400x300.jpg) |
+| ![見飽きたやつ](https://blog.naotaco.com/assets/images/posts/2015/05/WP_20150502_001.jpg) |
 |:--:|
 |  見飽きたやつ |
 

@@ -44,7 +44,7 @@ Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文�
 |:--:|
 |  左から950, 930, 920 |
 
-| ![DSC01429](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01429-1-400x97.jpg) |
+| ![DSC01429](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01429-1.jpg) |
 |:--:|
 |  同じく |
 
@@ -96,31 +96,31 @@ Desktop版と同じように、画面表示の大きさを変更することが�
 
 Lumia930:
 
-| ![ISO64](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_18_Pro_LI-1-400x300.jpg) |
+| ![ISO64](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_18_Pro_LI-1.jpg) |
 |:--:|
 |  ISO64 |
 
-| ![ISO100](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_21_Pro_LI-1-400x300.jpg) |
+| ![ISO100](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_21_Pro_LI-1.jpg) |
 |:--:|
 |  ISO100 |
 
-| ![ISO200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_24_Pro_LI-1-400x300.jpg) |
+| ![ISO200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_24_Pro_LI-1.jpg) |
 |:--:|
 |  ISO200 |
 
-| ![ISO400](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_28_Pro_LI-1-400x300.jpg) |
+| ![ISO400](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_28_Pro_LI-1.jpg) |
 |:--:|
 |  ISO400 |
 
-| ![ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_32_Pro_LI-1-400x300.jpg) |
+| ![ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_32_Pro_LI-1.jpg) |
 |:--:|
 |  ISO800 |
 
-| ![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_37_Pro_LI-1-400x300.jpg) |
+| ![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_37_Pro_LI-1.jpg) |
 |:--:|
 |  ISO1600 |
 
-| ![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_44_Pro_LI-1-400x300.jpg) |
+| ![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_44_Pro_LI-1.jpg) |
 |:--:|
 |  ISO3200 |
 
@@ -134,39 +134,39 @@ Lumia930:
 
 Lumia950:
 
-| ![ISO50](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_40_Pro_LI-400x300.jpg) |
+| ![ISO50](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_40_Pro_LI.jpg) |
 |:--:|
 |  ISO50 |
 
-| ![ISO100](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_44_Pro_LI-400x300.jpg) |
+| ![ISO100](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_44_Pro_LI.jpg) |
 |:--:|
 |  ISO100 |
 
-| ![ISO200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_48_Pro_LI-400x300.jpg) |
+| ![ISO200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_48_Pro_LI.jpg) |
 |:--:|
 |  ISO200 |
 
-| ![ISO400](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_51_Pro_LI-400x300.jpg) |
+| ![ISO400](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_51_Pro_LI.jpg) |
 |:--:|
 |  ISO400 |
 
-| ![ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_55_Pro_LI-400x300.jpg) |
+| ![ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_55_Pro_LI.jpg) |
 |:--:|
 |  ISO800 |
 
-| ![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_57_Pro_LI-400x300.jpg) |
+| ![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_57_Pro_LI.jpg) |
 |:--:|
 |  ISO1600 |
 
-| ![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_04_02_Pro_LI-400x300.jpg) |
+| ![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_04_02_Pro_LI.jpg) |
 |:--:|
 |  ISO3200 |
 
-| ![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_11_Pro_LI-400x300.jpg) |
+| ![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_11_Pro_LI.jpg) |
 |:--:|
 |  |
 
-| ![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_20_Pro_LI-400x300.jpg) |
+| ![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_03_20_Pro_LI.jpg) |
 |:--:|
 |  |
 
@@ -174,11 +174,11 @@ Lumia950:
 
 ISO800と1600を比較画像にした。
 
-| ![比較@ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO800-400x211.jpg) |
+| ![比較@ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO800.jpg) |
 |:--:|
 |  比較@ISO800 |
 
-| ![比較@ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO1600-400x217.jpg) |
+| ![比較@ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/950-930-ISO1600.jpg) |
 |:--:|
 |  比較@ISO1600 |
 
