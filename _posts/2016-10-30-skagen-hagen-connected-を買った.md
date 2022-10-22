@@ -14,13 +14,13 @@ tags:
 
 もともとSKAGENの時計が好きで2つほど持っていて、そろそろ買い足したいなーと思っていたところにスマートウォッチを出すというので早速購入した。ほんとうは数週間前にSKAGENのwebサイトで注文可能になっていたのだが、配送先を日本にするとエラーで購入できなかったので(今は知らないが)、直営店にいって買ってきたのであった。
 
-[![dsc04054](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054.jpg)
+[![dsc04054](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054.jpg)](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054.jpg)
 
 \[amazonjs asin="B01M276C2J" locale="JP" title="スカーゲンSKAGEN 腕時計 HAGEN CONNECTED ハイブリッドスマートウォッチ SKT1103 メンズ 【正規輸入品】"\]
 
 ということで2日間使っただけだが軽くレビューを書いておく。アプリの機能追加もあるので、随時更新中。
 
-| ![dsc04034](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04034-400x267.jpg) |
+| ![dsc04034](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04034.jpg) |
 |:--:|
 |  外箱 |
 
@@ -30,7 +30,7 @@ tags:
 
  
 
-| ![ご対面](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054-400x267.jpg) |
+| ![ご対面](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054.jpg) |
 |:--:|
 |  ご対面 |
 
@@ -44,7 +44,7 @@ tags:
 
 普通の短針/長針に加えて、3本目の短い針がある。これが0から100のあいだを普段は指していて、Goalの達成度合いだと思われる。Goalは自由に設定できるので、とりあえず10000歩にしておいた。またこの針はモード切替のときにA/B/Cを指す。通知のときは4色のうちどこか(後述)を指す。
 
-| ![手持ちの別モデルと比べたところ](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04060-400x267.jpg) |
+| ![手持ちの別モデルと比べたところ](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04060.jpg) |
 |:--:|
 |  手持ちの別モデルと比べたところ |
 

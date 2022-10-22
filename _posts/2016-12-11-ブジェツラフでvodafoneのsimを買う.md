@@ -36,7 +36,7 @@ tags:
 
 ブジェツラフ(Břeclav)はウィーンから(おそらくブダペストやブラチスラバなどからも)プラハへの電車が止まる(もしかしたら特急電車みたいなのは止まらないのかもしれない。ECとかいうのは止まる）ので、簡単に行ける。オーストリアの[OBBのページ](https://www.oebb.at/en/)、チェコの[CDのページ](https://www.cd.cz/en/)から乗換案内で調べることができる。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04790-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04790.jpg) |
 |:--:|
 |  駅舎。風情がある。 |
 
@@ -44,13 +44,13 @@ tags:
 
 駅舎を出たら非常にわかりやすいので何も迷うことはないと思う。公園の右側の道をすすみ、大きな道路と合流したらひたすらまっすぐ行くだけだ。道は広く、綺麗に整備されているが何も無い。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04789-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04789.jpg) |
 |:--:|
 |  うむ。 |
 
 川を渡ってしばらくすると右側にVodafoneショップがある。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04787-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2016/12/DSC04787.jpg) |
 |:--:|
 |  店構え |
 

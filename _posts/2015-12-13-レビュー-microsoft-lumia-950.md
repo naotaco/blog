@@ -22,17 +22,17 @@ Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文�
 
 まず箱がでかい。2015年末の端末とは思えない。
 
-| ![左がLumia950, 右が930の箱](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01420-400x267.jpg) |
+| ![左がLumia950, 右が930の箱](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01420.jpg) |
 |:--:|
 |  左がLumia950, 右が930の箱 |
 
 あけるとケーブル固定式のチャージャーと、USB-A to USB-CなUSB3.0?っぽいケーブルが入っている。
 
-| ![箱が大きいのも納得](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01421-400x267.jpg) |
+| ![箱が大きいのも納得](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01421.jpg) |
 |:--:|
 |  箱が大きいのも納得 |
 
-| ![いつものイギリス向けの](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01423-1-400x267.jpg) |
+| ![いつものイギリス向けの](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01423-1.jpg) |
 |:--:|
 |  いつものイギリス向けの |
 
@@ -40,7 +40,7 @@ Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文�
 
 ### 本体
 
-| ![左から950, 930, 920](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01427-1-400x267.jpg) |
+| ![左から950, 930, 920](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01427-1.jpg) |
 |:--:|
 |  左から950, 930, 920 |
 
@@ -54,7 +54,7 @@ Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文�
 
 バッテリは着脱式で、外すとnano SIMとmicro SDを入れることができる。バッテリにはTYPICAL 3000mAhの文字が。これはまさか製造ばらつきの存在をみとめて標準容量を記載しているのか……？なかなか見ない書き方だな。
 
-| ![PureView　ZEISS](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01431-1-400x267.jpg) |
+| ![PureView　ZEISS](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01431-1.jpg) |
 |:--:|
 |  PureView　ZEISS |
 
@@ -66,7 +66,7 @@ Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文�
 
 なんのおまけか異常にださいバンパー?がついてきた。
 
-[![DSC01410](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01410-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01410.jpg)どうしろというのか。
+[![DSC01410](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01410.jpg)](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01410.jpg)どうしろというのか。
 
 ### Windows 10 mobile
 
@@ -78,7 +78,7 @@ Desktop版と同じように、画面表示の大きさを変更することが�
 
 個人的に950で一番予想外に良かったのはこれ。Lock Screenの設定からPINに加えてWindows helloのIrisが選べる。虹彩認証とか未来感がたまりませんね。
 
-| ![Windows Hello動作中](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01433-1-400x267.jpg) |
+| ![Windows Hello動作中](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01433-1.jpg) |
 |:--:|
 |  Windows Hello動作中 |
 
