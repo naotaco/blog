@@ -32,7 +32,7 @@ Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文�
 |:--:|
 |  箱が大きいのも納得 |
 
-| ![いつものイギリス向けの](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01423-1.jpg) |
+| ![いつものイギリス向けの](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01423.jpg) |
 |:--:|
 |  いつものイギリス向けの |
 
@@ -40,11 +40,11 @@ Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文�
 
 ### 本体
 
-| ![左から950, 930, 920](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01427-1.jpg) |
+| ![左から950, 930, 920](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01427.jpg) |
 |:--:|
 |  左から950, 930, 920 |
 
-| ![DSC01429](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01429-1.jpg) |
+| ![DSC01429](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01429.jpg) |
 |:--:|
 |  同じく |
 
@@ -54,7 +54,7 @@ Surface Bookが発表された最高の発表会から2ヶ月、Cloveに注文�
 
 バッテリは着脱式で、外すとnano SIMとmicro SDを入れることができる。バッテリにはTYPICAL 3000mAhの文字が。これはまさか製造ばらつきの存在をみとめて標準容量を記載しているのか……？なかなか見ない書き方だな。
 
-| ![PureView　ZEISS](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01431-1.jpg) |
+| ![PureView　ZEISS](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01431.jpg) |
 |:--:|
 |  PureView　ZEISS |
 
@@ -78,7 +78,7 @@ Desktop版と同じように、画面表示の大きさを変更することが�
 
 個人的に950で一番予想外に良かったのはこれ。Lock Screenの設定からPINに加えてWindows helloのIrisが選べる。虹彩認証とか未来感がたまりませんね。
 
-| ![Windows Hello動作中](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01433-1.jpg) |
+| ![Windows Hello動作中](https://blog.naotaco.com/assets/images/posts/2015/12/DSC01433.jpg) |
 |:--:|
 |  Windows Hello動作中 |
 
@@ -96,31 +96,31 @@ Desktop版と同じように、画面表示の大きさを変更することが�
 
 Lumia930:
 
-| ![ISO64](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_18_Pro_LI-1.jpg) |
+| ![ISO64](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_18_Pro_LI.jpg) |
 |:--:|
 |  ISO64 |
 
-| ![ISO100](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_21_Pro_LI-1.jpg) |
+| ![ISO100](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_21_Pro_LI.jpg) |
 |:--:|
 |  ISO100 |
 
-| ![ISO200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_24_Pro_LI-1.jpg) |
+| ![ISO200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_24_Pro_LI.jpg) |
 |:--:|
 |  ISO200 |
 
-| ![ISO400](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_28_Pro_LI-1.jpg) |
+| ![ISO400](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_28_Pro_LI.jpg) |
 |:--:|
 |  ISO400 |
 
-| ![ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_32_Pro_LI-1.jpg) |
+| ![ISO800](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_32_Pro_LI.jpg) |
 |:--:|
 |  ISO800 |
 
-| ![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_37_Pro_LI-1.jpg) |
+| ![ISO1600](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_37_Pro_LI.jpg) |
 |:--:|
 |  ISO1600 |
 
-| ![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_44_Pro_LI-1.jpg) |
+| ![ISO3200](https://blog.naotaco.com/assets/images/posts/2015/12/WP_20151213_17_01_44_Pro_LI.jpg) |
 |:--:|
 |  ISO3200 |
 
