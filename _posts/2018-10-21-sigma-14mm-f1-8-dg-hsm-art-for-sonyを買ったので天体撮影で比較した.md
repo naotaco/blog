@@ -19,7 +19,7 @@ tags:
 
 買ってしまった。Amazonで注文したが1.5ヶ月くらい経っても発送されなかったのでキャンセルしてヨドバシで買った。いま見たらAmazonの在庫が復活していて少し値段が上がっている。安く出し過ぎた場合は客がしびれを切らしてキャンセルするのを待ってから値上げするのかな？？（要出典）
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/10/N0005531-200x300.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/10/N0005531.jpg) |
 |:--:|
 |  お姿 |
 
@@ -41,25 +41,25 @@ AFが合いづらい。AF-SもAF-Cもちょっと外しがち。ピント拡大�
 
 とりあえず近場で（星空としては最低レベルだがまあ写るには写るので）性能確認をしてきた。適当に上を向けて撮っただけ。撮って出しJPEGです。クリックで実ファイルが見られます。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/10/N0005896-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/10/N0005896.jpg) |
 |:--:|
 |  f/1.8, 2sec., ISO1600 |
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/10/N0005897-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/10/N0005897.jpg) |
 |:--:|
 |  f/2.2, 2sec., ISO1600 |
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/10/N0005898-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/10/N0005898.jpg) |
 |:--:|
 |  f/2.8, 3.2sec., ISO1600 |
 
 中央と右上端を等倍で切り出すとこう。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/10/art14_center-1-400x170.png) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/10/art14_center-1.png) |
 |:--:|
 |  中央等倍切り出し |
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/10/art14_corner-400x170.png) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/10/art14_corner.png) |
 |:--:|
 |  右上隅等倍切り出し |
 

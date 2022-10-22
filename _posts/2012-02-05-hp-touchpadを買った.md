@@ -15,7 +15,7 @@ HPがWebOSを作って放り投げて、HP Touchpadが投げ売りされたの�
 
 refurbish品をebayで売るというので、日本への発送は不可能だったが、アメリカ留学中の親戚に連絡して買ってもらった。16GBはそうそうに売り切れたらしいが、32GBを確保することが出来た。米国内お急ぎ便送料込みで$199. とても良い買い物である。これをたまたま旅行に行った母にハンドキャリーしてもらい、無事年末、僕の所にTouchPadが届いた。送金はpaypal。家から一歩も出ることなくアメリカの製品が買えるなんていい時代だ。テクノロジー（と、親戚と母さん）に感謝しなくてはならない。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2012/02/picplz_20111227_00006791335_original-400x300.jpg "picplz_20111227_00006791335_original") |
+| ![](https://blog.naotaco.com/assets/images/posts/2012/02/picplz_20111227_00006791335_original.jpg "picplz_20111227_00006791335_original") |
 |:--:|
 |  |
 
@@ -31,11 +31,11 @@ WebOSはかなりサクサク動いていて、マルチタスクもばっちり
 
 最近、Android4ベースのCM9が公開されたので、こっちを入れてしまったけど、非常に快適に使えている。Wifiが不安定で、カメラ（もともと前面しかない）が使えなくて、動画再生ができないんだけど。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2012/02/Screenshot_2012-02-05-17-23-24-400x300.png "Screenshot_2012-02-05-17-23-24") |
+| ![](https://blog.naotaco.com/assets/images/posts/2012/02/Screenshot_2012-02-05-17-23-24.png "Screenshot_2012-02-05-17-23-24") |
 |:--:|
 |  |
 
-| ![](https://blog.naotaco.com/assets/images/posts/2012/02/Screenshot_2012-02-05-17-27-17-400x300.png "Screenshot_2012-02-05-17-27-17") |
+| ![](https://blog.naotaco.com/assets/images/posts/2012/02/Screenshot_2012-02-05-17-27-17.png "Screenshot_2012-02-05-17-27-17") |
 |:--:|
 |  |
 

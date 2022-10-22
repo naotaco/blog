@@ -14,23 +14,23 @@ tags:
 
 もともとSKAGENの時計が好きで2つほど持っていて、そろそろ買い足したいなーと思っていたところにスマートウォッチを出すというので早速購入した。ほんとうは数週間前にSKAGENのwebサイトで注文可能になっていたのだが、配送先を日本にするとエラーで購入できなかったので(今は知らないが)、直営店にいって買ってきたのであった。
 
-[![dsc04054](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054-400x267.jpg)](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054.jpg)
+[![dsc04054](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054.jpg)](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054.jpg)
 
 \[amazonjs asin="B01M276C2J" locale="JP" title="スカーゲンSKAGEN 腕時計 HAGEN CONNECTED ハイブリッドスマートウォッチ SKT1103 メンズ 【正規輸入品】"\]
 
 ということで2日間使っただけだが軽くレビューを書いておく。アプリの機能追加もあるので、随時更新中。
 
-| ![dsc04034](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04034-400x267.jpg) |
+| ![dsc04034](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04034.jpg) |
 |:--:|
 |  外箱 |
 
-| ![dsc04037](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04037-300x300.jpg) |
+| ![dsc04037](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04037.jpg) |
 |:--:|
 |  内側の箱 |
 
  
 
-| ![ご対面](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054-400x267.jpg) |
+| ![ご対面](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04054.jpg) |
 |:--:|
 |  ご対面 |
 
@@ -44,13 +44,13 @@ tags:
 
 普通の短針/長針に加えて、3本目の短い針がある。これが0から100のあいだを普段は指していて、Goalの達成度合いだと思われる。Goalは自由に設定できるので、とりあえず10000歩にしておいた。またこの針はモード切替のときにA/B/Cを指す。通知のときは4色のうちどこか(後述)を指す。
 
-| ![手持ちの別モデルと比べたところ](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04060-400x267.jpg) |
+| ![手持ちの別モデルと比べたところ](https://blog.naotaco.com/assets/images/posts/2016/10/DSC04060.jpg) |
 |:--:|
 |  手持ちの別モデルと比べたところ |
 
 一般的な「普通の腕時計にしか見えない系スマートウォッチ」と同様、歩数(距離/カロリー), 睡眠, 通知, アラームが使える。専用アプリがAndroid/iOSに提供されており、Bluetooth Low Energyで接続されるところも普通。買ってちょっと歩いたあとの画面がこちら。
 
-| ![歩数表示画面](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-015041-169x300.png) |
+| ![歩数表示画面](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-015041.png) |
 |:--:|
 |  歩数表示画面 |
 
@@ -58,7 +58,7 @@ tags:
 
 普段つけて寝ることはないと思うが、テストのためにつけて寝てみた。
 
-| ![screenshot_20161030-224121](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-224121-169x300.png) |
+| ![screenshot_20161030-224121](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161030-224121.png) |
 |:--:|
 |  11時間…？ |
 
@@ -72,17 +72,17 @@ tags:
 
 設定からNotificationsを開くとMy People, My Apps, My Modesとなっていて、My Appsに通知が出るアプリを6個まで追加することが出来る。Slack, Gmail, Google+, Twitterは選べたが、Hangoutsが選べない、惜しい。調べてないけど、ハングアウト側の問題なんだろうなという感じがする。がんばってほしい。
 
-| ![通知設定](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224942-169x300.png) |
+| ![通知設定](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224942.png) |
 |:--:|
 |  通知設定 |
 
-| ![アプリを選べる](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-220616-169x300.png) |
+| ![アプリを選べる](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-220616.png) |
 |:--:|
 |  Add/Editでアプリを選べる |
 
 で、通知されると時計が振動(弱い…)し、短い針が特定の色を指す。アプリごとにこの色を変えることが出来る。
 
-| ![通知時に針がさす色をえらぶ](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224937-169x300.png) |
+| ![通知時に針がさす色をえらぶ](https://blog.naotaco.com/assets/images/posts/2016/10/Screenshot_20161130-224937.png) |
 |:--:|
 |  通知時に針がさす色をえらぶ |
 

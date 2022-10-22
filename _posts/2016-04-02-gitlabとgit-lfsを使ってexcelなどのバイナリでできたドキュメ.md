@@ -110,7 +110,7 @@ To ssh://git@localhost:10022/naotaco/lfs-test.git
 
 LFSのSSHで認証できるようにしてくれるとだいぶ助かるのですが。
 
-| ![バイナリファイルを追加したところ](https://blog.naotaco.com/assets/images/posts/2016/04/lfs-project-1024x489.png) |
+| ![バイナリファイルを追加したところ](https://blog.naotaco.com/assets/images/posts/2016/04/lfs-project.png) |
 |:--:|
 |  zipファイルを追加したところ |
 

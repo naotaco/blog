@@ -20,15 +20,15 @@ Logicoolから、新しいMXマウス(MX MASTER 2S)の体験会の募集があ�
 
 場所はロジクール本社、まずは担当の方から商品について説明をうかがう。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06468-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06468.jpg) |
 |:--:|
 |  とにかくFlow推し |
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06464-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06464.jpg) |
 |:--:|
 |  そういう持ち方するんだ…… |
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06470-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06470.jpg) |
 |:--:|
 |  まとめ |
 
@@ -52,31 +52,31 @@ Flowについては気になったことを一通り聞いた：
 
 Flowの仕様についてはこんなところか。Flowについてはしばらくさわってみてまたなんか書く。正直これだけならファームウェアのアップデートで対応できそうだけどね、まあビジネスだしね、、
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06471-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06471.jpg) |
 |:--:|
 |  MX MASTERが配られる |
 
 ありがたやありがたや。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06473-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06473.jpg) |
 |:--:|
 |  Flowを体験するためPC2台ごとに1台のMX MASTERが |
 
 WindowsPCの扱いの雑さを見るに、日本のLogicool社内ではmacが標準なのだろうか
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06474-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06474.jpg) |
 |:--:|
 |  そして配られるオリジナルカクテル "ロジクーラー" |
 
 たぶんノンアルコール。夕食も食べてきたところだが軽食もいただいてしまう。太る太る。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06476-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06476.jpg) |
 |:--:|
 |  ほんとは白がほしいが、汚れそうでなぁ… |
 
 さわったのは白だがいただいたのはグレー（黒）
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06477-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06477.jpg) |
 |:--:|
 |  ロジクールプロモーションチョコレート |
 
@@ -86,7 +86,7 @@ WindowsPCの扱いの雑さを見るに、日本のLogicool社内ではmacが標
 
 帰宅してさっそく開封、MX MASTERとMX MASTER 2Sを並べてみる。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06462-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/DSC06462.jpg) |
 |:--:|
 |  左が2S, 右が初代。色とロゴ以外まったくいっしょ |
 
@@ -94,7 +94,7 @@ WindowsPCの扱いの雑さを見るに、日本のLogicool社内ではmacが標
 
 M950と比べると親指の所のボタンが一つ減ってるのがアレだけど、ホイールの切り替えが自動になったからセンターボタンに機能を割り当てられるようになったし、事実上割り当て数は同じかな。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2017/06/ScreenClip-400x289.png) |
+| ![](https://blog.naotaco.com/assets/images/posts/2017/06/ScreenClip.png) |
 |:--:|
 |  進化していたLogicool Options |
 

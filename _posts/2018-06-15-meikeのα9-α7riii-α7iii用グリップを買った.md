@@ -23,19 +23,19 @@ tags:
 
 Free shippingにしたので3週間くらいかかったが、やっと届いたのでレビューを書く。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03399-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03399.jpg) |
 |:--:|
 |  箱。 |
 
 謎のα7mIIIの記載があるが、きっとα7 mkIIIのことなのだろう。それ以外は普通。第2世代にも対応するの？まじ？と思ったが、純正もそうだし実は対応するんだろうか。α7Riiiとしか試していないのでわかりません。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03404-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03404.jpg) |
 |:--:|
 |  カメラにつく側 |
 
 純正よりでかいが、本体底面の穴にささるピンのギミックはちゃんと搭載されている（押すと引っ込む）。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03407-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03407.jpg) |
 |:--:|
 |  底面側 |
 
@@ -45,11 +45,11 @@ Free shippingにしたので3週間くらいかかったが、やっと届いた
 
 カメラに装着するとこのような感じ（ここで急に撮影するカメラがRX100になりフラッシュもなくなり画質が粗くなる）。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC07774-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC07774.jpg) |
 |:--:|
 |  装着したところ。 |
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC07777-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC07777.jpg) |
 |:--:|
 |  表面は微妙に違う。 |
 
@@ -57,7 +57,7 @@ Free shippingにしたので3週間くらいかかったが、やっと届いた
 
 肝心の握り心地は上々。おぼろげな記憶では純正とほとんど変わらない気がする。SigmaのArtシリーズのような（昨日35mmがやっと届いたのだ）重いレンズを使うときにはグリップがあった方がいい感じ。逆に軽くいきたいなら無くてもよいと思う（どっち）。70-200とかを振り回すなら必須という印象。
 
-| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03408-400x267.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2018/06/DSC03408.jpg) |
 |:--:|
 |  81.2g |
 
