@@ -10,7 +10,7 @@ tags:
   - "カメラ"
 ---
 
-[![DSC03247](https://blog.naotaco.com/assets/images/posts/2015/02/DSC03247-1024x682.jpg)](https://blog.naotaco.com/assets/images/posts/2015/02/DSC03247.jpg)
+[![DSC03247](https://blog.naotaco.com/assets/images/posts/2015/02/DSC03247.jpg)](https://blog.naotaco.com/assets/images/posts/2015/02/DSC03247.jpg)
 
 オリンパスのOPC, Open platform cameraのイベントがあったので、申し込んで参加してきました。
 

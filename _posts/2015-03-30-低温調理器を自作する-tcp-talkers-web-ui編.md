@@ -13,7 +13,7 @@ tags:
 
 さて、デーモン化したはよいが、結局温度設定を突っ込むにはRedisを介さなければいけないのであった。不便で仕方ないのでWebから設定できるようにしたい。スマホから肉を煮たい。まさに人間の根源的な欲求だと思う。というわけで今回はWebから設定できるようにした。
 
-![Cooker-block-diagram](https://blog.naotaco.com/assets/images/posts/2015/03/Cooker-block-diagram1-1024x547.png)
+![Cooker-block-diagram](https://blog.naotaco.com/assets/images/posts/2015/03/Cooker-block-diagram1.png)
 
  
 

@@ -18,7 +18,7 @@ tags:
 
 ### どこ？
 
-| ![](https://blog.naotaco.com/assets/images/posts/2016/12/map-1024x586.jpg) |
+| ![](https://blog.naotaco.com/assets/images/posts/2016/12/map.jpg) |
 |:--:|
 |  ミクロフ、プラハ、ブジェツラフの位置 ©2016 Google |
 
