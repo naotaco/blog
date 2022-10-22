@@ -37,11 +37,11 @@ tags: covid-19
 
 修善寺は修禅寺に行って寒桜を見て、三島で鰻を食って帰ってきた。
 
-[![](/assets/images/posts/2022-04-07-01-11-33.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-11-33.png)
+[![](/assets/images/posts/2022-04-07-01-11-33.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-11-33.jpg)
 
-[![](/assets/images/posts/2022-04-07-01-11-51.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-11-51.png)
+[![](/assets/images/posts/2022-04-07-01-11-51.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-11-51.jpg)
 
-[![](/assets/images/posts/2022-04-07-01-12-10.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-12-10.png)
+[![](/assets/images/posts/2022-04-07-01-12-10.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-12-10.jpg)
 
 近すぎてのんびり本が読めなかったが、気分転換にはよかった。
 

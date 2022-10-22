@@ -4,7 +4,7 @@ title: 富山に行ってきた
 date: 2022-04-07 01:15:23 +09:00
 categories: 旅行 写真 富山
 header:
-  image: /assets/images/posts/2022-04-09-01-36-44.png
+  image: /assets/images/posts/2022-04-09-01-36-44.jpg
 ---
 
 富山に行ってきた。理由は、行ったことがなかったから。
@@ -17,11 +17,11 @@ header:
 
 北陸新幹線でプロジェクト・ヘイル・メアリーを読みながら富山へ。取り急ぎ富山らしい黒いラーメンをいただく。
 
-[![](/assets/images/posts/2022-04-07-01-48-45.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-48-45.png)
+[![](/assets/images/posts/2022-04-07-01-48-45.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-48-45.jpg)
 
 駅の周辺を散策。トラムが走っているのはポイントが高い。
 
-[![](/assets/images/posts/2022-04-07-01-50-55.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-50-55.png)
+[![](/assets/images/posts/2022-04-07-01-50-55.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-50-55.jpg)
 
 利便性の観点ではバスの小回りと電車の信頼性を兼ね備えた交通機関というイメージ。富山市内のトラムはSuica/Pasmo等が使えるのもよい。なによりトラムに乗っていると私の大好きな中・東欧の町を思い出す。プラハ、タリン、クラコフ、ワルシャワ。いずれもトラムの走っている美しい町だ。
 
@@ -29,7 +29,7 @@ header:
 
 雨晴（あまはらし）海岸から立山連峰を眺めるべく、電車で移動する。
 
-[![](/assets/images/posts/2022-04-07-01-55-53.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-55-53.png)
+[![](/assets/images/posts/2022-04-07-01-55-53.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-07-01-55-53.jpg)
 
 あいの風とやま鉄道（お察しの通り第三セクターである）で高岡へ行き、そこでJR氷見線に乗り換える。どちらも本数が少なく、特に氷見線は1時間に1～2本しかないローカル線である。当初はレンタカーで行こうと思っていたが、せっかくなので電車で行くことにした。
 
@@ -37,27 +37,27 @@ header:
 
 氷見駅で年代物の電車（気動車と言わないと怒られるやつ）に乗り、雨晴駅に到着。電車の降り方がわからないので運転士に聞いてみたら、駅員に渡してくれとのこと。
 
-[![](/assets/images/posts/2022-04-09-01-09-07.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-09-07.png)
+[![](/assets/images/posts/2022-04-09-01-09-07.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-09-07.jpg)
 
 日中は駅員がいるが17時以降は無人駅になるっぽい（用語が正しいのかは知らん）。駅に人がいる場合は駅員に渡し、そうでない場合は運転士に渡すらしい。難しすぎるだろ。人がいるうちに帰りの切符を買っておいた。
 
 駅の裏はすぐ海岸になっている。少し歩くと目当ての景色が見えてきた。
 
-[![](/assets/images/posts/2022-04-09-01-14-36.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-14-36.png)
+[![](/assets/images/posts/2022-04-09-01-14-36.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-14-36.jpg)
 
 美しい立山連峰を背にした女岩である。
 
-[![](/assets/images/posts/2022-04-09-01-16-37.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-16-37.png)
+[![](/assets/images/posts/2022-04-09-01-16-37.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-16-37.jpg)
 
 夕暮れ時もまたよい。
 
-[![](/assets/images/posts/2022-04-09-01-17-04.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-17-04.png)
+[![](/assets/images/posts/2022-04-09-01-17-04.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-17-04.jpg)
 
 電車を撮って遊んでいた（下手くそである）。
 
 日没まで撮って、真っ暗な道を歩いて駅へ。もう無人だったが他にも観光客がいたので、きっと電車が来るのだろうという安心感があった。
 
-[![](/assets/images/posts/2022-04-09-01-18-51.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-18-51.png)
+[![](/assets/images/posts/2022-04-09-01-18-51.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-18-51.jpg)
 
 慣れないワンマン電車で高岡へ。ローカル線の情緒は良いものだ。あいの風とやま鉄道（名前が長すぎる。現地の人はなんて呼んでるんだ）に乗り換えて富山へ戻る。
 
@@ -65,7 +65,7 @@ header:
 
 適当にぐぐって出てきた評判のよさそうな居酒屋へ。治安の悪そうな場所にあったが、すべてがハチャメチャにうまかったので大優勝であった。
 
-[![](/assets/images/posts/2022-04-09-01-31-44.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-31-44.png)
+[![](/assets/images/posts/2022-04-09-01-31-44.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-31-44.jpg)
 
 最高だったのはホタルイカの沖漬け。いくらでも食える。ほかにも天ぷらや刺身、牡蠣フライをいただいた。日本酒もおかわりしたかったが、8時間後には運転なので1合にとどめた。偉い。
 
@@ -73,11 +73,11 @@ header:
 
 ホテルに戻って本を少し読んで早めに寝て、4時に起床。こんどはタイムズのカーシェアを借りてまた雨晴海岸へ。道の駅に車をとめて、海岸へ。
 
-[![](/assets/images/posts/2022-04-09-01-36-44.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-36-44.png)
+[![](/assets/images/posts/2022-04-09-01-36-44.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-36-44.jpg)
 
 日の出を拝めるほどには晴れず無念。しかし雲の切れ間から太陽が見えた瞬間があり良かった。
 
-[![](/assets/images/posts/2022-04-09-01-37-57.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-37-57.png)
+[![](/assets/images/posts/2022-04-09-01-37-57.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-37-57.jpg)
 
 ----
 
@@ -85,17 +85,17 @@ header:
 
 薬屋や富山城を軽く見つつ。
 
-[![](/assets/images/posts/2022-04-09-01-45-03.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-45-03.png)
+[![](/assets/images/posts/2022-04-09-01-45-03.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-45-03.jpg)
 
 カラス宛ての看板もある。
 
-[![](/assets/images/posts/2022-04-09-01-45-24.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-45-24.png)
+[![](/assets/images/posts/2022-04-09-01-45-24.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-45-24.jpg)
 
 富山市立図書館や還水公園のおしゃれなデザインが目を引いた。
 
-[![](/assets/images/posts/2022-04-09-01-44-16.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-44-16.png)
+[![](/assets/images/posts/2022-04-09-01-44-16.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-44-16.jpg)
 
-[![](/assets/images/posts/2022-04-09-01-45-38.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-45-38.png)
+[![](/assets/images/posts/2022-04-09-01-45-38.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-45-38.jpg)
 
 富山も金沢みたいにこういう路線で狙っているのかな。
 
@@ -103,7 +103,7 @@ header:
 
 昨晩飲んで美味しかった羽根屋のお酒を1本買って帰宅。たのしかった。
 
-[![](/assets/images/posts/2022-04-09-01-46-35.png){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-46-35.png)
+[![](/assets/images/posts/2022-04-09-01-46-35.jpg){:width="80%" .align-center} ](/assets/images/posts/2022-04-09-01-46-35.jpg)
 
 ----
 
