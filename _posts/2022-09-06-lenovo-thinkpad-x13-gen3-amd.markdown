@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Lenovo ThinkPad X13 Gen3 (AMD) を注文して返品している話
+title: Lenovo ThinkPad X13 Gen3 (AMD) を注文して修理し損ない返品した話
 date: 2022-09-06 23:18:11 +09:00
 categories: PC Lenovo 通販
 ---
