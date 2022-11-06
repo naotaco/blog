@@ -4,7 +4,7 @@ title: Windows開発キット2023を買った
 date: 2022-11-06 18:40:35 +09:00
 categories: PC Windows ARM64
 header:
-  image: /assets/images/posts/20221106_win-devkit-guide.webp
+  image: /assets/images/posts/20221027223858-N0108580-converted.webp
 ---
 
 突然[Windows開発キット2023](https://www.microsoft.com/ja-jp/d/windows-%E9%96%8B%E7%99%BA%E3%82%AD%E3%83%83%E3%83%88-2023/94k0p67w7581?activetab=pivot:%E6%A6%82%E8%A6%81tab)なるものが発売されたので、いったいこれはなんだと思っていたのだがどうやらARMマシンらしいので、とりあえず勢いよく買ってみた。ストアで値段がめちゃくちゃな設定になっていたりして話題になっていたが、99880円が正しい値段である。安くはないが、ついうっかりを防ぐ値段ではない。
