@@ -17,15 +17,15 @@ categories: PC Windows ARM64
 
 Dev Kitとは言うものの、ほとんど普通の（シュッとした見た目のせいでポートが貧弱な）PCと変わらない気がする。ACアダプタが冗談みたいに大きいのはなんなんだ。PD 100Wで動くくらいにしてくれればよかったのに……。
 
-[![Dev Kitの梱包。無地の段ボール箱。](assets/images/posts/20221027223812-N0108578-converted.webp){:width="80%" .align-center} ](/assets/images/posts/20221027223812-N0108578-converted.webp)
+[![Dev Kitの梱包。無地の段ボール箱。](/assets/images/posts/20221027223812-N0108578-converted.webp){:width="80%" .align-center} ](/assets/images/posts/20221027223812-N0108578-converted.webp)
 
-[![Dev Kitを開封したところ。Microsoftロゴの入った不織布に覆われた本体が見える。](assets/images/posts/20221027223753-N0108577-converted.webp){:width="40%" .align-center} ](assets/images/posts/20221027223753-N0108577-converted.webp)
+[![Dev Kitを開封したところ。Microsoftロゴの入った不織布に覆われた本体が見える。](/assets/images/posts/20221027223753-N0108577-converted.webp){:width="40%" .align-center} ](/assets/images/posts/20221027223753-N0108577-converted.webp)
 
-[![Dev Kitを出したところ。黒い本体にMicrosoftロゴが入っている。](assets/images/posts/20221027223858-N0108580-converted.webp){:width="80%" .align-center} ](/assets/images/posts/20221027223858-N0108580-converted.webp)
+[![Dev Kitを出したところ。黒い本体にMicrosoftロゴが入っている。](/assets/images/posts/20221027223858-N0108580-converted.webp){:width="80%" .align-center} ](/assets/images/posts/20221027223858-N0108580-converted.webp)
 
 唯一Dev感があったのはこの説明書きで、USB-Cからの起動をする専用のボタンがあるらしい。USB-Cからの起動と言われてもピンとこないが、起動するSSDをUSB-Cにつなげば、都度起動するのに便利ということなのだろうか。
 
-[![同梱の説明書き。各ポートやボタンの名称が書いてある。](assets/images/posts/20221106_win-devkit-guide.webp){:width="80%" .align-center} ](/assets/images/posts/20221106_win-devkit-guide.webp)
+[![同梱の説明書き。各ポートやボタンの名称が書いてある。](/assets/images/posts/20221106_win-devkit-guide.webp){:width="80%" .align-center} ](/assets/images/posts/20221106_win-devkit-guide.webp)
 
 ### 環境構築
 
@@ -48,7 +48,7 @@ Dev Kitとは言うものの、ほとんど普通の（シュッとした見た�
 
 Windows名物のProgram Filesフォルダも、`Program Files`, `Program Files (Arm)`, `Program Files (x86)` の3種類に増えておりキモさも3倍である。
 
-[![](/assets/images/posts/2022-11-07-00-39-00.png){:width="60%" .align-center} ](/assets/images/posts/2022-11-07-00-39-00.png)
+[![](/assets/images/posts/2022-11-07-00-39-00.png){:width="40%" .align-center} ](/assets/images/posts/2022-11-07-00-39-00.png)
 
 しかもインストール場所の選択がまちまちっぽく、ネイティブARM64のFirefoxもx64のSublime TextもProgram Files無印にインストールされている。これもうわかんねえな。ちなみにバイナリファイルがなんのアーキテクチャなのかを表示するような機能がExplorer近辺には見当たらず、MSYSから `file` を叩いている有様。
 
@@ -92,4 +92,11 @@ $ file `which clang`
 ```
 
 これはぐぐって出てくるどっかのForumの回答からのコピペなのだが（……）これだとARM環境でもMINGW64が起動してしまうので、 `commandline` 行の `MSYSTEM=MINGW64` の箇所を `MSYSTEM=CLANGARM64`  と書き換えてやる必要がある。
+
+```json
+"commandline": "cmd.exe /c \"set MSYSTEM=CLANGARM64&& set MSYS=winsymlinks:nativestrict&& set MSYS2_PATH_TYPE=inherit&& C:/msys64/usr/bin/bash.exe --login\"",
+```
+
+余談だが、デフォルトの設定が最近MINGW64からUCRT64に変更になったらしい。詳しいことはわからんが、そっちに乗り換えておく方がよさそうな気がするので一通り変更した。といってもARMの場合と同じで、普段使いのバイナリがUCRT64版になるのかというとほとんどそういうこともなさそうなのであるが。
+
 
