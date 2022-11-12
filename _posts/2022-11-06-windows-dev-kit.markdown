@@ -54,10 +54,15 @@ Dev Kitとは言うものの、ほとんど普通の（シュッとした見た�
 - Sublime Text: x64版しかないが、おそらくエミュレーションで普通に動く
 - Visual Studio: Preview版だがCommunity一式がインストールできて動き、ARMネイティブターゲットのデバッグが普通にできる
 - MSYS2: [普通にサポート](https://www.msys2.org/wiki/arm64/)されている（後述）
-- ATOK: 試した範囲では唯一動かなかった
+- ATOK: 動かなかった
   - インストーラは正常終了するが、IME切り替えでエラーになっているような挙動（ATOKに変更できず、操作前の言語に戻る）
   - JustSystemの対応一覧表にはARMのAの字もなく、残念ながら当然
 - YubiKey: 特にドライバ設定等の操作をしたわけではないが、普通に動いてGitHub, GoogleにFirefoxでログインできた。
+- [Ctrl2Cap](https://learn.microsoft.com/ja-jp/sysinternals/downloads/ctrl2cap): 動かなかった
+  - MS謹製のCapsをCtrlにするツール。これが一番楽なので普段使っているのだが。
+  - 師曰く、これはフィルタドライバ方式だから動かないと思われ、レジストリremap方式にしたほうがよいとのこと
+  - [Change Key](https://forest.watch.impress.co.jp/library/software/changekey/)を使ったところ無事CapsをCtrlに設定できた。
+    - 管理者権限で起動しないとダメ。あと英語設定のデフォルトだとバチクソ文字化けするので鋭い勘が必要。
 
 Windows名物のProgram Filesフォルダも、`Program Files`, `Program Files (Arm)`, `Program Files (x86)` の3種類に増えておりキモさも3倍である。
 
