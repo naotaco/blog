@@ -1,6 +1,6 @@
 ---
 layout: single
-title: best-items-2022
+title: 買って良かった2022
 date: 2022-12-31 01:49:48 +09:00
 categories: diary
 tags: よかった
@@ -10,7 +10,7 @@ tags: よかった
 
 #### コクヨ はさみ HASA-001
 
-[https://www.amazon.co.jp/gp/product/B0BFDXC65J/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&th=1](https://www.amazon.co.jp/gp/product/B0BFDXC65J/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&th=1)
+[https://www.amazon.co.jp/dp/B0BFDXC65J/](https://www.amazon.co.jp/dp/B0BFDXC65J/)
 
 真面目に作った高級ハサミということでとりあえず買ってみた。その辺の事務用のハサミが子供のおもちゃに思える切れ味で素晴らしい。フッ素加工してあるわけでもないのにテープがくっつくこともない。とてもよいものなのに2000円以下というのもすごい。
 
@@ -18,7 +18,7 @@ tags: よかった
 
 #### PLANTRONICS Poly Voyager 5200
 
-[https://www.amazon.co.jp/gp/product/B079DDRSNM/ref=ppx_yo_dt_b_asin_title_o06_s03?ie=UTF8&psc=1](https://www.amazon.co.jp/gp/product/B079DDRSNM/ref=ppx_yo_dt_b_asin_title_o06_s03?ie=UTF8&psc=1)
+[https://www.amazon.co.jp/dp/B079DDRSNM/](https://www.amazon.co.jp/dp/B079DDRSNM/)
 
 片耳Bluetoothヘッドセット。BTヘッドセットは好きではないのだが、これは出来がとてもよいので推せる。似たような見た目の中華コピー品が山ほどあるのだが、たぶんこれがその震源地。
 
@@ -34,7 +34,7 @@ tags: よかった
 
 #### VESSEL 電ドラボールプラス
 
-[https://www.amazon.co.jp/gp/product/B09V218NSD/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&th=1](https://www.amazon.co.jp/gp/product/B09V218NSD/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&th=1)
+[https://www.amazon.co.jp/dp/B09V218NSD/](https://www.amazon.co.jp/dp/B09V218NSD/)
 
 小型の電動ドライバー。大型のものはボッシュの18Vインパクトドライバーを持っているのだが、出してくるのも面倒で出番がほとんどない。
 
@@ -46,7 +46,7 @@ tags: よかった
 
 #### 貝印 関孫六 10000CL 牛刀210mm
 
-[https://www.amazon.co.jp/gp/product/B005CY9P5K/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1](https://www.amazon.co.jp/gp/product/B005CY9P5K/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+[https://www.amazon.co.jp/dp/B005CY9P5K/](https://www.amazon.co.jp/dp/B005CY9P5K/)
 
 これについては[以前書いたが]({% link _posts/2022-05-04-sekinomagoroku-10000cl.markdown %})、とにかくよくわからんくらい切れる包丁が8000円台だったので推すしかない。
 
@@ -56,13 +56,37 @@ tags: よかった
 
 #### ダイワ産業 まな板
 
-[https://www.amazon.co.jp/gp/product/B004R96JFA/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1](https://www.amazon.co.jp/gp/product/B004R96JFA/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+[https://www.amazon.co.jp/dp/B004R96JFA/](https://www.amazon.co.jp/dp/B004R96JFA/)
 
 普通のまな板。木なので包丁が傷みづらく、ニンジンなどの着色も気にならない。そして謎の技術で食洗機にも対応している完全無欠のまな板。
 
 食洗機の中で端のほうに置いて乾燥すると若干反ることがあるが、微妙に反る程度ですむので凸を上に置けば問題なく使えるし、外に出しておけばすぐまっすぐになる。偉い。
 
 木なのでだんだん表面が荒れてくるのは避けられないが、ヘビーに使って半年くらいでは全然問題ないし、安いので荒れてきたら捨てればいいかなという割り切りもできる。
+
+
+#### TAMRON 20-40mm F2.8 Di III VXD（Model A062）
+
+[https://www.yodobashi.com/product/100000001007414034/](https://www.yodobashi.com/product/100000001007414034/)
+
+タムロンのEマウントレンズ。
+
+とにかく軽くて20-40/2.8というスペックが全て。荷物をとにかく軽くしたいおでかけは迷わずこれ。スナップに必要な画角がF2.8の明るさで全て入って365gという軽さというのが全て。
+
+細かいことを言うといろいろあるが、特定の状況においてはこれ以上のレンズは存在しないと思う。（損壊した金銭感覚において）安くて小さいので、とりあえず買っておいて防湿庫の隅に置いておくときっと役に立つ日が来る。まあ発売直後に在庫切れになって以来入荷待ちが続いているようなのであるが……。私はスペックを見て発売直後に注文して大勝利です。
+
+#### Godox V350S
+
+[https://www.amazon.co.jp/dp/B07R45N1P7/](https://www.amazon.co.jp/dp/B07R45N1P7/)
+
+リンクは日本のAmazonにしたが、AliExpressで140ドルくらいで購入した記憶がある。円安を脱しつつあるし、また輸入した方が安いかもしれない。
+
+Godoxのストロボの小型モデル（GN=35）の、リチウムイオン電池モデル。以前は持ち運び用に単三電池x2本モデルのTT350を使っていたのだが、チャージは遅いしバッテリはすぐなくなるし、リチウムイオンのV1を使うことが多かった。そこでV350にしてみた次第。
+
+
+
+
+
 
 
 
