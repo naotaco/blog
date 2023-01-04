@@ -81,6 +81,10 @@ tags: よかった
 
 #### Godox V350S
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Godox三銃士を連れてきたよ <a href="https://t.co/fYQDjAnT8u">pic.twitter.com/fYQDjAnT8u</a></p>&mdash; 限界 (@naotaco) <a href="https://twitter.com/naotaco/status/1481660265007439873?ref_src=twsrc%5Etfw">January 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+V1, V350, TT350に加えて実はTT685かなんかも持っているので、計4台持っている。
+
 [https://www.amazon.co.jp/dp/B07R45N1P7/](https://www.amazon.co.jp/dp/B07R45N1P7/){:target="_blank"}
 
 リンクは日本のAmazonにしたが、AliExpressで140ドルくらいで購入した記憶がある。円安を脱しつつあるし、また輸入した方が安いかもしれない。
@@ -105,23 +109,28 @@ Godoxのストロボの小型モデル（GN=35）の、リチウムイオン電�
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">実はこの部分が金属製になったという話を聞いて部品を前日に注文していたのでもう届いており、直りました <a href="https://t.co/Ec5GWjs2Kj">pic.twitter.com/Ec5GWjs2Kj</a></p>&mdash; 限界 (@naotaco) <a href="https://twitter.com/naotaco/status/1586394153713225728?ref_src=twsrc%5Etfw">October 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+V350も同様の部品があるっぽいので（金属製になっているのかは知らんが）簡単に直せそう。サードパーティの安い製品としては重要なポイントだと思う。
 
+#### カスティージョデカネナ ファミリーレゼルブ ピクアル
 
+[https://olivemercato.ocnk.net/product/123](https://olivemercato.ocnk.net/product/123){:target="_blank"}
 
+YouTubeの某チャンネルを見て購入したオリーブオイル。マジでうまい。これしか勝たん。
 
+最初にフライパンに入れて長時間加熱するときは安いやつを使って、仕上げはこれ。これだけでパスタは簡単に勝てる。
 
+#### 番外編 Sigmaのサポート
 
+Sigmaの24-70/2.8 DG DNを使い倒している。それはもうフードが傷だらけになるような使い方を何年もしているのだが、ホコリを吸い込んでしまって微妙に困っていた。
 
+[![レンズの内側にホコリが多数入っている様子](/assets/images/posts/20230104_sigma.webp){:width="60%" .align-center} ](/assets/images/posts/20230104_sigma.webp)
 
+普段はこれでも特に問題はないのだが、風景を撮る（絞って空のようなフラットなものを撮って明瞭度を上げるような現像をする）とホコリが写り込むこともあり、サポートに連絡して点検と清掃を依頼してみた。保証が切れているので多少は修理代金はがかかることを覚悟していたがなぜか（同様の指摘が多いという話は見かけますね？）無料となり、きれいになって帰ってきた。感謝である。
 
+2-3週間かかるのはつらいが、何年かに1回出してみるのがよさそう。次回以降も無料になるのかは知らんが、使い倒しているレンズならそれくらいのメンテナンスコストは払った方がよいように思う。
 
+----
 
-
-
-
-
-
-
-
+以上、2022年でした。
 
 
