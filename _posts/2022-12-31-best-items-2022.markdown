@@ -34,6 +34,8 @@ tags: よかった
 
 #### VESSEL 電ドラボールプラス
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">やや悔しいが実際便利 <a href="https://t.co/xGvu6cPgg0">pic.twitter.com/xGvu6cPgg0</a></p>&mdash; 限界 (@naotaco) <a href="https://twitter.com/naotaco/status/1544303473331949568?ref_src=twsrc%5Etfw">July 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 [https://www.amazon.co.jp/dp/B09V218NSD/](https://www.amazon.co.jp/dp/B09V218NSD/){:target="_blank"}
 
 小型の電動ドライバー。大型のものはボッシュの18Vインパクトドライバーを持っているのだが、出してくるのも面倒で出番がほとんどない。
@@ -67,6 +69,8 @@ tags: よかった
 
 #### TAMRON 20-40mm F2.8 Di III VXD（Model A062）
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ということでタムロンの20-40が来た。期待に違わず軽くてマジで軽い、なんというかこう、、、マジで安っぽい <a href="https://t.co/0bQqnU8k3V">pic.twitter.com/0bQqnU8k3V</a></p>&mdash; 限界 (@naotaco) <a href="https://twitter.com/naotaco/status/1585633012787531778?ref_src=twsrc%5Etfw">October 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 [https://www.yodobashi.com/product/100000001007414034/](https://www.yodobashi.com/product/100000001007414034/){:target="_blank"}
 
 タムロンのEマウントレンズ。
@@ -81,9 +85,25 @@ tags: よかった
 
 リンクは日本のAmazonにしたが、AliExpressで140ドルくらいで購入した記憶がある。円安を脱しつつあるし、また輸入した方が安いかもしれない。
 
-Godoxのストロボの小型モデル（GN=35）の、リチウムイオン電池モデル。以前は持ち運び用に単三電池x2本モデルのTT350を使っていたのだが、チャージは遅いしバッテリはすぐなくなるし、リチウムイオンのV1を使うことが多かった。そこでV350にしてみた次第。
+Godoxのストロボの小型モデル（GN=35）の、リチウムイオン電池モデル。以前は持ち運び用に単三電池x2本モデルのTT350を使っていたのだが、チャージは遅いしバッテリはすぐなくなるし、リチウムイオンのV1を使うことが多かった。そこでV350にしてみた次第。結果としてはチャージ速度やバッテリの持ちは大きく改善し、光量がGN35で十分なケースなら、これで十分ということになった。つまり普通の家の中で撮影するときなど。
 
+反対に光量がほしいときはV1を使っている。結婚式場とか、HSSを使うときとか、集合写真みたいに大光量で連写するときとか。
 
+スペックだけ比較して、チャージ時間がフル発光で1.7秒と2.2秒なのでそこまで差はないみたいなことを書いてるとんちんかんなサイトもあるが、実際に使い比べれば若干使ったあとの単三電池のチャージ時間が2.2秒で済むわけがないこともわかるし、発光回数が210対500で大きく異なることも（使用環境によっては）クリティカルに効いてくるだろう。
+
+単三電池はどこでも調達できるから安心論もあるが、そういうことを言っていた製品は歴史上全て駆逐されてきたしカメラ自体がそうなんだから今更何をという感じである。交換用のバッテリは純正だとけっこう高いのでちょっと、、という気持ちにはなるが。
+
+ちなみに同梱の充電器はAC100Vからバッテリを充電するので不便である。[Type-Cで充電できるやつ](https://www.aliexpress.com/item/4000831699065.html){:target="_blank"}を買うとよいのだが、これもそこそこ値段がする上、電ドラボールと同じでPD非対応である。買うべきかというと、うーーん。
+
+あとは電源スイッチが右側にあるうえ長押しでONだったり操作性はかなりひどい。
+
+そんなわけで、端的に言うと帰省のお供には最も勧められるフラッシュです。
+
+ちなみにV1Sのシュー付近の部品が割れるという痛ましい事故があったのだが、これは交換用の部品を買ってとりかえたら一瞬で直った。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ところでGodox V1ですが、もげました <a href="https://t.co/z8DfS1bKeN">pic.twitter.com/z8DfS1bKeN</a></p>&mdash; 限界 (@naotaco) <a href="https://twitter.com/naotaco/status/1586386786695405574?ref_src=twsrc%5Etfw">October 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">実はこの部分が金属製になったという話を聞いて部品を前日に注文していたのでもう届いており、直りました <a href="https://t.co/Ec5GWjs2Kj">pic.twitter.com/Ec5GWjs2Kj</a></p>&mdash; 限界 (@naotaco) <a href="https://twitter.com/naotaco/status/1586394153713225728?ref_src=twsrc%5Etfw">October 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 
