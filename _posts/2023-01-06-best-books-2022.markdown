@@ -4,6 +4,8 @@ title: よかった本2022
 date: 2022-12-31 23:30:12 +09:00
 categories: diary
 tags: 読書 よかった
+header:
+  image: /assets/images/posts/20230109235616-N0100824.webp
 ---
 
 今年のベストは「『テヘランでロリータを読む』からの一連の読書体験」。
