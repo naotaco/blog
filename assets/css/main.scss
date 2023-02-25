@@ -44,8 +44,12 @@ $type-size-8 : 0.625em;  // ~10px
   color: #555759;
 }
 
+a.reversefootnote {
+  color: #292c2f;
+}
+
 .btn.btn--twitter {
-  span {
+  i, span {
     color: #0d1926;
   }
 }
