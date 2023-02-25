@@ -49,3 +49,7 @@ $type-size-8 : 0.625em;  // ~10px
     color: #0d1926;
   }
 }
+
+.pagination--pager.disabled {
+  color: rgba(60, 64, 67, 0.87);
+}
