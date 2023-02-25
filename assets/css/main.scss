@@ -40,7 +40,12 @@ $type-size-8 : 0.625em;  // ~10px
   display: block;
 }
 
-.footnotes, .footnote {
+.footnotes, .footnote, .reversefootnote {
   color: #555759;
 }
 
+.btn.btn--twitter {
+  span {
+    color: #0d1926;
+  }
+}
