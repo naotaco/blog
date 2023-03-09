@@ -71,6 +71,14 @@ Covid以前からベトナムの入国時にはまず間違いなく帰国便の
 
 特にビザも不要なので、パスポートを出して、スタンプをもらうだけ。懐かしさすら感じる。
 
+### その他
+
+ホテルは適当にbooking.comでとって、国内線はベトナム航空のWebからとった。
+
+いままでは現地でSIMを買っていたが、Pixel 7 Proを買ったのではじめてeSIMが使える。ということで[GIGAGOの7GBのやつ](https://gigago.vn/esim/giga7/)を買っておいた。買うとQRコードが発行されるので、これを事前にスマホにインストールしておく。Android上で操作してSIMをActiveにして、そのSIMから所定のSMSを送るとSIMがActivateされて利用期間のカウントが始まるらしい。なので、SIMがスマホにInactiveと表示されているところまで事前にやっておいた。
+
+あと東南アジアではGrabというUberみたいなやつが主流らしく、へたにタクシーを使うより安心ということなので準備をしておく。PixelにアプリをインストールしてSMS認証をしておいて（eSIMによってはSMSが使えないものも多いので、日本でSMS認証だけやっておくとよい。現地では使えなくても特に問題はない）、使うカードの登録まで済ませておいた。
+
 ### Before covidからの差分まとめ
 
 - 日本入国にVisit Japan Web登録が必要[^4]
@@ -79,6 +87,7 @@ Covid以前からベトナムの入国時にはまず間違いなく帰国便の
 - 訪問先の入国規制にあわせた対応が必要
   - ベトナムの場合は旅行保険くらい
 - 旅行保険はCovid-19がカバーされると明記されているものにするのが安心
+- 時代はeSIM（いまさら）
 
 [^4]: 厳密にはVisit Japan Webは必須ではなく、接種証明（あるいは陰性証明）が必須
 
@@ -88,70 +97,142 @@ Covid以前からベトナムの入国時にはまず間違いなく帰国便の
 
 ## 出発～機内
 
-土曜1:30発の深夜便なので、ふつうに金曜の仕事を終えてから荷物の最終確認をして出発。久々だしいちおう早めに、と22時台に羽田に到着。しかし出国は以前と大して変わっていないので、一瞬でチェックインから出国まで終わってしまう。以前はいろいろ開いていたような気がするのだが、国際線ターミナルは以前の賑わいを取り戻しているとは言いがたく（日本人も少ない印象）、店も早く閉まるところが多い。23時には免税店も全て閉まっており、カフェが1軒やっているだけであった。とにかく暇だったので、列をなしているカフェのレジでビールとサンドイッチを買い、ひとりで3年ぶりの出国を祝った。この紙カップを見ると野球場かなという気持ちにしかならんが。
+土曜1:30発の深夜便なので、ふつうに金曜の仕事を終えてから荷物の最終確認をして出発。久々だしいちおう早めに、と22時台に羽田に到着。しかし出国は以前と大して変わっていないので、一瞬でチェックインから出国まで終わってしまう。いちおう着てきた上着（以降ずっと重荷となる）をスーツケースに突っ込む。
 
-[![Asahiとロゴの入った青い紙カップがテーブルの上にある](/assets/images/posts/20230303233313-SDIM3903.webp){:width="60%" .align-center} ](assets/images/posts/20230303233313-SDIM3903.webp)
+以前はいろいろ開いていたような気がするのだが、国際線ターミナルは以前の賑わいを取り戻しているとは言いがたく（日本人も少ない印象）、店も早く閉まるところが多い。23時には免税店も全て閉まっており、カフェが1軒やっているだけであった。とにかく暇だったので、列をなしているカフェのレジでビールとサンドイッチを買い、ひとりで3年ぶりの出国を祝った。この紙カップを見ると野球場かなという気持ちにしかならんが。
+
+[![Asahiとロゴの入った青い紙カップがテーブルの上にある](/assets/images/posts/20230303233313-SDIM3903.webp){:width="70%" .align-center} ](assets/images/posts/20230303233313-SDIM3903.webp)
 
 そして搭乗。
 
-[![搭乗口上の画面表示。ホーチミン 定刻1:30 JL79と表示されている](/assets/images/posts/20230304000726-SDIM3906.webp){:width="60%" .align-center} ](assets/images/posts/20230304000726-SDIM3906.webp)
+[![搭乗口上の画面表示。ホーチミン 定刻1:30 JL79と表示されている](/assets/images/posts/20230304000726-SDIM3906.webp){:width="70%" .align-center} ](assets/images/posts/20230304000726-SDIM3906.webp)
 
 搭乗客が異様に少なく、搭乗開始と同時にLast call表示となっていた。グループ1から立て続けに呼ばれ、一瞬で搭乗完了。
 
-wip
+B787の2-4-2配置だったのだが、中央4席の通路側にしたところほか3席には誰もいなかった。連れでない人と隣り合っていた人はいなかったのではなかろうか。窓際にしていたら一人で座れたかもしれないのが悔やまれる。ともあれ6時間、まあ多少はマシに過ごせた。機内はいちおうマスク着用の依頼が出ているからか、全員マスクをしていたようには見える。
 
-[![alt](/assets/images/posts/20230304082932-SDIM3909.webp){:width="60%" .align-center} ](/assets/images/posts/20230304082932-SDIM3909.webp)
+## ホーチミン到着～ホイアンへ移動
 
-[![alt](/assets/images/posts/20230304145924-SDIM3964.webp){:width="60%" .align-center} ](/assets/images/posts/20230304145924-SDIM3964.webp)
+到着したらPixelの電源を入れて、SIMをActiveにして、所定のSMSを送る。説明のPDF通りにやったらあっさり開通した。なんと降機前には通信できる状態になっていた。令和～
 
-[![alt](/assets/images/posts/20230304175312-SDIM4011.webp){:width="60%" .align-center} ](/assets/images/posts/20230304175312-SDIM4011.webp)
+そして飛行機を降りた瞬間、海外旅行というものを思い出した。この瞬間に海外旅行の30%くらいの価値があると思う。知らない匂い、温度、湿度、電話番号のフォーマット、音。端的に言うとほこりっぽく暑く湿度が高い。
 
-[![alt](/assets/images/posts/20230304181630-N0102807.webp){:width="60%" .align-center} ](/assets/images/posts/20230304181630-N0102807.webp)
+いろいろ身構えていたが、入国は前述のようにあっさり完了した。パスポートにスタンプが増えるのも3年ぶりだ（エモがバカになっている）。そして荷物を受け取り、両替をするか迷って（どうせこの先でできるだろう、ここは一番レートが悪いはずだ）やめて、税関をぬけてターミナルから出た。
 
-[![alt](/assets/images/posts/20230304184519-N0102910.webp){:width="60%" .align-center} ](/assets/images/posts/20230304184519-N0102910.webp)
+[![タンソンニャット国際空港の国際線ターミナルから出たところ。タクシー乗り場、椰子の木などが見える](/assets/images/posts/20230304082932-SDIM3909.webp){:width="70%" .align-center} ](/assets/images/posts/20230304082932-SDIM3909.webp)
 
-[![alt](/assets/images/posts/20230304185757-N0102924.webp){:width="60%" .align-center} ](/assets/images/posts/20230304185757-N0102924.webp)
+どこでもそうだが、国際線ターミナルの中は不思議な緩衝地帯だ。通貨や言語は切り替わっていて入国も済んでいるのに、制限エリアだからスタッフと旅行者しかいない。そのターミナルを通過するプロセスの最後、制限エリアから出る瞬間、ここに海外旅行の30%くらいの価値がある（ここまでで合計60％です）。その国の喧噪がそこにあり、五感がいっせいに違和感を訴えてくる。こうなるともう何をしても楽しい状態に入ってくる。たぶん金盗まれても喜んでたと思う。
 
-[![alt](/assets/images/posts/20230304191525-N0102965.webp){:width="60%" .align-center} ](/assets/images/posts/20230304191525-N0102965.webp)
+3時間後の便でダナンへ向かうので、国際線ターミナルから国内線ターミナルへ。数分歩くと着く。
 
-[![alt](/assets/images/posts/20230304193608-N0102991.webp){:width="60%" .align-center} ](/assets/images/posts/20230304193608-N0102991.webp)
+[![タンソンニャット国際空港の国内線ターミナル遠景。入り口の屋根とタクシーのピックアップレーン入り口が見える](/assets/images/posts/20230304083230-SDIM3913.webp){:width="70%" .align-center} ](/assets/images/posts/20230304083230-SDIM3913.webp)
 
-[![alt](/assets/images/posts/20230304202427-N0103329.webp){:width="60%" .align-center} ](/assets/images/posts/20230304202427-N0103329.webp)
+この辺で両替できるところを探すが見当たらない。ATMでRevolutのカードを試してみるも引き出せず（あるあるすぎる）。まあいいか、あとから考えよう。
 
-[![alt](/assets/images/posts/20230305081137-N0103454.webp){:width="60%" .align-center} ](/assets/images/posts/20230305081137-N0103454.webp)
+国内線のチェックインとセキュリティチェックも一瞬で終わり、搭乗口で延々暇をつぶすことに。腹も減ったのでまずはなんか食べるか、ということで適当にレストランに入ってワンタンと肉みたいなものを頼んだ。ヌードル（フォー）がデフォルトで含まれるのかと思っていたがそのようなことはなく、ワンタンスープが出てきた。
 
-[![alt](/assets/images/posts/20230305083704-SDIM4080.webp){:width="60%" .align-center} ](/assets/images/posts/20230305083704-SDIM4080.webp)
+[![ワンタンスープ。澄んだスープの中の野菜と肉が見える。](/assets/images/posts/20230304094240-SDIM3915.webp){:width="70%" .align-center} ](/assets/images/posts/20230304094240-SDIM3915.webp)
 
-[![alt](/assets/images/posts/20230305093532-SDIM4105.webp){:width="60%" .align-center} ](/assets/images/posts/20230305093532-SDIM4105.webp)
+うまい。ちなみにこのあとさらに暇だったので別の店でWagyu Phoを食べた。これもうまい。
 
-[![alt](/assets/images/posts/20230305093739-SDIM4116.webp){:width="60%" .align-center} ](/assets/images/posts/20230305093739-SDIM4116.webp)
+飛行機の搭乗を待っていたら小さいゴキブリがバッグの上に乗っているのを発見。叩き落として倒した。そしてダナンへ。
 
-[![alt](/assets/images/posts/20230305094234-SDIM4129.webp){:width="60%" .align-center} ](/assets/images/posts/20230305094234-SDIM4129.webp)
+[![ダナン到着時の機内からの光景。翼とダナン国際空港のターミナル、空港名の看板が見える。](/assets/images/posts/20230304125051-SDIM3959.webp){:width="70%" .align-center} ](/assets/images/posts/20230304125051-SDIM3959.webp)
 
-[![alt](/assets/images/posts/20230305094317-SDIM4134.webp){:width="60%" .align-center} ](/assets/images/posts/20230305094317-SDIM4134.webp)
+ダナンの国内線ターミナルで両替できたので、とりあえず1万円を現金にした。レートは悪い。以後カード決済とATMからの出金だけでやっていこうと決めた。
 
-[![alt](/assets/images/posts/20230305094533-SDIM4141.webp){:width="60%" .align-center} ](/assets/images/posts/20230305094533-SDIM4141.webp)
+そしてあらかじめ設定しておいたGrabアプリでホイアンのホテルへ車を呼んでみた。すぐに車が見つかり、ピックアップに向かっています、と出る。次の瞬間スマホが鳴り、ドライバーから音声通話がかかってくる。この後も含め、ベトナムでGrabを使うとまず間違いなくこのパターンになる。通話の品質も悪くドライバーが英語を話すこともほぼないので、意思疎通は困難。GPS情報と車のナンバーの情報を手がかりにがんばってドライバーを探すことになる。何分か右往左往したあげく落ち合うことができた。車は快適でドライバーも丁寧に応対してくれる。空港を出るときに駐車場料金（10000ドンくらいだったか）を払わされるので、現金をもっていてよかった。ちなみにこの旨はGrabアプリでシステムからのメッセージがおしえてくれる。あとから気づいたが。
 
-[![alt](/assets/images/posts/20230305112855-N0103527.webp){:width="60%" .align-center} ](/assets/images/posts/20230305112855-N0103527.webp)
+大都会という感じのダナンから抜け出し、海沿いを30分くらい走ってホイアンへ。ホーチミンほどではないが十分暑い。
 
-[![alt](/assets/images/posts/20230305172134-SDIM4171.webp){:width="60%" .align-center} ](/assets/images/posts/20230305172134-SDIM4171.webp)
+ホテルのおっちゃんがねっちり丁寧に地図に書き込みながら町の見所とおすすめレストランを教えてくれる。この安宿の感じも懐かしいわね……。
 
-[![alt](/assets/images/posts/20230305184516-SDIM4181.webp){:width="60%" .align-center} ](/assets/images/posts/20230305184516-SDIM4181.webp)
+早速、教えてもらったバインミーの店へ。Google mapのレビューも異様に多く、どうもかなり有名なところらしい。このBánh mì Phượng（ばいんみーふーん）で食べる。
 
-[![alt](/assets/images/posts/20230305210151-N0103539.webp){:width="60%" .align-center} ](/assets/images/posts/20230305210151-N0103539.webp)
+[![Bánh mì Phượng（ばいんみーふーん）の外観。店が木に覆われており、前の道を忙しくバイクが行き交っている。](/assets/images/posts/20230304181630-N0102807.webp){:width="70%" .align-center} ](/assets/images/posts/20230304181630-N0102807.webp)
 
-[![alt](/assets/images/posts/20230306093626-N0103548.webp){:width="60%" .align-center} ](/assets/images/posts/20230306093626-N0103548.webp)
+店内は混んでいたので道ばたで立ち食い。
 
-[![alt](/assets/images/posts/20230306111446-N0103554.webp){:width="60%" .align-center} ](/assets/images/posts/20230306111446-N0103554.webp)
+[![手に持ったバインミー。固めのパンに具を挟んだサンドイッチ。](/assets/images/posts/20230304145924-SDIM3964.webp){:width="70%" .align-center} ](/assets/images/posts/20230304145924-SDIM3964.webp)
 
-[![alt](/assets/images/posts/20230306121243-N0103640.webp){:width="60%" .align-center} ](/assets/images/posts/20230306121243-N0103640.webp)
+これがうまい。とにかくうまい。ほどよい味付けと新鮮な野菜、ニラ＆パクチーのアクセント。あかんこんなもんばっか食べてたら健康になってまう。ベトナムは飯がうまい。これだけは覚えて帰ってください。アジアはこれがいいよな。
 
-[![alt](/assets/images/posts/20230306144249-SDIM4230.webp){:width="60%" .align-center} ](/assets/images/posts/20230306144249-SDIM4230.webp)
+腹ごしらえも済んだので、適当に散策する。有名な橋とは別に映えスポットの中心みたいな橋（ Cầu An Hội ）があり、この付近が混み合っている。夜はすごい人混みで歩くのも大変。
 
-[![alt](/assets/images/posts/20230306182535-SDIM4241.webp){:width="60%" .align-center} ](/assets/images/posts/20230306182535-SDIM4241.webp)
+[![ホイアンのアンホイ橋](/assets/images/posts/20230304175312-SDIM4011.webp){:width="70%" .align-center} ](/assets/images/posts/20230304175312-SDIM4011.webp)
 
-[![alt](/assets/images/posts/20230306183617-SDIM4243.webp){:width="60%" .align-center} ](/assets/images/posts/20230306183617-SDIM4243.webp)
+適当に歩いていたら暇そうな船頭のおばちゃんに声をかけられる（客引きには空港以来ずっとあっていたが）。曰く5ドルで30分、船にのらないかと。一人で？と聞いたらYesということなので、安いし乗ってみることに。エンジンがついていて20人くらいは乗れそうな船を独り占め。
 
-[![alt](/assets/images/posts/20230306185742-N0103697.webp){:width="60%" .align-center} ](/assets/images/posts/20230306185742-N0103697.webp)
+[![川を行く船上から撮った景色。別の船が夕日に向かって進んでいる。両岸の景色が遠くに見える。](/assets/images/posts/20230304184519-N0102910.webp){:width="70%" .align-center} ](/assets/images/posts/20230304184519-N0102910.webp)
 
-[![alt](/assets/images/posts/20230307064902-SDIM4260.webp){:width="60%" .align-center} ](/assets/images/posts/20230307064902-SDIM4260.webp)
+河口のほうに進んでいって引き返してくるだけなんだけど変な橋をくぐったり、普通の橋をくぐったりして、思ったより楽しかった。船の上を適当に動き回っていいのが自由でいい。一人で船に乗っている客はほかには見当たらなかった。ちなみにライフジャケットは貸してもらえて、ほかの船に乗っていた客もほとんど全員つけていたので何らかの規制がちゃんとあるのだろう。
+
+船を降りて、日没にむけてアップを始める。日の出日没の前後はゴールデンタイム、ナショジオの本にもそう書いてある。
+
+[![カフェの店頭。木と花に覆われた軒先と、その下で飲食する観光客](/assets/images/posts/20230304185757-N0102924.webp){:width="70%" .align-center} ](/assets/images/posts/20230304185757-N0102924.webp)
+
+観光客もだんだん増えてきて、カフェでのんびりしている人と映え写真を追い求めている人に分かれている。自撮りはもう流行らないのか、お互いの映え写真を撮り合っている人が大半だった。
+
+[![夕日に照らされる川岸の手こぎボート。提灯が準備されている。](/assets/images/posts/20230304191525-N0102965.webp){:width="70%" .align-center} ](/assets/images/posts/20230304191525-N0102965.webp)
+
+[![同上。こちらは逆光。](/assets/images/posts/20230304193608-N0102991.webp){:width="70%" .align-center} ](/assets/images/posts/20230304193608-N0102991.webp)
+
+アンホイ橋の周辺の映えエリアは水深が浅いらしく、手こぎボートしか浮かんでいない。ここで提灯とともに船に乗るのが定番の映えコースなのかもしれないが、ちょっと暗い時間に揺れる場所にいくのは（手ぶれの観点から）気が進まないので、見るだけにとどめる。
+
+
+
+wip.
+
+[![alt](/assets/images/posts/20230304200401-N0103066.webp){:width="70%" .align-center} ](/assets/images/posts/20230304200401-N0103066.webp)
+
+[![alt](/assets/images/posts/20230304201816-N0103270.webp){:width="70%" .align-center} ](/assets/images/posts/20230304201816-N0103270.webp)
+
+[![alt](/assets/images/posts/20230305082702-SDIM4064.webp){:width="70%" .align-center} ](/assets/images/posts/20230305082702-SDIM4064.webp)
+
+
+
+
+
+
+
+
+
+[![alt](/assets/images/posts/20230304202427-N0103329.webp){:width="70%" .align-center} ](/assets/images/posts/20230304202427-N0103329.webp)
+
+[![alt](/assets/images/posts/20230305081137-N0103454.webp){:width="70%" .align-center} ](/assets/images/posts/20230305081137-N0103454.webp)
+
+[![alt](/assets/images/posts/20230305083704-SDIM4080.webp){:width="70%" .align-center} ](/assets/images/posts/20230305083704-SDIM4080.webp)
+
+[![alt](/assets/images/posts/20230305093532-SDIM4105.webp){:width="70%" .align-center} ](/assets/images/posts/20230305093532-SDIM4105.webp)
+
+[![alt](/assets/images/posts/20230305093739-SDIM4116.webp){:width="70%" .align-center} ](/assets/images/posts/20230305093739-SDIM4116.webp)
+
+[![alt](/assets/images/posts/20230305094234-SDIM4129.webp){:width="70%" .align-center} ](/assets/images/posts/20230305094234-SDIM4129.webp)
+
+[![alt](/assets/images/posts/20230305094317-SDIM4134.webp){:width="70%" .align-center} ](/assets/images/posts/20230305094317-SDIM4134.webp)
+
+[![alt](/assets/images/posts/20230305094533-SDIM4141.webp){:width="70%" .align-center} ](/assets/images/posts/20230305094533-SDIM4141.webp)
+
+[![alt](/assets/images/posts/20230305112855-N0103527.webp){:width="70%" .align-center} ](/assets/images/posts/20230305112855-N0103527.webp)
+
+[![alt](/assets/images/posts/20230305172134-SDIM4171.webp){:width="70%" .align-center} ](/assets/images/posts/20230305172134-SDIM4171.webp)
+
+[![alt](/assets/images/posts/20230305184516-SDIM4181.webp){:width="70%" .align-center} ](/assets/images/posts/20230305184516-SDIM4181.webp)
+
+[![alt](/assets/images/posts/20230305210151-N0103539.webp){:width="70%" .align-center} ](/assets/images/posts/20230305210151-N0103539.webp)
+
+[![alt](/assets/images/posts/20230306093626-N0103548.webp){:width="70%" .align-center} ](/assets/images/posts/20230306093626-N0103548.webp)
+
+[![alt](/assets/images/posts/20230306111446-N0103554.webp){:width="70%" .align-center} ](/assets/images/posts/20230306111446-N0103554.webp)
+
+[![alt](/assets/images/posts/20230306121243-N0103640.webp){:width="70%" .align-center} ](/assets/images/posts/20230306121243-N0103640.webp)
+
+[![alt](/assets/images/posts/20230306144249-SDIM4230.webp){:width="70%" .align-center} ](/assets/images/posts/20230306144249-SDIM4230.webp)
+
+[![alt](/assets/images/posts/20230306182535-SDIM4241.webp){:width="70%" .align-center} ](/assets/images/posts/20230306182535-SDIM4241.webp)
+
+[![alt](/assets/images/posts/20230306183617-SDIM4243.webp){:width="70%" .align-center} ](/assets/images/posts/20230306183617-SDIM4243.webp)
+
+[![alt](/assets/images/posts/20230306185742-N0103697.webp){:width="70%" .align-center} ](/assets/images/posts/20230306185742-N0103697.webp)
+
+[![alt](/assets/images/posts/20230307064902-SDIM4260.webp){:width="70%" .align-center} ](/assets/images/posts/20230307064902-SDIM4260.webp)
