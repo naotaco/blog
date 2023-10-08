@@ -4,7 +4,7 @@ title: 郡上八幡・関・犬山に行ってきた
 date: 2023-10-09 01:31:48 +09:00
 categories: 旅行
 header:
-  image: /assets/images/posts/20231006_gujo/gujo_seki_inuyama-30.webp
+  image: /assets/images/posts/20231006_gujo/gujo_seki_inuyama-header-1.webp
 ---
 
 
@@ -77,3 +77,4 @@ header:
 [![xx](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-61.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-61.webp)
 [![xx](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-62.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-62.webp)
 [![xx](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-63.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-63.webp)
+[![xx](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-64.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-64.webp)
