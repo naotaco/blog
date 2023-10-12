@@ -19,17 +19,19 @@ header:
 
 ## 郡上八幡
 
-名古屋から特急ひだで美濃太田へ。ひだは最新のHC85で運行されていて、たしかにハイブリッドっぽい感じで静かではあった。しかしそれなりに揺れるし、新車の匂いがするし、後ろ向きだしで、若干気分が悪くなった。電車でこうなるのは少し珍しい。
+名古屋から特急ひだで美濃太田へ。ひだは最新のHC85で運行されていて、たしかにハイブリッドっぽい感じで静かではあった。しかしそれなりに揺れるし、新車の匂いがするし（最初は）後ろ向きだしで、若干気分が悪くなった。電車でこうなるのは少し珍しい。
 
-美濃太田で長良川鉄道に乗り換え。Visaタッチで乗れるようになっており、乗車時と降車時それぞれタッチするだけでよい。関を少し過ぎたところに「うだつの上がる町並み」があるそうなので少し気になったが、郡上八幡の方が優先順位が高いだろうということでスルー。一気に郡上八幡まで向かう。1時間半ほどかけて到着。こちらはHC85とは異なり由緒正しい気動車という感じでエンジン音と揺れがすごい。
+美濃太田で長良川鉄道に乗り換え。ローカル線である。こちらはHC85とは異なり由緒正しい気動車という感じでエンジン音と揺れがすごい。とはいえVisaタッチで乗れるようになっており、乗車時と降車時それぞれタッチするだけでよい。関を少し過ぎたところに「うだつの上がる町並み」があるそうなので少し気になったが、郡上八幡の方が優先順位が高いだろうということでスルー。一気に郡上八幡まで向かう。
 
 [![長良川鉄道の車内。観光列車風にリニューアルされていてきれい](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-1.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-1.webp)
+
+1時間半ほどかけて到着。
 
 [![郡上八幡駅の構内。木造の駅舎が歴史を感じさせる](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-2.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-2.webp)
 
 [![郡上八幡駅構内。木造の跨線橋が古い。発車する赤い列車が見える](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-3.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-3.webp)
 
-趣のある駅に到着。川沿いの遊歩道を歩いて宿へ向かう。駅は町の中心部からやや離れたところにあるので、まっすぐ歩いて20分くらいかかる。川沿いを歩いていったので30分以上かかった。
+趣のある駅に到着。駅は町の中心部からやや離れたところにあるので、宿までまっすぐ歩いて20分くらいかかる。普通はバスを使うのだろうがつまらないので歩く。幹線道路ではなく川沿いを歩いていったので、30分以上かかった。
 
 [![川沿いからの景色。広い川の両岸に山が迫っている](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-4.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-4.webp)
 
@@ -47,7 +49,7 @@ header:
 
 [![旅館の客室。典型的な和室で、床の間などがある](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-8.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-8.webp)
 
-例の電話もある。
+アップルが商標を買ったという例の電話もある。
 
 [![アイホンと書かれた古い電話機](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-9.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-9.webp)
 
@@ -60,7 +62,7 @@ header:
 
 [![川。両岸には家が並ぶ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-11.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-11.webp)
 
-みんな大好き、水路の立体交差。
+みんな大好き、水路の立体交差。この町は川が近いだけでなく町中に水路が張り巡らされており、昔は生活に密着していたのだと思わされる。
 
 [![立体交差する水路](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-12.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-12.webp)
 
@@ -88,7 +90,7 @@ header:
 
 [![串に刺さった五平餅](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-19.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-19.webp)
 
-せっかく来たので郡上八幡城まで登ってみる。歩くと20分くらいかかるが、なんと近道を使うと3分短縮が可能。ただの階段である。
+せっかく来たので郡上八幡城まで登ってみる。麓？の通りから歩くと20分くらいかかるが、なんと近道を使うと3分短縮が可能。近道というか、うねる車道を直線的に突っ切るための階段である。
 
 [![「少し足元が悪いですが 近道です なんと3分ほど早いです と書かれた看板](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-21.webp){:width="45%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-21.webp)
 
@@ -98,13 +100,13 @@ header:
 
 [![石碑と向こうに見える天守閣。若干夕日に照らされている](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-23.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-23.webp)
 
-ちょうど日没の光線が良い時間帯になったのであわてて下山、町並みを眺める。
+ちょうど日没の光線が良い時間帯になったのであわてて下山、町並みを眺めるが間に合わず。
 
 [![寺に向かう、昔ながらの建物が残った道](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-25.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-25.webp)
 
 [![川にかかる橋の街灯がオレンジに色に点灯していて、郡上おどりと書かれている。奥には川と山](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-28.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-28.webp)
 
-もう少し早く計画的に下りてくればよかった。このあたりは周りを山に囲まれているので、日没の時間が計算より早いのかもしれない。
+もう少し早く計画的に下りてくればよかった。このあたりは周りを山に囲まれているので、日没の時間が計算より早いのかもしれない。知らんけど。
 
 [![日没直後、橋の上から川を撮った景色](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-30.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-30.webp)
 
@@ -126,7 +128,7 @@ header:
 
 [![鮎の塩焼き](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-38.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-38.webp)
 
-きりがないのでこのへんにしておくが、宿泊のプランをまんぷくプランみたいなやつにしておいたので、その名に違わず満腹になった。旅館で食事をいただくのもずいぶん久しぶりだったが、風呂に入ってから浴衣でうまい飯を食い酒を飲み、すぐ隣の部屋に戻ると布団が敷かれているというのは極楽としか言いようがないな。ちなみに連休があけて仕事で死にそうになっている今このブログを書いており落差が凄まじい。
+きりがないのでこのへんにしておくが、宿泊のプランをまんぷくプランみたいなやつにしておいたので、その名に違わず満腹になった。旅館で食事をいただくような旅行はほとんどしたことがないのだが、風呂に入ってから浴衣でうまい飯を食い酒を飲み、すぐ隣の部屋に戻ると布団が敷かれているというのは極楽としか言いようがないな。ちなみに連休があけて仕事で死にそうになっている今このブログを書いており落差が凄まじい。殺してくれ。
 
 食後、明朝の食事を7時半にするか8時にするかと聞かれたのだが、刃物まつりに行くためには8時前の電車に乗らなくてはいけないので、朝食を食べていたら間に合わない。その旨を話すとそれじゃあ6時半くらいじゃないと間に合わないですねと仰って朝食の時間を6時半に調整していただいた。ありがてえ…… おっさんの一人旅を泊めていただいたのみならずそこまで柔軟に対応してくださり感謝しかない。
 
@@ -144,7 +146,7 @@ header:
 
 [![朝の川。空は晴れているが逆光気味で白い。遠くの山は朝靄がかかっている。](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-46.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-46.webp)
 
-早朝ということでバスもなく、また20分ほど歩いて郡上八幡駅へ。
+早朝ということでバスもなく、電車もまた長いので、途中コンビニで飲み物を補充しつつ20分ほど歩いて郡上八幡駅へ。
 
 [![駅のようす。ベンチにバックパックが置かれていて、そのむこうに跨線橋や駅の屋根が見える](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-47.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-47.webp)
 
@@ -164,20 +166,42 @@ header:
 
 ここは、[刃物まつりの記事]({% link _posts/2023-10-07-misono-sale-hamonomatsuri.markdown %}) で書いたところなので割愛。
 
-包丁をしこたま入手して包丁まつりのメイン会場まで戻り、せきてらす前駅から美濃太田駅行きの電車に乗った。
+包丁をしこたま入手して包丁まつりのメイン会場まで戻り、せきてらす前駅から美濃太田駅行きの電車に乗った。この日ここまでだけで7kmほど歩いている。疲れた。
 
-美濃太田で腹ごしらえ。
+美濃太田で腹ごしらえ。何はなくとも蕎麦である。
 
 [![そばのせいろが2枚重なっており、天ぷらが添えられている](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-58.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-58.webp)
 
 ## 犬山
 
-（書いてる途中）
+蕎麦を食べ、次の目的地の犬山城を目指す。
 
-[![xx](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-59.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-59.webp)
+美濃太田から高山線で鵜沼まで行き、名鉄に乗り換える。犬山遊園から歩いた方が近そうだったのでそこで下りた。川沿いを歩いて犬山城に向かう。犬山城は山の上にあり、特急ひだに乗っているときも山の上に犬山城が見えますよというアナウンスがあったくらい、見通しのよい城である。つまり、登るのが大変ということだ。
 
-[![xx](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-60.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-60.webp)
-[![xx](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-61.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-61.webp)
-[![xx](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-62.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-62.webp)
-[![xx](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-63.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-63.webp)
+なんやかんやがんばって登ったら着いた。天守閣入場は30分待ちということで、行列に並ぶ。そういえば松本城もけっこう並んだな。なにせ待ち時間が長いので後ろのカップルの会話がたっぷり聞こえてくる。
+
+[![犬山城天守閣を見上げた写真。4階くらいある天守と、その入り口に並んでいる人が見える。](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-59.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-59.webp)
+
+天守閣の中は現存天守らしく質素さを感じる内装であった。
+
+[![天守閣の内装。板張りの壁・床・天井がある。](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-60.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-60.webp)
+
+びびったのは最上階で、この階の外、回廊？に出ることが出来る。順路がこれを一周するようになっており、全員通ることになる。通路の幅がせまく、柵は大人の腰より低く、つるつる滑る木の床は外に向かってやや傾いている。そしてここは高台に立つ城の5階くらいの部分である。普通に怖い。近くにいた女性はずっと怖い怖いといって連れの腕をつかんで壁際から離れられない様子であった。なかなかない体験なので面白い。
+
+[![回廊のようす。狭い通路、立っている人、はるか下には城の広場と、外の駐車場が見える](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-61.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-61.webp)
+
+
+[![天守閣遠景。観光客多数と庭に生えている木が見える](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-62.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-62.webp)
+
+そして、天守閣とチケットがセットで売られていた（単体でも売っていたが）日本庭園 有楽園（うらくえん）にも行ってきた。美しい庭園であり、国宝の茶室がある。途中（国宝ではない別の）建物の縁側に座れるところがあったので一休み。風情もクソもない扇風機と虫除けスプレーが常備されている。それはいらなくない……？
+
+ちなみに茶室は窓の隙間から中をのぞくことが出来るが写真撮影はNG。中の写真は公開されているのに写真撮影がNG（ストロボNGではなく撮影がNG）という全く説明のつかないタイプの写真撮影禁止で、私が一番嫌いなやつである。そういうしょうもないことをする建物は外観の写真も載せてやらないし、代わりにその近くで撮ったなんかそれっぽい映え写真を出してくことにする。
+
+[![竹筒のようなところから水が出ているやつ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-63.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-63.webp)
+
+見学を終えて、帰りは犬山城正面から犬山城下町を通って犬山駅まで歩いた。城下町は観光地化された店が並んでおり、食べ歩きをしながら城へ行き来する人で賑わっている。あまりこういうところとは縁が無いので、すたこら歩く。犬山駅のおしゃれカフェで一息。
+
 [![xx](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-64.webp){:width="75%" .align-center} ](/assets/images/posts/20231006_gujo/gujo_seki_inuyama-64.webp)
+
+名鉄特急で名古屋まで戻り、帰宅。おつかれさまでした。
+
