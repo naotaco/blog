@@ -9,14 +9,17 @@ header:
 
 今年も苦しかった。撮影を目的とした外出はほとんどできず、星の写真も撮れなかった。
 
-
-
-[![xxx](/assets/images/posts/moments-2023/gujo.webp){:width="75%" .align-center} ](/assets/images/posts/moments-2023/gujo.webp)
-
-[![xxx](/assets/images/posts/moments-2023/suwa.webp){:width="75%" .align-center} ](/assets/images/posts/moments-2023/suwa.webp)
-
-[![xxx](/assets/images/posts/moments-2023/tama.webp){:width="75%" .align-center} ](/assets/images/posts/moments-2023/tama.webp)
-
-[![xxx](/assets/images/posts/moments-2023/vietnam1.webp){:width="75%" .align-center} ](/assets/images/posts/moments-2023/vietnam1.webp)
+[![xxx](/assets/images/posts/moments-2023/vietnam1.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/vietnam1.webp)
 
 [![xxx](/assets/images/posts/moments-2023/vietnam2.webp){:width="75%" .align-center} ](/assets/images/posts/moments-2023/vietnam2.webp)
+
+まずはベトナム。詳しくは[こちらの記事]({% link _posts/2023-03-07-travel-to-vietnam.markdown %})にて。
+
+
+[![xxx](/assets/images/posts/moments-2023/gujo.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/gujo.webp)
+
+[![xxx](/assets/images/posts/moments-2023/suwa.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/suwa.webp)
+
+[![xxx](/assets/images/posts/moments-2023/tama.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/tama.webp)
+
+

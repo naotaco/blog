@@ -14,7 +14,7 @@ header:
 
 [https://www.amazon.co.jp/dp/B09SKMVMVG/](https://www.amazon.co.jp/dp/B09SKMVMVG/)
 
-![](/assets/images/posts/goods-2023/horupo.webp){:width="60%" .align-center}
+![ホルポの写真。黒い文庫本大の布袋のような形状。](/assets/images/posts/goods-2023/horupo.webp){:width="60%" .align-center}
 
 電車で遠出すると車内で何か食べるときにウェットティッシュで手を拭いたりするが、そのゴミを捨てるのが面倒だった。これは小さいゴミ袋の口が閉じるようになっているので、ちょっとしたゴミを都度都度放り込んでいくことができる。いっぱいになったら袋ごと捨ててしまう。とても便利。
 
@@ -32,7 +32,7 @@ header:
 
 [https://www.yodobashi.com/product/100000001005885508/](https://www.yodobashi.com/product/100000001005885508/)
 
-![](/assets/images/posts/goods-2023/wera.webp){:width="60%" .align-center}
+![Weraのレンチの写真。9本の短いレンチがホルダーに入っている。それぞれ太さに応じた色分けがなされている。](/assets/images/posts/goods-2023/wera.webp){:width="60%" .align-center}
 
 Weraのレンチ。ヨドバシだといま7000円くらいになっているが、当時は5400円くらいだった。Amazonだと4900円くらいで買えるようだが、私は2回注文して2回とも別の商品が来た。2階とも同じ（誤った）商品が来たので、たぶん何か完全に間違っているんだろうなと思って見切りを付けて（両方返品して）ヨドバシで買った。あほくさ。いまは大丈夫かもしれませんが、知りません。
 
@@ -44,7 +44,7 @@ Weraのレンチ。ヨドバシだといま7000円くらいになっているが
 
 [https://www.yodobashi.com/product/100000001006414612/](https://www.yodobashi.com/product/100000001006414612/)
 
-![](/assets/images/posts/goods-2023/loupedeck.webp){:width="60%" .align-center}
+![キーボードの左側に置かれたLoupedeckの写真。液晶が表示されているボタンが12個と、ダイヤルが6個備えられている。](/assets/images/posts/goods-2023/loupedeck.webp){:width="60%" .align-center}
 
 いわゆる左手用デバイス。アプリケーションごとに操作を割り当てることができる。ボタン類はキーボードショートカットとそこまでかわらないことも多いが、ダイヤルが強い。
 
@@ -69,7 +69,7 @@ Lightroom以外では唯一、Teams操作ができたので重宝していた。
 
 [https://www.amazon.co.jp/dp/B0CLTWMSMY/](https://www.amazon.co.jp/dp/B0CLTWMSMY/)
 
-![](/assets/images/posts/goods-2023/cfe.webp){:width="60%" .align-center}
+![メモリーカード2枚の写真。机に320GBのカードが2枚並んでいる。](/assets/images/posts/goods-2023/cfe.webp){:width="60%" .align-center}
 
 こないだのブラックフライデーのとき、160GBが約1万円、320GBが約2万円という理解できない値段だったので混乱して4枚（160GBx2, 320GBx2）買ってしまった。
 
@@ -83,13 +83,13 @@ Lightroom以外では唯一、Teams操作ができたので重宝していた。
 
 [https://www.yodobashi.com/product/100000001008130710/](https://www.yodobashi.com/product/100000001008130710/)
 
-![](/assets/images/posts/goods-2023/osmopocket3.webp){:width="60%" .align-center}
+![OSMO Pocket3の写真。細長い本体がマットの上に置かれている。](/assets/images/posts/goods-2023/osmopocket3.webp){:width="60%" .align-center}
 
 待望の1インチ版。4K60pと10bit Log記録で、けっこう画質がよくなっている。個人的に許せる画質といえるレベルで、それがこんなに小さいカメラで手ぶれ無く撮れるとなるとケチの付けようがない。
 
 スマホアプリでアクティベートしないと使えないというDJIのクソおもてなし仕様はどうにかしてほしいし、アクティベートやアップデートに使うアプリがPlayストアでなくapk配布なのもマジでどうにかしてほしいのであるが、カメラとしては素晴らしいです。
 
-外部接続マイクで試行錯誤した顛末はこちら: [https://blog.naotaco.com/%E3%82%AB%E3%83%A1%E3%83%A9/%E3%83%9E%E3%82%A4%E3%82%AF/2023/11/11/osmopocket3-external-mic.html](https://blog.naotaco.com/%E3%82%AB%E3%83%A1%E3%83%A9/%E3%83%9E%E3%82%A4%E3%82%AF/2023/11/11/osmopocket3-external-mic.html)
+外部接続マイクで試行錯誤した顛末は[こちらの記事を参照]({% link _posts/2023-11-11-osmopocket3-external-mic.markdown %})のこと。
 
 ## KeepLiNK 4ポート 2.5GBASE-T スイッチングハブ
 
