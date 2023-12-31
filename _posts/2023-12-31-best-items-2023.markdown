@@ -7,9 +7,12 @@ header:
   image: /assets/images/posts/goods-2023/header.webp
 ---
 
+2023年に買って良かったもの。もちろん誰も商品を提供したりしてはくれない。アフィリエイトリンクもないので存分にリンクをクリックしてください。
 
 
-## ゴミ箱ポーチ
+## ゴミ箱ポーチ ホルポ
+
+https://www.amazon.co.jp/dp/B09SKMVMVG/
 
 ![](/assets/images/posts/goods-2023/horupo.webp){ :width="75%" .align-center }
 
