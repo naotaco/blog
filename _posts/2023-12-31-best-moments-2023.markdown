@@ -9,17 +9,19 @@ header:
 
 今年も苦しかった。撮影を目的とした外出はほとんどできず、星の写真も撮れなかった。
 
-[![xxx](/assets/images/posts/moments-2023/vietnam1.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/vietnam1.webp)
-
-[![xxx](/assets/images/posts/moments-2023/vietnam2.webp){:width="75%" .align-center} ](/assets/images/posts/moments-2023/vietnam2.webp)
-
 まずはベトナム。詳しくは[こちらの記事]({% link _posts/2023-03-07-travel-to-vietnam.markdown %})にて。
 
+[![夜のベトナムの通りの写真。店の軒先から道の反対側に多数ロープが張られていて、そこに無数の提灯がぶらさがっている。人々がその下を行き交う。](/assets/images/posts/moments-2023/vietnam1.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/vietnam1.webp)
 
-[![xxx](/assets/images/posts/moments-2023/gujo.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/gujo.webp)
+[![朝のベトナムの通りの写真。奥の車道を自転車で行く人と、手前の木と、その下に落ちている花が写っている](/assets/images/posts/moments-2023/vietnam2.webp){:width="75%" .align-center} ](/assets/images/posts/moments-2023/vietnam2.webp)
 
-[![xxx](/assets/images/posts/moments-2023/suwa.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/suwa.webp)
+あとは国内で、郡上、諏訪、奥多摩。
 
-[![xxx](/assets/images/posts/moments-2023/tama.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/tama.webp)
+[![川に架かる橋の上から川の上流方向を見た風景写真。橋の欄干、そこに立てられた照明、旅館の明かりが見える。遠景には山々と厚い雲。](/assets/images/posts/moments-2023/gujo.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/gujo.webp)
 
+[![雨の諏訪大社の写真。大きな注連縄をたたえた建物と、その両側の狛犬が写っている。](/assets/images/posts/moments-2023/suwa.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/suwa.webp)
+
+[![森の中の猫の写真。急斜面の途中に茶色い毛の猫が堂々と座っている。](/assets/images/posts/moments-2023/tama.webp){:width="90%" .align-center} ](/assets/images/posts/moments-2023/tama.webp)
+
+来年はもう少しなんとかしたい。
 
