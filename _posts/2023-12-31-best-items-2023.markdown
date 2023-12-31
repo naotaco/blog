@@ -12,11 +12,15 @@ header:
 
 ## ゴミ箱ポーチ ホルポ
 
-https://www.amazon.co.jp/dp/B09SKMVMVG/
+[https://www.amazon.co.jp/dp/B09SKMVMVG/](https://www.amazon.co.jp/dp/B09SKMVMVG/)
 
-![](/assets/images/posts/goods-2023/horupo.webp){ :width="75%" .align-center }
+![](/assets/images/posts/goods-2023/horupo.webp){:width="75%" .align-center}
+
+電車で遠出すると車内で何か食べるときにウェットティッシュで手を拭いたりするが、そのゴミを捨てるのが面倒だった。これは小さいゴミ袋の口が閉じるようになっているので、ちょっとしたゴミを都度都度放り込んでいくことができる。いっぱいになったら袋ごと捨ててしまう。とても便利。
 
 ## 電気毛布
+
+
 
 ## Weraレンチ
 
