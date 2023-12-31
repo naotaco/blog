@@ -14,32 +14,40 @@ header:
 
 [https://www.amazon.co.jp/dp/B09SKMVMVG/](https://www.amazon.co.jp/dp/B09SKMVMVG/)
 
-![](/assets/images/posts/goods-2023/horupo.webp){:width="75%" .align-center}
+![](/assets/images/posts/goods-2023/horupo.webp){:width="60%" .align-center}
 
 電車で遠出すると車内で何か食べるときにウェットティッシュで手を拭いたりするが、そのゴミを捨てるのが面倒だった。これは小さいゴミ袋の口が閉じるようになっているので、ちょっとしたゴミを都度都度放り込んでいくことができる。いっぱいになったら袋ごと捨ててしまう。とても便利。
 
 ## 電気毛布
 
+[https://www.amazon.co.jp/gp/product/B005HMMBYE/](https://www.amazon.co.jp/gp/product/B005HMMBYE/)
 
+膝掛けサイズの電気毛布。電気毛布にはサイズ（シングル・ダブル）や敷く用・かける用いろいろあるようなのだが、サイズ以外何が違うのかよくわからない。これは敷き毛布となっているが別にそう固いわけでもなく、ふつうに膝掛けとして使っている。
+
+冬の暖房にエアコンと加湿器を使っていたが乾燥するし加湿器は面倒だし消費電力も高そう（調べてないが）だったので、在宅勤務用に電気毛布を買ってみた。消費電力はわずか31W。何より十分に暖かく乾燥もしない。すばらしい。パネルヒーターなんかでもいいのだろうが、より直接的に温めるから効率もよさそうだし、毛布の感じも好きなのでかなり気に入っている。これはもう暖房器具の最高到達点といっても過言ではあるまい。
+
+問題は気持ちよすぎて、夜に使っていると普通に寝落ちしてそのまま3時間くらい寝てしまうということなのであるが……。
 
 ## Weraレンチ
 
-![](/assets/images/posts/goods-2023/wera.webp){ :width="75%" .align-center }
+[https://www.yodobashi.com/product/100000001005885508/](https://www.yodobashi.com/product/100000001005885508/)
+
+![](/assets/images/posts/goods-2023/wera.webp){:width="60%" .align-center}
 
 ## Loupedeck Live
 
-![](/assets/images/posts/goods-2023/loupedeck.webp){ :width="75%" .align-center }
+![](/assets/images/posts/goods-2023/loupedeck.webp){:width="60%" .align-center}
 
 ## CFe
 
-![](/assets/images/posts/goods-2023/cfe.webp){ :width="75%" .align-center }
+![](/assets/images/posts/goods-2023/cfe.webp){:width="60%" .align-center}
 
 ## かりまー
 
 
 ## OSMO Pocket3
 
-![](/assets/images/posts/goods-2023/osmopocket3.webp){ :width="75%" .align-center }
+![](/assets/images/posts/goods-2023/osmopocket3.webp){:width="60%" .align-center}
 
 ## KeepLink
 
