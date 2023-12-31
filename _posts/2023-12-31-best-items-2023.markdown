@@ -1,0 +1,41 @@
+---
+layout: single
+title: 買ってよかった2023
+date: 2023-12-31 21:42:14 +09:00
+categories: よかった
+header:
+  image: /assets/images/posts/goods-2023/header.webp
+---
+
+
+
+## ゴミ箱ポーチ
+
+![](/assets/images/posts/goods-2023/horupo.webp){ :width="75%" .align-center }
+
+## 電気毛布
+
+## Weraレンチ
+
+![](/assets/images/posts/goods-2023/wera.webp){ :width="75%" .align-center }
+
+## Loupedeck Live
+
+![](/assets/images/posts/goods-2023/loupedeck.webp){ :width="75%" .align-center }
+
+## CFe
+
+![](/assets/images/posts/goods-2023/cfe.webp){ :width="75%" .align-center }
+
+## かりまー
+
+
+## OSMO Pocket3
+
+![](/assets/images/posts/goods-2023/osmopocket3.webp){ :width="75%" .align-center }
+
+## KeepLink
+
+## 50/1.4
+
+
