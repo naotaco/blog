@@ -1,0 +1,284 @@
+---
+layout: single
+title: kumano
+date: 2024-01-11 22:27:13 +09:00
+categories: 旅行 写真 三重 和歌山
+header:
+  image: /assets/images/posts/20230105_kumano/kumano-header.webp
+---
+
+熊野古道を（すこしだけ）歩いてきた話。
+
+## ～新宮
+
+2024年初頭、家族で伊勢に行き、なんやかんやあってその後1日空くことになったので熊野に行ってきた次第。
+
+前夜は伊勢市に泊まっていたので、とりあえず日の出前の始発で二見浦に行ってきた。気温はそこまで低くなかったが風は強い。岩に当たって砕ける波を見つめるあまり葛飾北斎になっていた。
+
+[![早朝、朝焼けの時間の海の写真。海にはいくつかの大きな岩があり、そのうち1つのうえに鳥居がある。またその岩と隣の岩との間にしめ縄が渡してある。](/assets/images/posts/20230105_kumano/kumano-00.webp){:width="80%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-00.webp)
+
+その後あれやこれやがあり、松阪まで戻る。松坂駅は「まつさか」と読むのだな。[松阪牛も「まつさかうし」あるいは「まつさかぎゅう」と読むのが正しい](https://www.city.matsusaka.mie.jp/site/matsusakaushi/question.html)らしい。全く知らなかった。
+
+[![ホームに入ってくる電車の写真。HC85系。](/assets/images/posts/20230105_kumano/kumano-1.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-1.webp)
+
+特急南紀で熊野市へ向かうべく待っていたのだが、30分以上遅れてやってきた。これで熊野市へ。HC85系はこないだひだにも乗ったので目新しさはない（最近投入されたばかりだが）。きれいで快適（ではあるが電車の偉大さもまた逆に感じるところだ）。
+
+[![](/assets/images/posts/20230105_kumano/kumano-5.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-5.webp)
+
+松阪駅で買っておいた駅弁を食べる。蓋を開けると音楽が鳴るという異常な仕様で有名な弁当である。味はうまい。
+
+[![弁当の写真。電車のテーブルの上に牛丼弁当的な弁当が乗っている。](/assets/images/posts/20230105_kumano/kumano-9.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-9.webp)
+
+
+本宮（後述）に行くのに熊野市駅に泊まる意味はあまりなく、新宮駅の近くに宿をとっておくべきだったのだが、直前に予定を組み替えた関係で熊野市駅近くのホテルに泊まることになった。翌朝は早いうえにたくさん（当社比）歩くので、ビールを飲んでさっさと寝る。
+
+[![机上の缶ビールの写真。熊野古道麦酒と書いてある。](/assets/images/posts/20230105_kumano/kumano-12.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-12.webp)
+
+始発の次くらいの電車（電車ではない）で新宮へ向かう。
+
+[![駅舎の写真。閑散とした駅前ロータリーがあり、熊野市駅と書いてある。](/assets/images/posts/20230105_kumano/kumano-13.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-13.webp)
+
+新宮までの道のりはほぼ海沿いで、海の向こうから日が昇るすばらしい景色が見えた。そんな絶景を背にしながら地元の中高生がスマホに熱中している。ですよね。
+
+[![朝日に照らされる列車の写真。ワンマン 新宮 と書いてある。](/assets/images/posts/20230105_kumano/kumano-18.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-18.webp)
+
+30分ほどで新宮に到着。
+
+[![駅舎の写真。新宮駅とある。](/assets/images/posts/20230105_kumano/kumano-19.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-19.webp)
+
+バスまで30分ほどあるので、なんとなくだらだらして時間をつぶす。駅前にはコンビニ1軒以外、何もない。バスには1時間少々乗る＆歩き始めるまで買い出しができないので、水と食料を買い込んでおいた。
+
+[![駅前のガイドマップの写真。新宮市が広いことがわかる。](/assets/images/posts/20230105_kumano/kumano-20.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-20.webp)
+
+新宮市、広いな？
+
+## 新宮～発心門王子
+
+----
+
+ここで熊野古道のどこを歩くのかの説明をしておく。
+
+熊野古道というのは熊野三山や高野山に行くための参詣道の総称？であり、アホみたいに長いうえ、何本もある。ざっくり紀伊半島をぐるっと海沿いになぞる道（紀伊路・伊勢道・大辺路）と、紀伊半島の真ん中にある熊野本宮大社に向かって海沿いから伸びる中辺路、熊野本宮から北の高野山に至る小辺路
+
+![紀伊半島の地図](/assets/images/posts/20230105_kumano/map_sankeimichi.png){:width="40%" .align-center}
+
+（画像は[熊野本宮観光協会のページ](https://www.hongu.jp/kumanokodo/)から引用）
+
+熊野三山という3つの神社のうち最も偉いっぽい（バカの感覚）のが熊野本宮大社で、場所的にも一番山奥にある。とりあえずここに行くのがよかろう、そしてその近くを歩こう、と考えた次第。
+
+本宮から中辺路を西に向かって発心門王子（ほっしんもんおうじ）[^1]とまでの道は歩きやすくて初心者にお勧めとのことだったのでこの間を歩くことに。だいたい7.5kmで、2～3時間の道のり。
+
+ちょうど新宮から本宮へのバスが着いた直後に本宮から発心門王子のバスが出るので、新宮からバスを乗り継いで一気に発心門王子まで行って、そこから歩いて本宮まで戻ってくる計画にした。
+
+----
+
+さて、新宮から本宮へのバスは何社かあるのだが、ちょうどよい時間のものは奈良交通のものであった。新宮発、大和八木駅行きである。
+
+[![バス乗り場の写真。大和八木駅・熊野本宮大社方面 とある](/assets/images/posts/20230105_kumano/kumano-21.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-21.webp)
+
+土地勘がないのでよくわかっていなかったが、大和八木というのは奈良県の中央より北であり、伊勢や堺と同じくらいの緯度だった。この路線は終点まで6時間ほどかかり、高速道路を使わないバスとしては日本最長とのことで、その筋では有名らしい。この路線を最初の1時間少々乗って本宮まで向かうことになる。
+
+[![](/assets/images/posts/20230105_kumano/kumano-23.webp){:width="70%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-23.webp)
+
+バスは熊野川の右岸を上っていく。本宮まではほとんどこの川沿いなので、右側に座るとよい。
+
+[![](/assets/images/posts/20230105_kumano/kumano-24.webp){:width="70%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-24.webp)
+
+途中落石があり一部迂回路を通るので5分ほど遅れる旨のアナウンスがあったが、3分遅れくらいで本宮に到着。時刻表通りにバスが運行するのに驚いたが、まあ他に車が全然いないので、そういうものなのかもしれない。発心門王子行きのバスまで10分くらいしかなかったが、バス停の場所も全く同じだったので何の問題もなく乗り換えられた（なんならトイレに行く時間もあった）。
+
+[![](/assets/images/posts/20230105_kumano/kumano-25.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-25.webp)
+
+龍神バスで発心門王子へ。15分くらい。交通系ICカードの使える奈良交通と異なり、龍神バスは現金オンリーである。少なくとも1000円札は用意しておきましょう。
+
+[![](/assets/images/posts/20230105_kumano/kumano-26.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-26.webp)
+
+
+----
+
+ここで今回の装備について（全体的に山をナメた格好しか用意がない）。
+
+靴はいつものローカットのトレッキングシューズ。特に問題はなかったが、靴に小石が入ったりするし、若干不安もあったので足首が隠れるくらいの靴にしておけばよかったという気持ちがある。一足買おうかなあ。
+
+リュックはこないだ買ったカリマーのデイパック（32L）。割とデカくてひももしっかりしており、一応腰のベルトもあるので重くてもけっこういける。これに2泊分の荷物とカメラ2台を押し込んだ。荷物でパンパンになってもシルエットがあまり崩れない、というか後ろに膨らまないのは登山用品の系譜を感じる。
+
+[![](/assets/images/posts/20230105_kumano/kumano-45.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-45.webp)
+
+ビビって買ったモンベルの熊鈴がかわいい。歩くとチリンチリン鳴る。ちなみに道中出会った数十人のうちで鈴を付けていたのは私ともう一人（修験者のようなひと）しかいなかったのだが、普通に熊が出るらしいのであった方がよいのでは、と思った。冬なのに出るのかよ、寝ててくれ頼むから。
+
+[![](/assets/images/posts/20230105_kumano/kumano-60.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-60.webp)
+
+一応手袋は持っていったが寒くなかったので使わなかった。服は汗をかいてもよいようにミレーのメッシュのアレを着た（精一杯のアウトドア装備）。
+
+カメラはどうしても広角が欲しかったので24-70に加えて14-24の2台体制とした。前者にはPLフィルタを装備してあるので、嘘くさいくらいに緑が鮮やかに撮れた。代償として撮影のたびにフィルタをくるくるまわすのでえらい時間がかかる。一人でなければできない行為といえる。1台はPeakDesign Capture Clipでリュックのひもに、もう1台はポーチに入れて腰に下げた歩いた。さすがにぶらぶら動く状態では歩きたくなかったので。
+
+----
+
+
+## 発心門王子～熊野本宮大社
+
+発心門王子までいくと、熊野参詣道（くまのさんけい”みち”と読む） 中辺路 は世界遺産であると堂々たる石碑が教えてくれる。どこにいっても世界遺産にはユネスコ印の石碑があり、それぞれ無駄にかっこいい気がする。
+
+[![](/assets/images/posts/20230105_kumano/kumano-27.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-27.webp)
+
+発心門王子。
+
+[![](/assets/images/posts/20230105_kumano/kumano-29.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-29.webp)
+
+発心門王子から、西に向かう道の入り口には木の鳥居がある。ここはくぐらず引き返し、本宮を目指す。
+
+[![](/assets/images/posts/20230105_kumano/kumano-31.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-31.webp)
+
+最初は舗装路が続く。田舎のじーちゃんちの裏山（空想上の存在）を歩いているくらいの感じ。道の両側には杉の木が並んでいる。
+
+[![](/assets/images/posts/20230105_kumano/kumano-33.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-33.webp)
+
+熊野古道ではない道があると、そこには”NOT KUMANOKODO”と書いてあり親切。
+
+[![](/assets/images/posts/20230105_kumano/kumano-32.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-32.webp)
+
+水呑王子の近くには謎の廃墟がある。自然の中に一人きりというのは慣れているので割と平気なのだが、廃墟は怖い。
+
+[![](/assets/images/posts/20230105_kumano/kumano-36.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-36.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-37.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-37.webp)
+
+舗装路はここまで。ここからは普通の山道になる。石畳もあるが、だいたいは普通（？）の土の道。
+
+[![](/assets/images/posts/20230105_kumano/kumano-38.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-38.webp)
+
+お地蔵さんも寒そう（？）
+
+
+[![](/assets/images/posts/20230105_kumano/kumano-44.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-44.webp)
+
+そこら中に立っているやつ。
+
+[![](/assets/images/posts/20230105_kumano/kumano-49.webp){:width="40%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-49.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-50.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-50.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-51.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-51.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-52.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-52.webp)
+
+無限に杉林なのかと思いきや、多少植生が違うところもある。シダっぽいやつ。
+
+[![](/assets/images/posts/20230105_kumano/kumano-53.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-53.webp)
+
+三軒茶屋のあたりで、小辺路への分かれ道がある。78km先に高野山があるそうで。お、おう。
+
+[![](/assets/images/posts/20230105_kumano/kumano-54.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-54.webp)
+
+
+[![](/assets/images/posts/20230105_kumano/kumano-55.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-55.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-56.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-56.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-57.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-57.webp)
+
+景色というか雰囲気がよいので退屈しない。しょっちゅう立ち止まって写真を撮っていた。発心門王子からは概ね下り坂なので、写真写りがよい上り坂を撮るためには振り返らないといけない。しょっちゅう振り返ってうしろを見ながら歩く変な人になっていた。
+
+[![](/assets/images/posts/20230105_kumano/kumano-58.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-58.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-59.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-59.webp)
+
+
+[![](/assets/images/posts/20230105_kumano/kumano-61.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-61.webp)
+
+途中展望台の案内があるので寄ってみた。
+
+[![](/assets/images/posts/20230105_kumano/kumano-62.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-62.webp)
+
+大斎原（本宮近くの河原。昔本宮があったところらしい）にあるクソデカ鳥居（鉄筋コンクリート製で、日本最大だそう）が見える。
+
+[![](/assets/images/posts/20230105_kumano/kumano-63.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-63.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-64.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-64.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-65.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-65.webp)
+
+
+[![](/assets/images/posts/20230105_kumano/kumano-70.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-70.webp)
+
+さらに歩いていくと住宅街の裏みたいなところに出る。数分歩くと熊野本宮である。
+
+## 熊野本宮大社
+
+[![](/assets/images/posts/20230105_kumano/kumano-74.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-74.webp)
+
+熊野古道を2時間少々歩いて多少なりとも厳かな気持ちで熊野本宮大社に入ったのだが、こちらは裏口というか、正面の参道ではなく本堂の横合いから入る感じになる。いきなり初詣客で賑わう神社に突入してしまい、人里に出てきた熊みたいな気持ちになった。えっみなさん歩いてこられてないんですか？？？（熊野古道歩いてきたマウント）
+
+[![](/assets/images/posts/20230105_kumano/kumano-75.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-75.webp)
+
+神門内の撮影は可能ではあるが、投稿はNG。個人的にはバランスの取れたルールだと感じる。まあ、公式ホームページには載ってるんだけど。
+
+[![](/assets/images/posts/20230105_kumano/kumano-77.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-77.webp)
+
+本殿はまあまあな階段を上った上にあり、みんなそれなりに疲れていた。
+
+[![](/assets/images/posts/20230105_kumano/kumano-80.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-80.webp)
+
+
+[![](/assets/images/posts/20230105_kumano/kumano-81.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-81.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-83.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-83.webp)
+
+通りにあった寿司屋に入って昼食。天丼がうまい。天丼なのに衣がサクサクした状態で、それぞれの揚げ具合も絶妙。丁寧に作られている……。
+
+[![](/assets/images/posts/20230105_kumano/kumano-84.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-84.webp)
+
+## 月見が丘神社へ
+
+予定ではもう帰るだけなのだが、バスの時間まで1時間半以上あったので別のコース（大日越）を少し歩いて戻ってくることにした。30分ほどのところに月見が丘神社というところがあるので、そこを目標に歩く。
+
+[![](/assets/images/posts/20230105_kumano/kumano-86.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-86.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-87.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-87.webp)
+
+発心門王子から本宮まではゆるやかな下り坂で、大変なところは全くなかった。一方こちらはかなりハードな上りで、ひたすら階段を上っている感覚に近い。
+
+[![](/assets/images/posts/20230105_kumano/kumano-89.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-89.webp)
+
+近いというか普通に階段である。
+
+[![](/assets/images/posts/20230105_kumano/kumano-91.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-91.webp)
+
+石段はまだよくて、木の根で出来た階段みたいなところがきつい。
+
+[![](/assets/images/posts/20230105_kumano/kumano-93.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-93.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-95.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-95.webp)
+
+[![](/assets/images/posts/20230105_kumano/kumano-96.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-96.webp)
+
+気合いで登って到着。
+
+[![](/assets/images/posts/20230105_kumano/kumano-97.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-97.webp)
+
+少し休憩してすぐ戻る。下りも急なのでけっこうたいへん。順調に戻ったので軽く土産物を買いつつのんびりバスを待つことができた。お土産は名前で買った熊野三山。
+
+[![](/assets/images/posts/20230105_kumano/kumano-109.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-109.webp)
+
+## 熊野速玉大社
+
+帰りのバスも50分くらいかかる長丁場なのでのんびり寝ていたが、終点近くで外国の旅行者がバスを降りようとしていた。見ると熊野速玉大社前のバス停だった。そういえば帰りの特急まで相当時間があることを思い出したので、一緒に下りて熊野速玉大社を見に行くことにした。
+
+[![](/assets/images/posts/20230105_kumano/kumano-103.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-103.webp)
+
+これで熊野三山のうち2カ所にお参りしたことになるので御利益も2倍だろう（知らんが）。
+
+[![](/assets/images/posts/20230105_kumano/kumano-105.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-105.webp)
+
+石、速玉大社にもある。
+
+[![](/assets/images/posts/20230105_kumano/kumano-106.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-106.webp)
+
+速玉大社のあとは新宮城跡をちょっと見に行ってみた。小高い丘になっており、崩れた石段を登っていくと見晴らしがよい。人気のない東屋では地元の高校生らしきカップルが語らっており、思いっきり邪魔をしてしまった。申し訳ない。
+
+うどんを食ったりしつつ、特急南紀に乗って帰る。おつかれさまでした。
+
+[![](/assets/images/posts/20230105_kumano/kumano-108.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-108.webp)
+
+
+
+[^1]: 熊野古道では随所にある社のことを王子と呼ぶらしい
