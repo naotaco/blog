@@ -1,6 +1,6 @@
 ---
 layout: single
-title: kumano
+title: 熊野に行ってきた
 date: 2024-01-11 22:27:13 +09:00
 categories: 旅行 写真 三重 和歌山
 header:
@@ -122,7 +122,7 @@ header:
 
 発心門王子。
 
-[![](/assets/images/posts/20230105_kumano/kumano-29.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-29.webp)
+[![](/assets/images/posts/20230105_kumano/kumano-29.webp){:width="70%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-29.webp)
 
 発心門王子から、西に向かう道の入り口には木の鳥居がある。ここはくぐらず引き返し、本宮を目指す。
 
@@ -258,6 +258,12 @@ header:
 少し休憩してすぐ戻る。下りも急なのでけっこうたいへん。順調に戻ったので軽く土産物を買いつつのんびりバスを待つことができた。お土産は名前で買った熊野三山。
 
 [![](/assets/images/posts/20230105_kumano/kumano-109.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/kumano-109.webp)
+
+行程をYAMAPで記録してみた。
+
+[![](/assets/images/posts/20230105_kumano/yamap-ss.webp){:width="50%" .align-center} ](/assets/images/posts/20230105_kumano/yamap-ss.webp)
+
+10.5kmくらい歩いていたらしい。その割にはあまり疲れなかった（慢心）。
 
 ## 熊野速玉大社
 
