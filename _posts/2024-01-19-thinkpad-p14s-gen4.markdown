@@ -33,7 +33,7 @@ CPUは上位の7840Uを選択。それでも1280Pよりはコア数が少ない�
 
 X13 Gen3の時にも書いたが、最近のX1以外のThinkPadはマジで安っぽい。P14sもご多分に漏れずプラスチック感が溢れる仕上がりである。少なくとも昔のX60とかの天板は品位がすごくよかったと思うのだが。ということで質感を比べるとX1 Carbonとは比較にならない。キーボードも相変わらず他メーカーよりマシな水準であるとはいえ薄くて感触が良いとは言えない。しかし、そのようなことは基本的な性能の前では全て些事に過ぎない。
 
-とりあえず初期設定とWindows Updateだけして、SSD交換に入る。が、その前に元から着いていたSSDのベンチマークだけしておくことにする。あとからわかるがWDのSN740であった。
+とりあえず初期設定とWindows Updateだけして、SSD交換に入る。が、その前に元からついていたSSDのベンチマークだけしておくことにする。あとからわかるがWDのSN740であった。
 
 [![CrystalDiskMarkのスクリーンショット。おおむねRead 4000MB/s, Write 2000MB/s という数字が読める。](/assets/images/posts/thinkpad_p14s/crystaldiskmark_thinkpad_p14s_with_default_ssd.webp){:width="60%" .align-center} ](/assets/images/posts/thinkpad_p14s/crystaldiskmark_thinkpad_p14s_with_default_ssd.webp)
 
