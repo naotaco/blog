@@ -1,0 +1,16 @@
+---
+layout: single
+title: 車を買った
+date: 2024-05-02 23:55:02 +09:00
+categories: 車 買った
+header:
+  image: /assets/images/posts/impreza/impreza-2.webp
+---
+
+買った。
+
+
+
+![湖岸に停めてある車の写真。白いインプレッサスポーツ。背景には湖と対岸の山が見える。](/assets/images/posts/impreza/impreza-1.webp){:width="70%" .align-center}
+
+
