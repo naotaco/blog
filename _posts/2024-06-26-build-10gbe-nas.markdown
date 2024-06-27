@@ -17,7 +17,7 @@ header:
 
 この状況を図にするとこのようになる。
 
-![](/assets/images/posts/10gbe-nas/diagram-before.png){:width="90%" .align-center}
+![](/assets/images/posts/10gbe-nas/diagram-before.png){:width="95%" .align-center}
 
 主なワークフローとしては、Lightroomで画像をSDカードからHDDにコピーしてインポートし、現像したJPEGファイルをOneDriveに出力して保存するような感じ。動画の場合もLightroomでコピーして、DaVinci Resolveで編集、出力先は同じくOneDriveとしている。
 
@@ -63,11 +63,14 @@ SSDキャッシュの動作はReadのみか、Read&Writeを選ぶことができ
 
 ![](/assets/images/posts/10gbe-nas/10gbe-nas-4.webp){:width="70%" .align-center}
 
-![](/assets/images/posts/10gbe-nas/diagram-after.png){:width="90%" .align-center}
+![](/assets/images/posts/10gbe-nas/diagram-after.png){:width="95%" .align-center}
 
 ![](/assets/images/posts/10gbe-nas/cdm_ds1621.png){:width="70%" .align-center}
 
 ![](/assets/images/posts/10gbe-nas/cdm_sn850.png){:width="70%" .align-center}
+
+![](/assets/images/posts/10gbe-nas/cdm_mn07aca14t.png){:width="70%" .align-center}
+
 
 
 
