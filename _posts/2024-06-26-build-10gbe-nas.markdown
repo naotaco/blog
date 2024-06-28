@@ -17,7 +17,7 @@ Windowsシステムや比較的小さくランダムアクセスが必要なデ�
 
 この状況を図にするとこのようになる。
 
-![](/assets/images/posts/10gbe-nas/diagram-before.png){:width="95%" .align-center}
+![ストレージ構成の図。Windows PCに14TBのHDDが内蔵されている](/assets/images/posts/10gbe-nas/diagram-before.png){:width="95%" .align-center}
 
 主なワークフローとしては、Lightroomで画像をSDカードからHDDにコピーしてインポートし、現像したJPEGファイルをOneDriveに出力して保存するような感じ。動画の場合もLightroomでコピーして、DaVinci Resolveで編集、出力先は同じくOneDriveとしている。元のでかいファイルはHDD, 編集して出力した小さいファイルはOneDriveという形だ。
 
@@ -51,7 +51,7 @@ SSDキャッシュの動作はReadのみか、Read&Writeを選ぶことができ
 メモリも変更できる。速度にどのくらい寄与するのかというと大いに疑問ではあるが、メモリ帯域がないのは首がないのと同じなので[^1]デュアルチャンネルにはしておきたい。ECCのSO-DIMM DDR4なら普通に使える？ようなので、適当に8GBのECCメモリを2枚買った。2枚で12000円程度。悲しいかな元から入っていた4GBはゴミ箱行きである。後から管理画面を見ると余り（13GB）が全部Cachedと書いてあるので、OSレベルのファイルキャッシュに使われてはいるらしい。ランダムアクセスに効きそうな感じもするので、そこそこ積んでおいてよかったかもしれない。
 
 
-![](/assets/images/posts/10gbe-nas/10gbe-nas-1.webp){:width="70%" .align-center}
+![NASの箱の上にHDD, SSD, メモリが積んであるようすの写真](/assets/images/posts/10gbe-nas/10gbe-nas-1.webp){:width="70%" .align-center}
 
 メモリ、HDD、SSDは普通に説明を読みながら装着するだけである。ほとんどベアボーンPCの趣。
 
@@ -61,7 +61,7 @@ SSDキャッシュの動作はReadのみか、Read&Writeを選ぶことができ
 
 NAS, PCの間を10GbEでつなぐにあたり、NICが2つ（NAS用、PC用）、スイッチが1つあればよい。NICは鉄板という噂のMellanox[^2]のConnectX-3が[AliExpress](https://ja.aliexpress.com/item/1005005048034487.html)でやたら安く買えるので、これを2枚調達した。`MCX311A-XCAT`がSFP+用とのこと。
 
-![](/assets/images/posts/10gbe-nas/10gbe-nas-2.webp){:width="70%" .align-center}
+![机上のNICの写真](/assets/images/posts/10gbe-nas/10gbe-nas-2.webp){:width="70%" .align-center}
 
 2枚で1万円以下なのだが、どう見ても新品だしなんでこんなに安いのかよくわからない。Made in Israelという文字が頼もしいような気もするが昨今なんとも申し上げづらい。
 
@@ -71,7 +71,7 @@ NAS, PCの間を10GbEでつなぐにあたり、NICが2つ（NAS用、PC用）�
 
 2枚ともファームウェアを`2.42.5000`にアップデートして、PCとDS1621+にそれぞれ装着する。PCI-E x4なので、PCにもx4対応スロットが必要である。レーン数に注意。x1だと帯域が足りないからね、しょうがないね。NAS側はロープロファイルのブラケットに付け替える必要あり。
 
-![](/assets/images/posts/10gbe-nas/10gbe-nas-3.webp){:width="70%" .align-center}
+![NASにNICを差した様子の写真。拡張ボードが見える。](/assets/images/posts/10gbe-nas/10gbe-nas-3.webp){:width="70%" .align-center}
 
 （Reddit情報通りではあるが）なんと何もしなくても差すだけでNAS側はちゃんと認識し（LAN5として表示される）10GbEが使えるようになる。LANごとにIPアドレスが違うので、LAN5のアドレスをちゃんと選んで接続することが重要（？）かもしれない。
 
@@ -91,7 +91,7 @@ NAS, PCの間を10GbEでつなぐにあたり、NICが2つ（NAS用、PC用）�
 
 ということで完成。
 
-![](/assets/images/posts/10gbe-nas/10gbe-nas-4.webp){:width="70%" .align-center}
+![棚にNASが置いてある様子の写真。正面から撮ってあり、光るLEDが複数見える](/assets/images/posts/10gbe-nas/10gbe-nas-4.webp){:width="70%" .align-center}
 
 堂々たる偉容。例の「ママ、どうしておうちにサーバーがあるの？」待ったなしである。
 
@@ -99,21 +99,21 @@ NAS, PCの間を10GbEでつなぐにあたり、NICが2つ（NAS用、PC用）�
 
 結果、構成はこのようになった[^3]。
 
-![](/assets/images/posts/10gbe-nas/diagram-after.png){:width="95%" .align-center}
+![ネットワーク構成の図。NASとPCが10GbEで接続されている](/assets/images/posts/10gbe-nas/diagram-after.png){:width="95%" .align-center}
 
 できたNASをネットワークドライブに割り当てる。ネットワークドライブは一部アプリから表示されないことがあるので、[この設定](https://hobby-life.kanato9796.com/post-21284/)をすると参照できるようになる。
 
 早速CrystalDiskMarkを実行した結果がこちら。
 
-![](/assets/images/posts/10gbe-nas/cdm_ds1621.png){:width="70%" .align-center}
+![CrystalDiskMark実行結果のスクリーンショット。シーケンシャル読み書きが1100MB/sを超えているのと、最も細かいランダム4Kでも50MB/s以上の読み書き速度が出ている](/assets/images/posts/10gbe-nas/cdm_ds1621.png){:width="70%" .align-center}
 
 速い速すぎる。参考に、買い換えたシステムのSSD（SN850）の結果がこちら。
 
-![](/assets/images/posts/10gbe-nas/cdm_sn850.png){:width="70%" .align-center}
+![CrystalDiskMark実行結果のスクリーンショット。シーケンシャル読み書きが7000MB/sあり、非常に高速](/assets/images/posts/10gbe-nas/cdm_sn850.png){:width="70%" .align-center}
 
 そしてかつて使っていた使用率99.5%を越えている14TBのHDDの結果がこちら。
 
-![](/assets/images/posts/10gbe-nas/cdm_mn07aca14t.png){:width="70%" .align-center}
+![CrystalDiskMark実行結果のスクリーンショット。シーケンシャル読み書きが120MB/s台、最も細かいものだと1MB/s程度の値](/assets/images/posts/10gbe-nas/cdm_mn07aca14t.png){:width="70%" .align-center}
 
 空き容量がほとんどない青息吐息のHDDと比較すると圧倒的と言ってよいほどのパフォーマンスが出ている。シーケンシャルアクセスは10GbEを使い切っているし、細かいアクセスはNVMe SSDに近い速度が出ている。当然NASの方がレイテンシは大きいのだろうが、HDDよりは遙かにSSD寄りのパフォーマンスが実現できているといえるだろう。
 
